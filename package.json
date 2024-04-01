@@ -1,7 +1,7 @@
 {
     "name": "dante-astro-theme",
     "type": "module",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "scripts": {
         "dev": "astro dev",
         "start": "astro dev",
@@ -14,7 +14,11 @@
         "@astrojs/rss": "^4.0.5",
         "@astrojs/sitemap": "^3.1.2",
         "@astrojs/tailwind": "^5.1.0",
-        "astro": "^4.5.0",
+        "@braindb/core": "^0.0.9",
+        "@portaljs/remark-wiki-link": "^1.1.2",
+        "@stereobooster/remark-wiki-link": "^2.1.0",
+        "astro": "^4.5.12",
+        "github-slugger": "^2.0.0",
         "marked": "^12.0.1",
         "tailwindcss": "^3.4.3"
     },
