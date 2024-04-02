@@ -22,7 +22,7 @@ const groupedHeadings = headings.reduce((array, heading) => {
 }, [] as HeadingWithSubheadings[]);
 ---
 
-{groupedHeadings.length > 0 && (
+{groupedHeadings.length > 1 && (
   <nav id="table-of-contents" aria-label="Table Of Contents" class="">
     <h2>Spis treści</h2>
     <ol>

@@ -3,6 +3,7 @@ import { type CollectionEntry, getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ProjectPreview from '../../components/ProjectPreview.astro';
 import { sortItemsByDateDesc } from '../../utils/data-utils';
+import TableOfContents from '../../components/TableOfContents.astro';
 
 export async function getStaticPaths() {
     const projects = (await getCollection('projects')).sort(sortItemsByDateDesc);
@@ -21,7 +22,7 @@ type Props = { project: CollectionEntry<'projects'>; prevProject: CollectionEntr
 
 const { project, prevProject, nextProject } = Astro.props;
 const { title, description, seo } = project.data;
-const { Content } = await project.render();
+const { Content, headings } = await project.render();
 ---
 
 <BaseLayout title={seo?.title ?? title} description={seo?.description ?? description} image={seo?.image} pageType="article" showHeader={false}>
@@ -30,6 +31,9 @@ const { Content } = await project.render();
             <h1 class="text-3xl leading-tight font-serif font-medium sm:text-5xl sm:leading-tight">{title}</h1>
         </header>
         <div class="max-w-none prose prose-dante sm:prose-lg">
+
+            <TableOfContents headings={headings} />
+
             <Content />
         </div>
     </article>

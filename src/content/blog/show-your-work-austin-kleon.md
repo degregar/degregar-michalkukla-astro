@@ -1,6 +1,6 @@
 ---
 created: 2024-03-25T09:11:00
-updated: 2024-04-02T10:02
+updated: 2024-04-02T11:58
 title: Show Your Work! by Austin Kleon
 tags:
   - książka

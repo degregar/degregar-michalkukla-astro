@@ -1,13 +1,12 @@
 ---
 title: SlowTracker
 description: Aplikacja dedykowana mindful living i osobistemu rozwojowi poprzez śledzenie codziennych osiągnięć.
-publishDate: 2024-03-13
 seo:
   image:
     src: /project-1.jpg
     alt: Project preview
-created: 2024-04-01T14:42
-updated: 2024-04-02T09:56
+created: 2024-02-08T14:42:00
+updated: 2024-04-02T14:40
 isFeatured: true
 ---
 

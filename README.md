@@ -22,6 +22,16 @@ If I want to link to a tag I should use `[[#tag|Tag]]`.
 
 I keep images in the same directory as the note, and I use relative paths to link them.
 
+### Images
+
+Use this approach: https://docs.astro.build/en/guides/images/#images-in-markdown-files
+It works both in Obsidian and in Astro.
+
+## Deploy
+
+```bash
+npm run build && npx firebase deploy --only hosting
+```
 
 ## Theme: Dante - Astro & Tailwind CSS Theme by justgoodui.com
 

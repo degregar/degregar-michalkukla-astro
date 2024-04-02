@@ -25,6 +25,29 @@ const portfolio = page.data;
     showHeader={false}
 >
     <h1 class="mb-12 text-2xl leading-tight font-serif italic sm:mb-16 sm:text-4xl">Projekty</h1>
+
+    <section class="prose mb-16">
+        <p>
+            Przez całe moje życie nazbierałem mnóstwo doświadczeń z wprowadzania własnych projektów i produktów w życie. Postanowiłem podzielić się moimi historiami, przekonaniami, które powodowały, że podejmowałem takie, a nie inne decyzje, przyczynami niepowodzeń i lekcjami, jakie z tych niepowodzeń wyciągnąłem. To będzie historia moich wszystkich projektów, startupów, przedsięwzięć i pomysłów na biznes.
+        </p>
+        <p>
+            No dobra, nie wszystkich. Było tego zdecydowanie za dużo. Tak dużo, że moja żona po moim kolejnym „Mam pomysł!”, zatykała uszy i śpiewała „lalala”. Później wystarczyło jej zobaczyć błysk w moich oczach by zadecydować: „Nie!”
+        </p>
+        <p>
+            Cykl życia niektórych z tych projektów zaczynał się i kończył w ciągu minut. Niektóre trwały dłużej. Niektóre trwały dużo dłużej. Dużo, dużo dłużej. Zdecydowanie zbyt długo. I to jedna z trudnych lekcji, jakich się nauczyłem w ciągu całej mojej dotychczasowej kariery. Prawdopodobnie to jedna z najważniejszych lekcji, której w dodatku nie przyswoiłem jeszcze jak należy. Ale dojdziemy do tego 🙂
+        </p>
+        <p>
+            Zacznę więc od początku. Może uda mi się nakreślić tło. W teście Gallupa wyszło mi, że jestem mocny w Context (może dorzucę tu kiedyś link do listy wszystkich moich mocnych stron, wyników testów osobowości, jakie robiłem i po co i co sądzę o tych wszystkich testach).
+        </p>
+        <p>
+            Będę starał się więc zawrzeć wystarczająco kontekstu, żebyś mógł wyciągnąć z tego swoje wnioski.
+        </p>
+        <p>
+            A więc lecim!
+        </p>
+    </section>
+
+
     {portfolio.map((project) => <ProjectPreview project={project} class="mb-10 sm:mb-12" />)}
     <Pagination page={page} class="my-16 sm:my-24" />
 </BaseLayout>
