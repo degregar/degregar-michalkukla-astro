@@ -1,6 +1,6 @@
 ---
 created: 2023-04-02T10:08:00
-updated: 2024-04-02T10:26
+updated: 2024-04-02T18:19
 title: Polecane książki
 aliases:
   - Polecane książki
@@ -12,7 +12,7 @@ Książki, to moje główne źródło, z których czerpię inspirację, wiedzę 
 
 **Przed snem** staram się nie czytać inspirujących książek. Raczej historie, przygodowe, niebiznesowe, niepsychologiczne, nierozwojowe (np. książki Londona, Curwooda, Wajraka). Najlepiej coś, co jest podzielone na krótkie rozdziały. Staram się czytać raczej papierowe, żeby nie świecić sobie niebieskim światłem po oczach tuż przed snem. W miarę się to udaje.
 
-**W biurze** czytam rzadko, bo wtedy raczej siedzę przy kompie. Zdarza mi się czytać jednak po poobiedniej medytacji. Wtedy najchętniej czytam coś, co chcę, żeby dobrze mi zapadło w pamięć. Będzie więc w tej kategorii wszystko o mindsecie (np. _[[czego-najbardziej-zaluja-umierajacy-bonnie-ware|Czego najbardziej żałują umierający]]_) albo ważnych umiejętnościach (np. _[[porozumienie-bez-przemocy|Porozumienie Bez Przemocy]]_).
+**W biurze** czytam rzadko, bo wtedy raczej siedzę przy kompie. Zdarza mi się czytać jednak po poobiedniej medytacji. Wtedy najchętniej czytam coś, co chcę, żeby dobrze mi zapadło w pamięć. Będzie więc w tej kategorii wszystko o mindsecie (np. _[[czego-najbardziej-zaluja-umierajacy-bronnie-ware|Czego najbardziej żałują umierający]]_) albo ważnych umiejętnościach (np. _[[porozumienie-bez-przemocy|Porozumienie Bez Przemocy]]_).
 
 W międzyczasie czytam wszystko inne, głównie te, których nie czytam przed snem 🙂
 
@@ -24,7 +24,7 @@ Podanie 5 najważniejszych tytułów to dla mnie dość trudne zadanie, ale post
     Przede wszystkim nawyk pierwszy, czyli proaktywność. To pozwoliło mi wziąć odpowiedzialność za swoje życie i nie pozwalać losowi sobą miotać.
 2. _Porozumienie Bez Przemocy_ – Rosenberg  
     Ta książka pokazała mi, że pokój na świecie zaczyna się od nas samych, a komunikacja z innymi wymaga zrozumienia siebie i swoich potrzeb w pierwszej kolejności.
-3. [[czego-najbardziej-zaluja-umierajacy-bonnie-ware|Czego najbardziej żałują umierający - Bonnie Ware]]  
+3. [[czego-najbardziej-zaluja-umierajacy-bronnie-ware|Czego najbardziej żałują umierający - Bonnie Ware]]  
     Dzięki tej książce rzuciłem toksyczną pracę.
 4. _Esencjalista_, Greg McKeown  
     Ta, oraz _Jedna Rzecz_, to były książki, którymi karmiłem się w kółko, aby zacząć pracować nad najważniejszymi dla mnie sprawami.
@@ -78,7 +78,7 @@ To lista książek w kolejności, w jakiej je skończyłem. Wiele z nich czytał
 - _Introduction to Tantra_ – Lama Yeshe (sie’23)
 - _Człowiek w poszukiwaniu sensu_ – Victor E. Frankl (maj’23)
 - _Bądź Sobą, autentyczność jest w cenie_ – Mike Robbins (maj’23)
-- [[czego-najbardziej-zaluja-umierajacy-bonnie-ware|Czego najbardziej żałują umierający - Bonnie Ware]] (kwi’23)
+- [[czego-najbardziej-zaluja-umierajacy-bronnie-ware|Czego najbardziej żałują umierający - Bonnie Ware]] (kwi’23)
 
 ## Odkrycie wartości i misji
 
@@ -87,7 +87,7 @@ To lista książek w kolejności, w jakiej je skończyłem. Wiele z nich czytał
 3. _7 nawyków skutecznego działania_, Steven Covey
 4. _Najpierw rzeczy najważniejsze_ – Steven Covey
 5. _Ósmy nawyk_ – Steven Covey
-6. [[czego-najbardziej-zaluja-umierajacy-bonnie-ware|Czego najbardziej żałują umierający - Bonnie Ware]]
+6. [[czego-najbardziej-zaluja-umierajacy-bronnie-ware|Czego najbardziej żałują umierający - Bonnie Ware]]
 7. _Porozumienie bez przemocy_, Marshall B. Rosenberg
 8. [[show-your-work-austin-kleon|Show Your Work! - Austin Kleon]]
 
@@ -113,10 +113,10 @@ To lista książek w kolejności, w jakiej je skończyłem. Wiele z nich czytał
 
 ## Testowanie pomysłów biznesowych
 
-- [[lean-startup-eric-ries|Lean Startup (polski tytuł "Metoda Lean Startup") – Eric Ries]]
-- [[the-four-steps-to-epiphany|The Four Steps to Epiphany – Steve Blank]]
-- [[will-it-fly-pat-flynn|Will It Fly (polski tytuł "Gotowi na start") – Pat Flynn]]
-- [[the-right-it-alberto-savoia|The Right It – Alberto Savoia]]
+- [[walidacja-pomyslow-biznesowych-4-ksiazki#2-lean-startup--eric-ries|Lean Startup (polski tytuł "Metoda Lean Startup") – Eric Ries]]
+- [[walidacja-pomyslow-biznesowych-4-ksiazki#1-the-four-steps-to-epiphany--steve-blank|The Four Steps to Epiphany – Steve Blank]]
+- [[walidacja-pomyslow-biznesowych-4-ksiazki#3-will-it-fly--patt-flynn|Will It Fly (polski tytuł "Gotowi na start") – Pat Flynn]]
+- [[walidacja-pomyslow-biznesowych-4-ksiazki#4-the-right-it--alberto-savoia|The Right It – Alberto Savoia]]
 
 ## Inne
 
