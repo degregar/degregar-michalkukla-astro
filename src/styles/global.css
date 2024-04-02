@@ -16,6 +16,7 @@
         --color-border-main: 242 240 236; /* #F2F1EC */
     }
 
+
     /* Cyan */
     /*
     :root {
@@ -47,4 +48,13 @@
         --color-border-main: 243 239 230;
     }
     */
+}
+
+
+.prose a {
+    @apply text-orange-900;
+}
+
+.dark .prose a {
+    @apply text-orange-300;
 }
