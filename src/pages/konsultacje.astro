@@ -1,0 +1,48 @@
+---
+import type { GetStaticPathsOptions, Page } from 'astro';
+import { type CollectionEntry, getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Pagination from '../components/Pagination.astro';
+import ProjectPreview from '../components/ProjectPreview.astro';
+import siteConfig from '../data/site-config';
+
+type Props = { page: Page<CollectionEntry<'projects'>> };
+
+const { page } = Astro.props;
+---
+
+<BaseLayout
+    title="Portfolio"
+    description="Explore a diverse portfolio showcasing my passion and expertise"
+    showHeader={false}
+>
+    <h1 class="mb-12 text-2xl leading-tight font-serif italic sm:mb-16 sm:text-4xl">Konsultacje</h1>
+
+    <section class="prose">
+        <h2 class="wp-block-heading">Potrzebujesz indywidualnego wsparcia?</h2>
+
+        <p>Jestem technologicznym i biznesowym generalistą, czyli ekspertem od integracji i łącznie wielu różnych dziedzin w praktycznych zastosowaniach.</p>
+
+        <h3 class="wp-block-heading">Dlaczego warto skorzystać z konsultacji?</h3>
+
+        <ol>
+            <li><strong>Świeże spojrzenie i neutralność</strong>: Spojrzę z boku na problem bez uprzedzeń związanych z działalnością firmy.</li>
+
+            <li><strong>Interdyscyplinarna wiedza</strong>: Łączę różne dziedziny i metody w celu znalezienia innowacyjnych rozwiązań.</li>
+
+            <li><strong>Umiejętność integracji</strong>: Łączę różnorodne podejścia i techniki w celu stworzenia spójnych strategii.</li>
+
+            <li><strong>Doświadczenie z innych projektów</strong>: Wniosę wartościowe wskazówki i najlepsze praktyki z poprzednich doświadczeń.</li>
+
+            <li><strong>Zarządzanie zmianą</strong>: Przeprowadzę Ciebie oraz Twoją firmę przez zmianę, skupiając się na aspektach ludzkich i kulturowych.</li>
+        </ol>
+
+        <p>👉 <strong>Umów się na bezpłatne 30-minutowe konsultacje</strong> przez <a href="https://calendly.com/michal-kukla/30min">Calendly</a>.</p>
+
+        <p>Potrzebujesz więcej czasu lub regularnych spotkań?</p>
+
+        <p>👉 <a href="https://app.easycart.pl/checkout/24365475/konsultacje">Zamów konsultacje</a></p>
+    </section>
+
+
+</BaseLayout>

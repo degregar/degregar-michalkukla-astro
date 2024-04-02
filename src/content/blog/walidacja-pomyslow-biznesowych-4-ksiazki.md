@@ -1,6 +1,6 @@
 ---
-created: 2024-04-02T18:14
-updated: 2024-04-02T18:16
+created: 2023-04-12T18:14:00
+updated: 2024-04-02T18:48
 title: 4 książki o walidacji pomysłów biznesowych i odkrywaniu prawdziwych potrzeb klientów
 isFeatured: true
 ---

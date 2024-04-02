@@ -1,6 +1,6 @@
 ---
-created: 2024-04-02T18:09
-updated: 2024-04-02T18:12
+created: 2023-10-25T18:09:00
+updated: 2024-04-02T18:51
 seo:
   image:
     src: /blog/pochwala-powolnosci-carl-honore.png
