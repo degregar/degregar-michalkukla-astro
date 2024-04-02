@@ -51,6 +51,17 @@ export default defineConfig({
                 ]
               };
             } else {
+              if (slug.startsWith('#')) {
+                const tagUrl = `/tags/${slug.slice(1)}`;
+                return {
+                  hName: 'a',
+                  hProperties: {
+                    href: tagUrl
+                  },
+                  hChildren: [{ type: 'text', value: alias || slug }]
+                };
+              }
+
               return {
                 hName: 'span',
                 hProperties: {
@@ -64,5 +75,8 @@ export default defineConfig({
         }
       ]
     ]
+  },
+  redirects: {
+    '/feed': '/rss.xml'
   }
 });
