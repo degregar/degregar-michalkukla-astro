@@ -7,6 +7,7 @@ import PostPreview from '../../components/PostPreview.astro';
 import Subscribe from '../../components/Subscribe.astro';
 import { sortItemsByDateDesc } from '../../utils/data-utils';
 import { slugify } from '../../utils/common-utils';
+import TableOfContents from '../../components/TableOfContents.astro';
 
 export async function getStaticPaths() {
     const posts = (await getCollection('blog')).sort(sortItemsByDateDesc);
@@ -25,8 +26,8 @@ type Props = { post: CollectionEntry<'blog'>; prevPost: CollectionEntry<'blog'>;
 
 const { href } = Astro.url;
 const { post, prevPost, nextPost } = Astro.props;
-const { title, publishDate, updatedDate, excerpt, tags = [], seo } = post.data;
-const { Content } = await post.render();
+const { title, created, updated, excerpt, tags = [], seo } = post.data;
+const { Content, headings } = await post.render();
 ---
 
 <BaseLayout title={seo?.title ?? title} description={seo?.description ?? excerpt} image={seo?.image} pageType="article" showHeader={false}>
@@ -34,13 +35,13 @@ const { Content } = await post.render();
         <header class="mb-8">
             <h1 class="text-3xl leading-tight font-serif font-medium sm:text-5xl sm:leading-tight">{title}</h1>
             <div class="mt-4 text-sm">
-                <FormattedDate date={publishDate} />
+                <FormattedDate date={created} />
                 {
-                    updatedDate && (
+                    updated && (
                         <>
                             {' '}
                             <span>
-                                (Updated on <FormattedDate date={updatedDate} />)
+                                (zaktualizowane <FormattedDate date={updated} />)
                             </span>
                         </>
                     )
@@ -48,6 +49,16 @@ const { Content } = await post.render();
             </div>
         </header>
         <div class="max-w-none prose prose-dante sm:prose-lg">
+            {tags.includes("1-sukces-dziennie") && (
+                <div class="mb-8 p-4 border-l-4 border-orange-500 bg-orange-50 dark:bg-orange-950 text-orange-950 dark:text-orange-50">
+                    <p class="font-bold">To jest wpis z serii <i><a href="/projects/1-sukces-dziennie">1 sukces dziennie</a></i>.</p>
+                    <p>W tej serii publikuję codziennie jeden sukces, który osiągnąłem poprzedniego dnia. To praktyczna implementacja podejścia z książki <a href="/blog/show-your-work-austin-kleon">Show Your Work!</a></p>
+                    <p>Codziennie zapisuję swoje postępy w <a href="/projects/slowtracker">SlowTracker</a> – aplikacji do zapisywania sukcesów. Następnego dnia rano wybieram jeden lub kilka i tworzę z nich krótki post.</p>
+                </div>
+            )}
+
+            <TableOfContents headings={headings} />
+
             <Content />
         </div>
         <div class="mt-8 flex flex-wrap items-center gap-6 text-sm justify-between sm:mt-12 sm:text-base">
@@ -62,7 +73,7 @@ const { Content } = await post.render();
                     </div>
                 )
             }
-            <Button class="copy-url-button" aria-label="Copy link" data-url={href} data-tooltip-default="Copy link" data-tooltip-success="Copied">Share</Button>
+            <Button class="copy-url-button" aria-label="Copy link" data-url={href} data-tooltip-default="Copy link" data-tooltip-success="Skopiowano do schowka">Udostępnij</Button>
         </div>
     </article>
     {
@@ -90,7 +101,7 @@ const { Content } = await post.render();
 
             await navigator.clipboard.writeText(url);
 
-            button.innerText = 'Copied';
+            button.innerText = 'Skopiowano do schowka';
 
             setTimeout(() => {
                 button.innerText = label;
