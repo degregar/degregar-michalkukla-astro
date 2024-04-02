@@ -42,8 +42,8 @@ const siteConfig: SiteConfig = {
   subtitle: 'digital garden',
   description: 'Michał Kukla - digital garden, blog, projects and more.',
   image: {
-    src: '/dante-preview.jpg',
-    alt: 'Dante - Astro.js and Tailwind CSS theme'
+    src: '/lukasz-szmigiel-jFCViYFYcus-unsplash.jpeg',
+    alt: 'Michał Kukla - digital garden, blog, projekty i więcej.'
   },
   headerNavLinks: [
     {
@@ -102,10 +102,10 @@ const siteConfig: SiteConfig = {
   hero: {
     // title: 'Cześć 👋 witam Cię w moim digital garden!',
     text: 'Jestem programistą, przedsiębiorcą, twórcą internetowym i ojcem trójki dzieci. Rozpocząłem ponad 60 projektów biznesowych.\n\nObecnie skupiam się na rozwijaniu <a href="/projects/slowtracker">SlowTracker</a> - aplikacji dedykowanej mindful living i osobistemu rozwojowi poprzez śledzenie codziennych osiągnięć.\n\nMieszkam w Zawoi pod Babią Górą, skąd pracuję zdalnie, tworząc głównie prototypy innowacyjnych narzędzi wspierających produktywność i podejmowanie decyzji.',
-    // image: {
-    //   src: '/hero.jpeg',
-    //   alt: 'A person sitting at a desk in front of a computer'
-    // },
+    image: {
+      src: '/me-happy-green-bg-smaller.jpeg',
+      alt: 'Zdjęcie Michała Kukli'
+    },
     actions: [
       // {
       //   text: 'Get in Touch',
