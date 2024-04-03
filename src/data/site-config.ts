@@ -101,7 +101,7 @@ const siteConfig: SiteConfig = {
   ],
   hero: {
     // title: 'Cześć 👋 witam Cię w moim digital garden!',
-    text: 'Jestem programistą, przedsiębiorcą, twórcą internetowym i ojcem trójki dzieci. Rozpocząłem ponad 60 projektów biznesowych.\n\nObecnie skupiam się na rozwijaniu <a href="/projects/slowtracker">SlowTracker</a> - aplikacji dedykowanej mindful living i osobistemu rozwojowi poprzez śledzenie codziennych osiągnięć.\n\nMieszkam w Zawoi pod Babią Górą, skąd pracuję zdalnie, tworząc głównie prototypy innowacyjnych narzędzi wspierających produktywność i podejmowanie decyzji.',
+    text: 'Jestem programistą, przedsiębiorcą, twórcą internetowym i ojcem trójki dzieci. Piszę na tematy związane z technologią, biznesem, psychologią oraz filozofią, zwłaszcza slow life. Rozpocząłem ponad 60 projektów biznesowych.\n\nObecnie skupiam się na rozwijaniu <a href="/projects/slowtracker">SlowTracker</a> - aplikacji dedykowanej mindful living i osobistemu rozwojowi poprzez śledzenie codziennych osiągnięć.\n\nMieszkam w Zawoi pod Babią Górą, skąd pracuję zdalnie, tworząc głównie prototypy innowacyjnych narzędzi wspierających produktywność i podejmowanie decyzji.',
     image: {
       src: '/me-happy-green-bg-smaller.jpeg',
       alt: 'Zdjęcie Michała Kukli'
