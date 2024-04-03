@@ -22,6 +22,11 @@ const tags = getAllTags(posts).sort((tagA, tagB) => {
     {
         tags.map((tag) => {
             const postCount = getPostsByTag(posts, tag.slug).length;
+
+            if (postCount < 2) {
+                return null;
+            }
+
             return (
                 <a class="mb-10 flex justify-between items-start gap-8 group sm:mb-12" href={`/tags/${tag.slug}`}>
                     <div class="grow">
