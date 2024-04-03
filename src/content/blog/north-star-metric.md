@@ -1,6 +1,6 @@
 ---
 created: 2024-01-02T19:29:00
-updated: 2024-04-02T19:32
+updated: 2024-04-03T08:17
 title: North Star Metric – kluczowy wskaźnik sukcesu w strategii start-upów i firm technologicznych
 tags:
   - biznes
@@ -9,8 +9,11 @@ tags:
   
 ![](./north-star-metric.jpeg)
 
-North Star Metric, to pojedynczy, kluczowy wskaźnik sukcesu, który firmy technologiczne i start-upy wykorzystują do kierowania strategią i operacjami. Jest to miara, która najlepiej odzwierciedla wartość dostarczaną przez firmę swoim klientom, koncentrując się na tym, co jest najważniejsze dla długoterminowego wzrostu i sukcesu. NSM służy jako kompas, wskazując kierunek dla wszystkich działań w firmie – od rozwoju produktu, przez marketing, aż po wsparcie klienta.
+## Czym jest North Star Metric?
 
+North Star Metric (NSM), to pojedynczy, kluczowy wskaźnik sukcesu, który firmy technologiczne i start-upy wykorzystują do kierowania strategią i operacjami. Jest to miara, która najlepiej odzwierciedla wartość dostarczaną przez firmę swoim klientom, koncentrując się na tym, co jest najważniejsze dla długoterminowego wzrostu i sukcesu. NSM służy jako kompas, wskazując kierunek dla wszystkich działań w firmie – od rozwoju produktu, przez marketing, aż po wsparcie klienta.
+
+Uwaga! Ten tekst został wygenerowany w całości przez GPT. Sprowadziłem moją rolę do promptowania i pobieżnej redakcji tekstu. Niemniej uważam, że niesie wartość informacyjną i może zainspirować do wypracowania tej ważnej metryki. Ostatecznie użyte prompty opracowałem na bazie moich własnych pytań, które nurtowały mnie podczas formułowania NSM dla mojego projektu [[microskills|MicroSkills]].
 #### Dlaczego NSM jest ważny dla firm technologicznych i start-upów
 
 W dynamicznie zmieniającym się świecie technologii, gdzie start-upy często walczą o przetrwanie i wzrost, kluczowe jest posiadanie jasno określonego celu, który napędza każdą decyzję i działanie. NSM spełnia właśnie taką rolę, pomagając organizacjom skupić się na tym, co naprawdę ma znaczenie. Oto kilka powodów, dla których NSM jest tak ważny:

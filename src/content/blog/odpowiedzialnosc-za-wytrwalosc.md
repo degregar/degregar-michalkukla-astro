@@ -1,10 +1,10 @@
 ---
 created: 2023-03-14T18:28:00
-updated: 2024-04-02T19:07
+updated: 2024-04-03T08:23
 tags:
   - wytrwałość
-  - eseje
   - slow-life
+  - esej
 title: Odpowiedzialność za wytrwałość
 ---
 Czytam właśnie świetną książkę Marshalla Rosenberga zatytułowaną _[[porozumienie-bez-przemocy|Porozumienie bez przemocy]]_

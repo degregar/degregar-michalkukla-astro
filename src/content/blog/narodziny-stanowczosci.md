@@ -1,12 +1,12 @@
 ---
 created: 2023-07-01T19:22:00
-updated: 2024-04-02T19:36
+updated: 2024-04-03T11:08
 title: Narodziny stanowczości
 tags:
   - psychologia
   - autoterapia
-  - eseje
   - introwertyzm
+  - esej
 isFeatured: true
 ---
 ![Zdjęcie lwa w czarno-białych barwach](./narodziny-stanowczosci.jpeg)

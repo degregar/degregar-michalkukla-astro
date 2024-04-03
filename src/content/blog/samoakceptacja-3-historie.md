@@ -1,18 +1,18 @@
 ---
 created: 2023-06-01T19:19:00
-updated: 2024-04-02T19:21
+updated: 2024-04-03T08:25
 tags:
   - pasja
   - psychologia
   - introwertyzm
   - slow-life
+  - esej
 title: Samoakceptacja – 3 historie
 ---
-Dzisiaj mam dla Ciebie 3 historie.
-
+Dzisiaj mam dla Ciebie 3 historie o samoakceptacji.
 ### Historia z Dannym
 
-Korzystam z systemu do wysyłki maili ConvertKit. Ta firma kieruje swoją komunikację do twórców. Zbierają na blogu historie swoich klientów, a potem wysyłają zajawki mailem. Tak trafiłem na Danny’ego.
+Korzystam z systemu do wysyłki maili ConvertKit. Ta firma kieruje swoją komunikację do twórców. Zbierają na blogu historie swoich klientów, a potem wysyłają zajawki mailem. Tak trafiłem na [Danny’ego](https://dannysessays.com/).
 
 Danny to starszy pan mówiący o procesie twórczym, zwłaszcza w kontekście rysunku. W swoim newsletterze wysyła eseje. Spodobał mi się jego łagodny, lekko chropowaty głos oraz humor wpleciony w zwięzłe, życiowe opowieści.
 
@@ -52,7 +52,7 @@ No ale byłem kompletnie niewyspany, przywołałem jedną technikę z mojego kur
 
 Dzień później już byłem bardziej wyspany. Postanowiłem skorzystać z tej społeczności i dopytałem o grupę docelową i pomysły na transformację.
 
-Użyłem Chat GPT do stworzenia ciekawych nagłówków (David Ogilvy style) i napisałem na zamkniętej grupie na FB. Twórca kursu i kilka osób chętnie odpowiedziało na pytania.
+Użyłem Chat GPT do stworzenia ciekawych nagłówków (*David Ogilvy style*) i napisałem na zamkniętej grupie na FB. Twórca kursu i kilka osób chętnie odpowiedziało na pytania.
 
 Nie przejmowałem się, że zostanę posądzony o spam i grałem w otwarte karty. Napisałem też dość obszerny post i obszerne komentarze, licząc na to, że ktoś to jednak w całości przeczyta. I zostałem wysłuchany! Jupiiii!
 
@@ -74,7 +74,7 @@ Czy na łożu śmierci będę żałował tego, że nie byłem na bieżąco ze s
 
 Kiedy, sfrustrowany słabymi wynikami kampanii reklamowej, zacząłem rozważać zawężenie mojej grupy docelowej do introwertyków, szybko znalazłem kilka tropów. Po pierwsze społeczność Introwertykalni, która okazała się ogromna.
 
-Po drugie, dzięki tej społeczności, trafiłem na wystąpienie Susan Cain na konferencji TED. Mówiła o sile introwertyzmu.
+Po drugie, dzięki tej społeczności, trafiłem na wystąpienie [Susan Cain na konferencji TED](https://www.ted.com/talks/susan_cain_the_power_of_introverts?language=en). Mówiła o sile introwertyzmu.
 
 Susan pozwoliła mi lepiej zrozumieć moje zalety i potrzeby i bardziej zaakceptować siebie, jako introwertyka.
 
@@ -88,6 +88,6 @@ Dzięki, Susan!
 
 ### Podsumowanie
 
-Te 3 historie powiązane są zaledwie jednym dniem. Czasem dzieje się wiele w moim życiu, czasem niewiele. Te historie pokazują mi jak bardzo czasem wpadam w moje koleiny myślenia i zapominam, że popełniam błędy i to jest OK. To proces. Droga.
+Te 3 historie powiązane są zaledwie jednym dniem. Czasem dzieje się wiele w moim życiu, czasem niewiele. Te historie pokazują mi jak bardzo nieraz wpadam w moje koleiny myślenia i zapominam, że popełniam błędy i to jest OK. To proces. Droga.
 
 Dla mnie odkrywanie siebie, poznawanie, lepsze zrozumienie, to wartość sama w sobie. Przynosi ulgę i daje nadzieję.
