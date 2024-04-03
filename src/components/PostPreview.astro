@@ -2,12 +2,14 @@
 import { type CollectionEntry } from 'astro:content';
 import ArrowRight from '../icons/ArrowRight.astro';
 import FormattedDate from './FormattedDate.astro';
+import { isDifferentDate } from '../lib/utils';
 
 type Props = { post: CollectionEntry<'blog'>; class?: string; headingLevel?: 'h2' | 'h3' };
 
 const { post, class: className, headingLevel = 'h2' } = Astro.props;
-const { title, created, publishDate, updated, excerpt } = post.data;
+const { title, created, updated, excerpt } = post.data;
 const TitleTag = headingLevel;
+
 ---
 
 <a class:list={['flex justify-between items-start gap-8 group', className]} href={`/blog/${post.slug}/`}>
@@ -18,9 +20,9 @@ const TitleTag = headingLevel;
             {title}
         </TitleTag>
         <div class="mt-1 text-sm leading-normal">
-            <FormattedDate date={created || publishDate} />
+            <FormattedDate date={created} />
             {
-                updated && (
+                updated && isDifferentDate(created, updated) && (
                     <>
                         {' '}
                         <span>

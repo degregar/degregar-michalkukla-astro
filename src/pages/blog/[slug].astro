@@ -8,6 +8,7 @@ import Subscribe from '../../components/Subscribe.astro';
 import { sortItemsByDateDesc } from '../../utils/data-utils';
 import { slugify } from '../../utils/common-utils';
 import TableOfContents from '../../components/TableOfContents.astro';
+import { isDifferentDate } from '../../lib/utils';
 
 export async function getStaticPaths() {
     const posts = (await getCollection('blog')).sort(sortItemsByDateDesc);
@@ -37,7 +38,7 @@ const { Content, headings } = await post.render();
             <div class="mt-4 text-sm">
                 <FormattedDate date={created} />
                 {
-                    updated && (
+                    updated && isDifferentDate(created, updated) && (
                         <>
                             {' '}
                             <span>
