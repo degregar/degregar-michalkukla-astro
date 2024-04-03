@@ -1,6 +1,6 @@
 ---
 created: 2024-04-03T08:21
-updated: 2024-04-03T11:37
+updated: 2024-04-03T11:58
 title: Zakończyłem przenosiny bloga. Markdown rządzi!
 tags:
   - programowanie
@@ -8,6 +8,7 @@ tags:
   - blog
   - markdown
   - 1-sukces-dziennie
+  - astro
 ---
 Poprzednio pisałem o tym [[przenioslem-bloga-na-astro|dlaczego zmieniam technologię bloga]].
 
