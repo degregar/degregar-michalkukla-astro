@@ -5,6 +5,8 @@ import tailwind from '@astrojs/tailwind';
 
 import { wikiLinkPlugin } from '@stereobooster/remark-wiki-link';
 import { bdb } from './src/lib/braindb.mjs';
+import rehypeExternalLinks from 'rehype-external-links';
+
 await bdb.ready();
 
 // https://astro.build/config
@@ -72,6 +74,16 @@ export default defineConfig({
               };
             }
           }
+        }
+      ]
+    ],
+    rehypePlugins: [
+      [
+        rehypeExternalLinks,
+        {
+          content: { type: 'text', value: ' ↗' },
+          target: '_blank',
+          rel: ['noopener', 'noreferrer']
         }
       ]
     ]
