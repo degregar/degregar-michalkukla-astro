@@ -1,0 +1,34 @@
+---
+import { bdb } from "../lib/braindb.mjs";
+import type { CollectionEntry } from "astro:content";
+import {getEntry} from "astro:content"
+import PostPreview from './PostPreview.astro';
+interface Props {
+  entry: CollectionEntry<"docs">;
+}
+const { entry } = Astro.props;
+
+// @ts-ignore
+const doc = await bdb.findDocument(`/${entry.collection}/${entry.id}`);
+console.log(doc.documentsFrom());
+
+const backlinks = await Promise.all(doc.documentsFrom().map(async (backlink) => {
+  // convert '/blog/how-to-master-storytelling-podcast.md' to collection blog and id how-to-master-storytelling-podcast
+  const [collection, id] = backlink.url().split("/").slice(1).join("/").split(".")[0].split("/");
+
+  // @ts-ignore
+  const entry = await getEntry(collection, id);
+
+  return entry;
+}));
+---
+{
+  doc && doc.documentsFrom().length > 0 && (
+  <div class="backlinks">
+    <h2 class="mb-12 text-xl font-serif italic sm:mb-16 sm:text-2xl">Linki przychodzące</h2>
+      {backlinks.map((backlink) => (
+          <PostPreview post={backlink} class="mb-10 sm:mb-12" headingLevel="h3" />
+      ))}
+  </div>
+    )
+}
