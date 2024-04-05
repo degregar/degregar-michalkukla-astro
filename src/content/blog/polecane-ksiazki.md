@@ -1,6 +1,6 @@
 ---
 created: 2023-04-02T10:08:00
-updated: 2024-04-02T18:19
+updated: 2024-04-05T14:57
 title: Polecane książki
 aliases:
   - Polecane książki
@@ -40,12 +40,13 @@ Podanie 5 najważniejszych tytułów to dla mnie dość trudne zadanie, ale post
 - _Rysunek – odkyj talent dzięki prawej półkuli mózgu_ – Betty Edwards
 - _Upór_ – Angela Duckworth
 - _Skuszeni. Jak tworzyć produkty kształtujące nawyki konsumenckie._ – Eyal Nir
-- *Szary Płaszcz* - Marcin Mortka
+- Walt Disney - biografia
 
 ## Ostatnio przeczytałem
 
 To lista książek w kolejności, w jakiej je skończyłem. Wiele z nich czytałem po raz kolejny. Mówią, że lepiej przeczytać jedną dobrą książkę kilka razy niż kilka słabych książek jeden raz. _Esencjalistę_ czytałem na przykład 6 razy i jeszcze chcę do niej wrócić.
 
+- *Szary Płaszcz* - Marcin Mortka (kwi'24)
 - *A propos niczego* - Woody Allen (mar'24)
 - [[show-your-work-austin-kleon|Show Your Work! - Austin Kleon]] (mar’24)
 - _Steve Wozniak. Geniusz Apple_ – Ł. Tomys (mar’24)
