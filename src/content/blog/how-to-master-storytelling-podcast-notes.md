@@ -1,6 +1,6 @@
 ---
 created: 2024-04-03T12:47
-updated: 2024-04-05T08:57
+updated: 2024-04-05T09:44
 url: https://www.youtube.com/watch?v=Z2BnqYArwaw
 tags:
   - storytelling
@@ -34,4 +34,4 @@ Notatki:
 - [[w-tej-rzece-sa-kamienie|To, co napisałem, jest dobre. Jednak w tej rzece są kamienie, które blokują flow. Wystarczy przeredagować.]]
 - [[humor-to-zaskoczenie|Humor to zaskoczenie]]
 
-Film polecony przez [[Michał Parkoła]].
+Film polecił [[Michał Parkoła]].
