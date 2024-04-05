@@ -6,8 +6,10 @@ seo:
     src: /project-1.jpg
     alt: Project preview
 created: 2024-02-08T14:42:00
-updated: 2024-04-02T14:40
+updated: 2024-04-04T16:48
 isFeatured: true
+aliases:
+  - SlowTracker
 ---
 
 SlowTracker to aplikacja dedykowana mindful living i osobistemu rozwojowi poprzez śledzenie codziennych osiągnięć.

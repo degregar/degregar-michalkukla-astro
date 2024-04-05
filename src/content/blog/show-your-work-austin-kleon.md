@@ -1,9 +1,11 @@
 ---
 created: 2024-03-25T09:11:00
-updated: 2024-04-02T11:58
+updated: 2024-04-04T16:35
 title: Show Your Work! by Austin Kleon
 tags:
   - książka
+aliases:
+  - Show Your Work! by Austin Kleon
 ---
 ## Wrażenia
 

@@ -1,6 +1,6 @@
 ---
 created: 2024-04-04T08:11
-updated: 2024-04-04T08:54
+updated: 2024-04-05T08:26
 title: 10 mastermindów za mną
 tags:
   - 1-sukces-dziennie
@@ -11,7 +11,7 @@ Skończyłem mastermind i jestem zadowolony! To już 10te spotkanie, więc najw
 
 Dużo ciekawych i inspirujących rzeczy się pojawiło. Nie było zbyt oficjalnie. Zorganizowałem to spotkanie bardziej na luzie, niż zazwyczaj. Zacząłem od pytania jak przebiegły Święta Wielkanocne, zamiast od razu przejść do rundy. 
 
-Najciekawszy pomysł był taki, aby zrobić osobny landing page dla każdego use case dla mojej aplikacji [[slowtracker|SlowTracker]]. 
+Najciekawszy pomysł był taki, aby zrobić osobny landing page dla każdego [[slowtracker-user-cases|use case]] dla mojej aplikacji [[slowtracker|SlowTracker]]. 
 
 Przykładowe use case:
 - [[work-log|Work log]] - zapisuj osiągnięcia, które potem możesz przedstawić w CV, na rozmowie kwalifikacyjnej albo podczas ocen okresowych.
