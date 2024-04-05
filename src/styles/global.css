@@ -52,9 +52,17 @@
 
 
 .prose a {
+    @apply text-orange-700;
+}
+
+.prose a:visited {
     @apply text-orange-900;
 }
 
 .dark .prose a {
     @apply text-orange-300;
+}
+
+.dark .prose a:visited {
+    @apply text-orange-500;
 }
