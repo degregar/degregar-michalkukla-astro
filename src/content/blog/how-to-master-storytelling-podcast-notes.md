@@ -1,6 +1,6 @@
 ---
 created: 2024-04-03T12:47
-updated: 2024-04-05T09:44
+updated: 2024-04-06T10:25
 url: https://www.youtube.com/watch?v=Z2BnqYArwaw
 tags:
   - storytelling
@@ -19,7 +19,7 @@ Notatki:
 - [[Mając zaufanie mogę pozwolić sobie na dygresje. Nie wcześniej.]]
 - [[hooks-vs-frames-in-storytelling|Hooks vs frames in storytelling]]
 - Nie pisz o logice i argumentach. Pisz o swoich przemyśleniach na jakiś temat poprzez opowiedzenie historii. Pisz co się wydarzy(ło) Twoim zdaniem i jaki to będzie mieć wpływ.
-- Mówi o [[deliberate practice]] w 24. minucie
+- Mówi o [[deliberate-practice]] w 24. minucie
 - [[W filmie każdy bohater staje się kimś dokładnie odwrotnym od tego, kim był na samym początku]].
 - [[W dobrej historii jest 5-sekundowy moment transformacji]].
 - [[Pixar's 22 rules of storytelling]]
