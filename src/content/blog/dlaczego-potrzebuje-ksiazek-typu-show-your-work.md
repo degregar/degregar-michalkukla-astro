@@ -1,6 +1,6 @@
 ---
 created: 2024-03-26T09:06:00
-updated: 2024-04-02T09:19
+updated: 2024-04-06T23:48
 title: Dlaczego potrzebuję książek takich, jak Show Your Work?
 tags:
   - 1-sukces-dziennie
@@ -22,4 +22,4 @@ Podobnie mówi sensei na ju jitsu. Taki trudny fragment można przećwiczyć w 
 
 Szukam więc takiego „fragmentu” tego, co robię, aby go wyizolować i opanować.
 
-Dzisiaj wróciłem do czytania książki _[[Upór]]_ autorstwa Angeli Duckworth. To też książka o pasji.
+Dzisiaj wróciłem do czytania książki _[[upor-angela-duckworth]]_ autorstwa Angeli Duckworth. To też książka o pasji.
