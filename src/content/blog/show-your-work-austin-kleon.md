@@ -1,6 +1,6 @@
 ---
 created: 2024-03-25T09:11:00
-updated: 2024-04-04T16:35
+updated: 2024-04-09T16:09
 title: Show Your Work! by Austin Kleon
 tags:
   - książka
@@ -9,17 +9,19 @@ aliases:
 ---
 ## Wrażenia
 
-Austin Kleon najpierw przekonuje do tego, że warto dzielić się swoją pracą, procesem, a niekoniecznie dopiero rezultatem.
+Na początek ostrzeżenie: książka pozostawia wiele do życzenia. Ma sporo dziur: brakuje wyjaśnień, przykładów, historii sukcesu i ogólnie traktuje temat trochę po macoszemu. Mogłaby (i powinna) być znacznie pogłębiona i mniej chaotyczna. Mimo to jest to najlepsza pozycja (jaką znam), która inspiruje do dzielenia się swoją pracą. (Jeśli znasz lepsze, to podeślij proszę, bo póki co widzę lukę na rynku.)
+
+Austin Kleon najpierw przekonuje do tego, że warto dzielić się postępami, procesem, a niekoniecznie dopiero rezultatem.
 
 > Teaching people doesn’t substract value from what you do, it actually adds to it.
 
-Nie musisz mieć spektakularnych sukcesów na koncie. Nie musisz mieć nawet żadnych sukcesów. Autor daje mnóstwo cennych wskazówek na temat tego co publikować na różnych etapach Twojego projektu. Nawet, jeśli zaczynasz, możesz podzielić się tym, co Cię zainspirowało do rozpoczęcia pracy.
+Nie musisz mieć spektakularnych sukcesów na koncie. Nie musisz mieć nawet żadnych sukcesów. Autor daje wskazówki na temat tego co publikować na różnych etapach Twojego projektu. Nawet, jeśli zaczynasz, możesz podzielić się tym, co Cię zainspirowało do rozpoczęcia pracy.
 
 Książka zawiera wiele inspirujących cytatów. Wszystkich nie dam rady przytoczyć. Musiałbym skopiować znaczną część książki. Warto je sobie zaznaczyć i wrócić do nich raz na czas.
 
-To dobra pozycja dla każdego twórcy internetowego i networkera. Pokazuje szerszy kontekst współzależności. Operuje na poziomie wartości i postawy, a to sprawia, że książka staje się źródłem uniwersalnych porad. I taka właśnie jest.
+To dobra pozycja dla każdego aspirującego twórcy internetowego i networkera. Pokazuje szerszy kontekst współzależności. Operuje na poziomie wartości i postawy, a to sprawia, że książka staje się źródłem uniwersalnych porad.
 
-Choć niektóre fragmenty mogły być pogłębione i lepiej wyjaśnione, to nadal inspiruje. Pomaga ułożyć w głowie podejście do rozwoju, współpracy i wzajemnego szacunku.
+Choć niektóre fragmenty mogły być znacznie bardziej pogłębione, to nadal inspiruje. Pomaga ułożyć w głowie podejście do rozwoju, współpracy i wzajemnego szacunku.
 
 ## Luźne notatki
 
@@ -52,3 +54,4 @@ Zobacz też:
 - [[Pasja]]
 - [[If you want fans, you have to be a fan first]]
 - [[Nikt nie chce ujawniać wielogodzinnego procesu stawania się.]]
+- [[upor-angela-duckworth|Upór, Angela Duckworth]]
