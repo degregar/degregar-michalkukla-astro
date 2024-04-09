@@ -1,6 +1,6 @@
 ---
 created: 2024-04-08T08:31
-updated: 2024-04-08T12:33
+updated: 2024-04-08T14:34
 title: "Udostępnianie sukcesów w SlowTracker: rozterki UXowe"
 aliases:
   - "Udostępnianie sukcesów w SlowTracker: rozterki UXowe"
@@ -18,4 +18,4 @@ W modalu chciałbym też ostatecznie wstawić linki do social media, aby ułatwi
 
 Ponadto, po wejściu na udostępniony link widać tylko pojedynczy sukces. Nie ma żadnej akcji do wykonania. Nie można wejść na profil użytkownika, który opublikował ten wpis. Nie można sukcesu polubić, skomentować ani udostępnić dalej.
 
-Dylemat brzmi: wypuścić tak, jak jest, czy jednak popracować nad publicznym profilem i/lub udostępnianiem na social media?
+Dylemat brzmi: wypuścić tak, jak jest, czy jednak popracować nad publicznym profilem i/lub udostępnianiem na social media?N

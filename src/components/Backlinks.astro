@@ -10,7 +10,6 @@ const { entry } = Astro.props;
 
 // @ts-ignore
 const doc = await bdb.findDocument(`/${entry.collection}/${entry.id}`);
-console.log(doc.documentsFrom());
 
 const backlinks = await Promise.all(doc.documentsFrom().map(async (backlink) => {
   // convert '/blog/how-to-master-storytelling-podcast.md' to collection blog and id how-to-master-storytelling-podcast
