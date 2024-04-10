@@ -31,7 +31,6 @@ export default defineConfig({
         {
           aliasDivider: '|',
           linkTemplate: ({ slug, alias }) => {
-            console.log(slug, alias);
             let [slugWithoutAnchor, anchor] = slug.split('#');
 
             const prefix = 'astrotest/content/blog/';

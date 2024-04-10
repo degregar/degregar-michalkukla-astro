@@ -28,13 +28,29 @@ export const bdb = new BrainDB({
 bdb.start();
 
 let unresolvedLinksCount = 0;
+const allUnresolvedLinks = {};
+
 bdb.on('*', (action, opts) => {
   if (opts) {
     opts.document.unresolvedLinks().forEach((link) => {
       unresolvedLinksCount++;
-      console.log(`Unresolved link: ${link.from().path()}:${link.line()}:${link.column()}`);
+
+      const doNotDelete_thisIsNeededToResolveLnkProperty = link.from();
+
+      const linkTo = link.lnk.to_slug;
+      if (linkTo) {
+        if (!allUnresolvedLinks[linkTo]) {
+          allUnresolvedLinks[linkTo] = 0;
+        }
+
+        allUnresolvedLinks[linkTo]++;
+      }
     });
   }
 });
 
-console.log('Unresolved links:', unresolvedLinksCount);
+bdb.on('ready', () => {
+  const sortedUnresolvedLinks = Object.entries(allUnresolvedLinks).sort((a, b) => b[1] - a[1]);
+  console.log('Top 10 unresolved links:');
+  console.table(sortedUnresolvedLinks.slice(0, 10).map(([slug, count]) => ({ slug, count })));
+});
