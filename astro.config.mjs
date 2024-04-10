@@ -31,6 +31,7 @@ export default defineConfig({
         {
           aliasDivider: '|',
           linkTemplate: ({ slug, alias }) => {
+            console.log(slug, alias);
             let [slugWithoutAnchor, anchor] = slug.split('#');
 
             const prefix = 'astrotest/content/blog/';
@@ -40,10 +41,11 @@ export default defineConfig({
 
             const doc = bdb.documentsSync({ slug: slugWithoutAnchor })[0];
             if (doc) {
+              const docUrl = doc.url().replace(/\/$/, '');
               return {
                 hName: 'a',
                 hProperties: {
-                  href: anchor ? `${doc.url()}#${anchor}` : doc.url()
+                  href: anchor ? `${docUrl}#${anchor}` : docUrl
                 },
                 hChildren: [
                   {

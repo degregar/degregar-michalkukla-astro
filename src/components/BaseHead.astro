@@ -28,7 +28,7 @@ function formatCanonicalURL(url: string | URL) {
         path.replace(/\/?$/, '');
     }
     // otherwise, canonical URL always has a trailing slash
-    return path.replace(/\/?$/, hasQueryParams ? '' : '/');
+    return path.replace(/\/?$/, hasQueryParams ? '' : '');
 }
 ---
 

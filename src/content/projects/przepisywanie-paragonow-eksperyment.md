@@ -1,11 +1,11 @@
 ---
 created: 2023-04-01T16:47:00
-updated: 2024-04-02T16:51
+updated: 2024-04-10T15:48
 title: Przepisywanie paragonów
 description: Eksperyment biznesowy
 isFeatured: true
 ---
-Wśród historii moich projektów znajdziesz [wpis o e-paragonie](https://kukla.tech/pl/moje-startupy/e-paragon/). Jeśli nie znasz go, to warto do niego wrócić, żeby poznać tło.
+Wśród historii moich projektów znajdziesz [[e-paragon|wpis o e-paragonie]]. Jeśli nie znasz go, to warto do niego wrócić, żeby poznać tło.
 
 ## Follow-up
 
