@@ -1,12 +1,13 @@
 ---
 created: 2024-04-09T08:00
-updated: 2024-04-09T15:55
+updated: 2024-04-10T10:55
 title: Sukces pracoholika
 aliases:
   - Sukces pracoholika
 tags:
   - 1-sukces-dziennie
   - slow-life
+description: Wczoraj odpuściłem sobie pracę. Dlaczego uważam to za sukces?
 ---
 Wczoraj odpuściłem. Słoneczny, ciepły dzień zachęcał do lenistwa. A do tego niedziela wyczerpała mnie fizycznie, więc pracowałem niechętnie i na zupełnym luzie. Trochę w domu, trochę w biurze, trochę w ogrodzie. Czytałem [[upor-angela-duckworth|Upór, Angeli Duckworth]], pisałem, udzielałem się na [LinkedIn](https://www.linkedin.com/in/kukla-michal/).
 
