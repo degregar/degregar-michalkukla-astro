@@ -1,6 +1,6 @@
 ---
 created: 2024-04-03T12:47
-updated: 2024-04-06T10:25
+updated: 2024-04-10T17:52
 url: https://www.youtube.com/watch?v=Z2BnqYArwaw
 tags:
   - storytelling
@@ -9,6 +9,7 @@ tags:
 title: Notatki z podcastu "How to master storytelling?" by Shaan Puri and David Perell
 aliases:
   - How to master storytelling? Podcast by Shaan Puri and David Perell
+description: Bardzo inspirujący podcast, z którego wyniosłem 20 konkretnych notatek o storytellingu, dystrybucji treści oraz kreatywności.
 ---
 Długi (prawie 2 godziny), inspirujący podcast. Obejrzenie z notatkami zajęło mi 5 dni. Rozmowa od razu zaczyna się od świetnej idei: [[Binge bank zmniejsza obawy przed brakiem aktywności pod publikacjami|binge bank]].
 

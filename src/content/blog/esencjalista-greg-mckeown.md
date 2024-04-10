@@ -1,9 +1,10 @@
 ---
 created: 2023-10-03T11:31
-updated: 2024-04-02T18:56
+updated: 2024-04-10T17:50
 title: Esencjalista, Greg McKeown
 tags:
   - książka
+description: Krótkie notatki z książki Grega McKeown, pt. "Esencjalista"
 ---
 Są 3 głęboko zakorzenione przekonania:
 - muszę 

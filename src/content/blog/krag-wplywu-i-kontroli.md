@@ -1,9 +1,16 @@
 ---
 created: 2023-09-01T19:26:00
-updated: 2024-04-02T19:29
+updated: 2024-04-10T21:36
 title: Krąg wpływu i kontroli – sekret skutecznego działania
+description: Odkryj, jak efektywnie zarządzać swoim czasem i energią, skupiając się na tym, co możesz kontrolować, a nie na tym, co nie wpływa na Twoje życie. Dowiedz się, jak rozpoznać i ograniczyć poświęcanie czasu i energii na sprawy, na które nie masz wpływu.
 tags:
   - psychologia
+  - zarzadzanie-czasem
+  - efektywnosc
+  - stephen-covey
+  - nawyki
+  - rozwoj-osobisty
+  - buddyzm
 ---
 ![](./3-kregi.png)
 
@@ -60,4 +67,4 @@ Pomogą Ci **więcej wyciągnąć z tego modelu mentalnego:**
 - W jaki sposób ograniczyć poświęcanie czasu i energii na sprawy z kręgu troski?
 - W jaki sposób rozpoznać myśli o kręgach troski?
 
-Możesz dopisać, że chodzi o model kręgu wpływu i kontroli Stephena Coveya.
+Możesz dopisać, że chodzi o model kręgu wpływu i kontroli [[stephen-covey|Stephena Coveya]].

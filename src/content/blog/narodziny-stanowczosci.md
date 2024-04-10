@@ -1,12 +1,18 @@
 ---
 created: 2023-07-01T19:22:00
-updated: 2024-04-03T11:08
+updated: 2024-04-10T21:37
 title: Narodziny stanowczości
+description: Odkryj, jak rozwijać stanowczość i nauczyć się akceptować swoje granice, korzystając z lekcji z natury i historii ludzkości. Dowiedz się, jak zintegrować swoje emocje i nauczyć się z nich korzystać, a nie unikać.
 tags:
   - psychologia
   - autoterapia
   - introwertyzm
   - esej
+  - akceptacja
+  - stanowczosc
+  - emocje
+  - rozwoj-osobisty
+  - kultura
 isFeatured: true
 ---
 ![Zdjęcie lwa w czarno-białych barwach](./narodziny-stanowczosci.jpeg)

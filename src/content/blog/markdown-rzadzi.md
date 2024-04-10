@@ -1,6 +1,6 @@
 ---
 created: 2024-04-03T08:21
-updated: 2024-04-03T11:58
+updated: 2024-04-10T21:30
 title: Zakończyłem przenosiny bloga. Markdown rządzi!
 tags:
   - programowanie
@@ -9,6 +9,9 @@ tags:
   - markdown
   - 1-sukces-dziennie
   - astro
+  - hosting
+  - firebase
+description: Odkryj, jak przenieść swój blog na nowoczesną platformę Astro, korzystając z elastycznego i wygodnego formatu Markdown. Dowiedz się, jak skonfigurować domenę, podlinkować treści i korzystać z Firebase do hostowania.
 ---
 Poprzednio pisałem o tym [[przenioslem-bloga-na-astro|dlaczego zmieniam technologię bloga]].
 

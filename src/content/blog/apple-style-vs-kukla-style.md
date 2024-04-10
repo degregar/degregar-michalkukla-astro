@@ -1,10 +1,11 @@
 ---
 created: 2023-05-12T18:59:00
-updated: 2024-04-02T19:03
+updated: 2024-04-10T17:31
 title: Apple-style vs Kukla-style
 tags:
   - mvp
   - testowanie-pomysłów-biznesowych
+description: Dowiedz się, jak duże firmy jak Apple balansują między innowacją a lojalnością klientów, i co mniejsze przedsiębiorstwa mogą się nauczyć o dywersyfikacji produktów i słuchaniu rynku.
 ---
 Bartek podesłał mi artykuł [_What I Learned as a Product Designer at Apple_](https://medium.com/@pachecoandrea/what-i-learned-as-a-product-designer-at-apple-35341d9ced8a), który, odniosłem wrażenie, był kontrargumentem dla mojego artykułu o [[do-czego-prowadzi-nietestowanie-pomyslow-biznesowych|konsekwencjach NIETESTOWANIA pomysłów biznesowych]].
 

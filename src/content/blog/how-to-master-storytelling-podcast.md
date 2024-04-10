@@ -1,9 +1,10 @@
 ---
 created: 2024-04-05T08:31
-updated: 2024-04-05T09:41
+updated: 2024-04-10T17:51
 title: 'Skończyłem świetny podcast: "How to master storytelling?"'
 tags:
   - 1-sukces-dziennie
+description: W tej krótkie relacji przedstawiam główny wniosek z prawiedwugodzinnego podcastu "How to master storytelling?"
 ---
 Skończyłem oglądać [[how-to-master-storytelling-podcast-notes|How to master storytelling? Shaan Puri, David Perell]]. Świetny podcast, który polecił mi [Michał Parkoła](https://www.linkedin.com/in/michalparkola/). Prawie dwie godziny, z których wyjąłem 20 notatek na temat storytellingu, humoru i dystrybucji treści.
 

@@ -1,9 +1,10 @@
 ---
 created: 2023-05-23T19:03:00
-updated: 2024-04-02T19:05
+updated: 2024-04-10T17:28
 tags:
   - testowanie-pomysłów-biznesowych
 title: Testowanie pomysłów biznesowych – co to i na co to komu?
+description: Dowiedz się, jak testowanie pomysłów biznesowych może ograniczyć ryzyko i zwiększyć szanse na sukces, wykorzystując eksperymenty do optymalizacji produktu.
 ---
 ## Czym jest testowanie pomysłów biznesowych?
 

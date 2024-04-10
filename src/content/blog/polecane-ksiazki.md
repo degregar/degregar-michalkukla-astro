@@ -1,10 +1,11 @@
 ---
 created: 2023-04-02T10:08:00
-updated: 2024-04-05T14:57
+updated: 2024-04-10T22:07
 title: Polecane książki
 aliases:
   - Polecane książki
 isFeatured: true
+description: Lista książek, które przeczytałem i polecam, a także lista bieżących lektur.
 ---
 ## Wstęp
 
@@ -111,6 +112,7 @@ To lista książek w kolejności, w jakiej je skończyłem. Wiele z nich czytał
 ## Psychologia, emocje
 
 - _Żyj wystarczająco dobrze_ – A. Jucewicz, G. Sroczyński
+- *Ścieżka miłości* - Miguel Ruiz
 
 ## Testowanie pomysłów biznesowych
 

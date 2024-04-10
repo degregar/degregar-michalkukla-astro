@@ -1,8 +1,17 @@
 ---
 created: 2023-02-03T17:00:00
-updated: 2024-04-02T17:17
+updated: 2024-04-10T21:34
 title: Moje startupy
 isFeatured: true
+description: Odkryj, jak wprowadzać własne projekty i produkty w życie, odkrywając historie sukcesów, niepowodzeń i lekcji, które pomogą Ci w przyszłości. Dowiedz się, jak rozwijać własne startupy i jakie są kluczowe aspekty, które powinieneś uwzględnić.
+tags:
+  - startupy
+  - projekty
+  - biznes
+  - pomysl-na-biznes
+  - testowanie-pomysłów-biznesowych
+  - innowacje
+  - kreatywnosc
 ---
 Oto lista moich projektów, pomysłów i biznesów, w porządku mniej więcej chronologicznym. Najciekawsze znajdziesz  na [stronie głównej](https://michalkukla.pl) w sekcji *Projekty*.
 

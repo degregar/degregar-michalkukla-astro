@@ -1,6 +1,6 @@
 ---
 created: 2024-03-29T10:28:00
-updated: 2024-04-02T10:29
+updated: 2024-04-10T22:13
 title: Wniosek po 5 dniach pisania cyklu „1 sukces dziennie”
 aliases:
   - Wniosek po 5 dniach pisania cyklu „1 sukces dziennie”
@@ -8,6 +8,7 @@ tags:
   - 1-sukces-dziennie
   - copywriting
   - storytelling
+description: W tej relacji dzielę się prostą techniką copywritingu, poznaną od eksperta w tej dziedzinie - Darka Puzyrkiewicza
 ---
 Zrozumiałem, że używanie sukcesów jest świetnym sposobem na rozpoczęcie wartościowego, merytorycznego wpisu, za pomocą historii.
 

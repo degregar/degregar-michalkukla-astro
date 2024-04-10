@@ -1,9 +1,15 @@
 ---
 created: 2023-06-21T19:13:00
-updated: 2024-04-02T19:14
+updated: 2024-04-10T21:28
 title: Koła ratunkowe na moją wewnętrzną presję
+description: Odkryj, jak radzić sobie z wewnętrzną presją i znaleźć równowagę w codziennym życiu. Dowiedz się, jak zrozumieć i wykorzystać swoją elastyczność umysłu, aby tworzyć wartościowe treści i projektować swój czas w sposób, który sprzyja kreatywności i samorealizacji.
 tags:
   - slow-life
+  - presja
+  - zarzadzanie-czasem
+  - samorealizacja
+  - buddyzm
+  - elastycznosc
 ---
 W połowie czerwca pojechałem na urlop. Zaplanowaliśmy go trzy miesiące wcześniej, bo trzeba było wykorzystać bon turystyczny, żeby nie przepadł. Musieliśmy jeszcze dopłacić kilka stówek.
 

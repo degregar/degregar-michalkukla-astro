@@ -1,11 +1,12 @@
 ---
 created: 2024-04-04T08:11
-updated: 2024-04-05T08:26
+updated: 2024-04-10T17:27
 title: 10 mastermindów za mną
 tags:
   - 1-sukces-dziennie
   - mastermind
   - networking
+description: Dowiedz się, jak spotkania mastermind mogą zainspirować do nowych pomysłów na rozwój aplikacji i pracy nad własnymi projektami. Odkryj kluczowe wnioski z 10 spotkań.
 ---
 Skończyłem mastermind i jestem zadowolony! To już 10te spotkanie, więc najwidoczniej uczestnicy czerpią z tych spotkań wartość. 
 

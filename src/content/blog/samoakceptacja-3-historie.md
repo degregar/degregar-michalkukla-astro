@@ -1,13 +1,17 @@
 ---
 created: 2023-06-01T19:19:00
-updated: 2024-04-03T08:25
+updated: 2024-04-10T22:08
+title: Samoakceptacja – 3 historie
+description: Odkryj, jak samoakceptacja może przynieść zmiany w twoim życiu. Dowiedz się, jak zrozumieć swoje zalety i słabości, a także jak znaleźć siłę w swojej unikalności.
 tags:
   - pasja
   - psychologia
   - introwertyzm
   - slow-life
   - esej
-title: Samoakceptacja – 3 historie
+  - samorefleksja
+  - uwaznosc
+  - rozwoj-osobisty
 ---
 Dzisiaj mam dla Ciebie 3 historie o samoakceptacji.
 ### Historia z Dannym

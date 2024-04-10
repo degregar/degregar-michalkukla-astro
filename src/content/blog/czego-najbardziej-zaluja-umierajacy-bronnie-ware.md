@@ -1,11 +1,10 @@
 ---
 created: 2023-04-11T10:23
-updated: 2024-04-02T18:04
+updated: 2024-04-10T17:46
 title: Czego najbardziej żałują umierający by Bonnie Ware
-seo:
-  image:
-    src: ./blog/czego-najbardziej-zaluja-umierajacy.jpeg
-    alt: Czego najbardziej żałują umierający by Bronnie Ware
+aliases:
+  - Czego najbardziej żałują umierający - Bronnie Ware
+description: Notatki z książki Bronnie Ware, pt. "Czego najbardziej żałują umierający"
 ---
 ![Czego najbardziej żałują umierający - okładka książki](./czego-najbardziej-zaluja-umierajacy.jpeg)
 

@@ -1,12 +1,15 @@
 ---
 created: 2023-03-21T20:35:00
-updated: 2024-04-02T18:39
+updated: 2024-04-10T21:50
 title: Okiełznać inspirację
+description: Odkryj, jak inspiracja wpływa na codzienne życie i pracę, a także jak znaleźć równowagę między życiem prywatnym a zawodowym. Dowiedz się, jak wywołać i ujarzmić inspirację w środowisku pracy etatowej.
 tags:
   - inspiracja
   - slow-life
   - kreatywność
   - pasja
+  - agile
+  - esej
 ---
 Jest już po 20. Przed godziną, pod wpływem impulsu, opublikowałem krótkie przemyślenie na Facebooku:
 
@@ -124,7 +127,7 @@ Można do tego podejść od jeszcze innej strony i zastanowić się nie CO chc
 
 ## Slow Life a Agile
 
-Slow Life i Agile to dwa ważne dla mnie pojęcia, które wydają się być odległe od siebie, a jednak dostrzegam w nich kilka aspektów, które łączą te dwa podejścia. Przestrzeń do współpracy i komunikacji, autorefleksja i ciągłe doskonalenie, adaptacja i elastyczność, a także dążenie do równowagi.
+Slow Life i [[Agile]] to dwa ważne dla mnie pojęcia, które wydają się być odległe od siebie, a jednak dostrzegam w nich kilka aspektów, które łączą te dwa podejścia. Przestrzeń do współpracy i komunikacji, autorefleksja i ciągłe doskonalenie, adaptacja i elastyczność, a także dążenie do równowagi.
 
 Kultura organizacyjna, która wspiera pracowników w tych obszarach, ma szansę na ujarzmienie energii inspiracji.
 
@@ -136,7 +139,7 @@ Ale do tego jeszcze pewnie wrócimy nie raz i nie dwa.
 
 ## Podsumowanie
 
-Jest taka książka _Przepływ_ autorstwa Mihály Csíkszentmihályi. Nie czytałem, ale słyszałem wiele pozytywnych opinii. Wydaje mi się, że mogłaby rzucić więcej światła na temat wywoływania czy ujarzmienia inspiracji wśród pracowników etatowych.
+Jest taka książka _[[flow-mihaly-csikszentmihalyi|Przepływ]]_ autorstwa Mihály Csíkszentmihályi. Nie czytałem, ale jest powszechnie cytowana w środowiskach naukowych i słyszałem o niej wiele pozytywnych opinii. Wydaje mi się, że mogłaby rzucić więcej światła na temat wywoływania czy ujarzmienia inspiracji wśród pracowników etatowych.
 
 Żeby napisać solidnego posta, uwzględniającego więcej podejść, różne znaczenia inspiracji i korzystania z niej, powinienem najpierw przeczytać tę książkę.
 

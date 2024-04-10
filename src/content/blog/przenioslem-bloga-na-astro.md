@@ -1,12 +1,19 @@
 ---
 created: 2024-04-02T10:33
-updated: 2024-04-02T11:06
-title: Przeniosłem bloga na Astro
+updated: 2024-04-10T22:11
 aliases:
   - Przeniosłem bloga na Astro
+title: Przeniosłem bloga na Astro
+description: Odkryj, jak przenieść bloga z WordPressa na Astro, korzystając z Obsidian jako narzędzia do zarządzania treściami. Poznaj, jak zintegrować te dwa narzędzia, aby ułatwić proces publikacji i zarządzania treściami.
 tags:
   - 1-sukces-dziennie
   - programowanie
+  - relacja
+  - astro
+  - obsidian
+  - blog
+  - digital-garden
+  - ssg
 ---
 TLDR: Ostatnio zaczęło mnie bardzo uwierać synchronizowanie Obsidian z moim blogiem na WordPressie. Postawiłem bloga na [Astro](https://astro.build/), a do tego udało mi się znaleźć sposób na zintegrowanie [Obsidian](https://obsidian.md/), więc mogę publikować w bardzo łatwy sposób treści teraz.
 

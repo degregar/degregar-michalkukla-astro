@@ -1,11 +1,8 @@
 ---
 created: 2023-10-25T18:09:00
-updated: 2024-04-02T18:51
-seo:
-  image:
-    src: /blog/pochwala-powolnosci-carl-honore.png
-    alt: Pochwała powolności - Carl Honore - recenzja książki
+updated: 2024-04-10T21:53
 title: Pochwała Powolności - Carl Honoré
+description: Recenzja książki Carla Honoré pt. "Pochwała Powolności"
 ---
 
 ![Pochwała powolności - Carl Honore - okładka książki](./pochwala-powolnosci-carl-honore.png)

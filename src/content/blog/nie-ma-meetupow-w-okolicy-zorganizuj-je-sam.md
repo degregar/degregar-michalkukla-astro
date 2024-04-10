@@ -1,10 +1,12 @@
 ---
 created: 2024-03-27T09:56:00
-updated: 2024-04-02T09:59
+updated: 2024-04-10T21:43
+title: Nie ma meetupów w okolicy? Zorganizuj je sam.
+description: Jeśli nie możesz lub nie chcesz jeździć na meetupy w dużych ośrodkach miejskich, to pozostaje organizacja własnego. W tej relacji zaczynam organizację jednego.
 tags:
   - 1-sukces-dziennie
   - networking
-title: Nie ma meetupów w okolicy? Zorganizuj je sam.
+  - relacja
 aliases:
   - Nie ma meetupów w okolicy? Zorganizuj je sam.
 ---

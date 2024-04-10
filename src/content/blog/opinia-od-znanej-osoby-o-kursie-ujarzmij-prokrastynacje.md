@@ -1,8 +1,8 @@
 ---
 created: 2024-03-25T14:52:00
-date: 2024-04-01T14:52
-updated: 2024-04-02T09:05
+updated: 2024-04-10T21:52
 title: Opinia od znanej osoby o kursie Ujarzmij Prokrastynację
+description: Opinia od Piotra Müldner-Nieckowskiego o kursie Ujarzmij Prokrastynację
 tags:
   - 1-sukces-dziennie
   - ujarzmij-prokrastynację

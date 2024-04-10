@@ -1,13 +1,14 @@
 ---
 created: 2023-04-27T18:39:00
-updated: 2024-04-02T19:07
+updated: 2024-04-10T21:20
 title: Jak przekształcić swój pomysł na biznes w wartościowy projekt dzięki współpracy z innymi?
+description: Wnioski z pierwszych konsultacji w zakresie testowania pomysłów biznesowych oraz lekcje, jakie wyciągam na temat samej metody prowadzenia konsultacji
 ---
 ## Wstęp
 
 Niedawno udzieliłem pierwszych konsultacji! 🚀💪
 
-Do tej pory nie chciałem, żeby wyszło na jaw, że jestem początkującym konsultantem, bo co to za autorytet. Ale prawda jest taka, że naprawdę dopiero zaczynam prowadzić konsultacje w zakresie testowania pomysłów biznesowych 😅 A do tego chciałbym przetestować podejście build-in-public.
+Do tej pory nie chciałem, żeby wyszło na jaw, że jestem początkującym konsultantem, bo co to za autorytet. Ale prawda jest taka, że naprawdę dopiero zaczynam prowadzić konsultacje w zakresie testowania pomysłów biznesowych 😅 A do tego chciałbym przetestować podejście [[build-in-public]].
 
 To nie jest też do końca tak, że nie mam żadnego doświadczenia. Prowadziłem już konsultacje w różnych obszarach, trochę z rozwoju osobistego, trochę z programowania, trochę z kreowania pomysłów na biznes. Jestem też uczestnikiem szkoły trenerów biznesu.
 

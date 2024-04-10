@@ -1,8 +1,9 @@
 ---
 created: 2023-04-12T18:14:00
-updated: 2024-04-02T18:48
+updated: 2024-04-10T22:14
 title: 4 książki o walidacji pomysłów biznesowych i odkrywaniu prawdziwych potrzeb klientów
 isFeatured: true
+description: Krótki opis i recenzja czterech książek, które uczą w jaki sposób podchodzić do testowania pomysłów biznesowych, odkrywania prawdziwych potrzeb klientów i budowania MVP (Minimum Viable Product).
 ---
 ## Kilka liczb
 Miesięcznie na całym świecie Google odnotowuje 368 tys. wyszukiwań na frazę *business ideas*. Rocznie przybywa 11 tys. książek biznesowych, które mają te biznesy wspierać. Sam rozpoczynałem ponad [[moje-startupy|70 różnych projektów]].

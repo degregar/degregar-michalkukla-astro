@@ -1,11 +1,15 @@
 ---
 created: 2023-06-20T19:09:00
-updated: 2024-04-02T19:12
+updated: 2024-04-10T22:09
 title: Presja – skąd się bierze i jak ją z siebie zdjąć?
+description: Rozważ, jak presja wpływa na nasze życie i jak możemy nauczyć się jej radzić. Odkryj, jak akceptacja siebie i innych może pomóc w zmniejszeniu stresu i poprawie jakości życia.
 tags:
   - slow-life
+  - rozwoj-osobisty
+  - akceptacja
+  - medytacja
+  - presja
 ---
-
 ## Czym jest presja?
 
 Presja to siła wywierana na ciało. Ciśnienie. A może nie jedna, a wiele sił?

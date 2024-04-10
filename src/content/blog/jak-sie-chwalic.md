@@ -1,6 +1,6 @@
 ---
 created: 2024-04-03T15:48
-updated: 2024-04-10T08:03
+updated: 2024-04-10T17:24
 tags:
   - felieton
   - slow-life
@@ -13,6 +13,8 @@ title: Jak się chwalić?
 aliases:
   - Jak się chwalić, czyli idea worklog
   - Jak się chwalić?
+isFeatured: true
+description: Dowiedz się, jak zwiększyć szanse na awans i podwyżkę dzięki prowadzeniu work log.
 ---
 Jeśli chodzi o chwalenie się, to pozwól, że się czymś pochwalę: jestem w tym beznadziejny!
 

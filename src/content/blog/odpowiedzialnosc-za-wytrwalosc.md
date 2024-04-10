@@ -1,11 +1,15 @@
 ---
 created: 2023-03-14T18:28:00
-updated: 2024-04-10T15:24
+updated: 2024-04-10T21:51
 tags:
   - wytrwałość
   - slow-life
   - esej
+  - nawyki
+  - sukces
+  - praca
 title: Odpowiedzialność za wytrwałość
+description: Odkryj, jak wytrwałość wpływa na sukces i jak podejść do niej w rytmie slow life. Dowiedz się, jak zbudować nawyki sukcesu i pokonać przeszkody na drodze do osiągnięcia celów.
 ---
 Czytam właśnie świetną książkę Marshalla Rosenberga zatytułowaną _[[porozumienie-bez-przemocy|Porozumienie bez przemocy]]_.
 

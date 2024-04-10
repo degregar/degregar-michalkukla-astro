@@ -1,7 +1,18 @@
 ---
 created: 2023-05-29T19:06:00
-updated: 2024-04-02T19:09
+updated: 2024-04-10T22:05
 title: Podsumowanie WYZWANIA robienia codziennie NOWYCH rzeczy
+description: Odkryj, jak codzienne podejmowanie nowych wyzwań może przynieść zmiany w twoim życiu. Dowiedz się, jak zbudować nawyki sukcesu i odkryć swoje wartości, poprzez regularne doświadczanie czegoś nowego.
+tags:
+  - codziennie-cos-nowego
+  - wyzwania
+  - nawyki
+  - rozwoj-osobisty
+  - slow-life
+  - uwaznosc
+  - kreatywnosc
+  - odwaga
+  - inspiracja
 ---
 2 tygodnie temu zachęciłem do podjęcia wyzwania robienia codziennie czegoś nowego. Więcej o tym znajdziesz na moim [[vlog|vlogu]]:
 
@@ -13,7 +24,7 @@ Celem było:
 - zdobyć się na wiekszą odwagę,
 - oswoić się z podejmowaniem ryzyka,
 - rozpalić inspirację
-- i być bardziej uważnym na co dzień.
+- i być bardziej [[Uważność|uważnym]] na co dzień.
 
 ## Dlaczego to dla mnie było wyzwaniem?
 
@@ -21,7 +32,7 @@ Myślałem, że nie będzie wyzwaniem, bo jestem w trakcie ogólnie dużych życ
 
 Nie wiedziałem jednak na pewno, nie miałem świadomości ile rzeczy robię nowych, ile nie.
 
-Założenie było takie, że będę publikował relację z tego, żeby zainspirować innych, a zawsze z publicznym procesem wiążą się większe oczekiwania co do siebie i jakiś rodzaj obawy i wyjścia poza strefę komfortu.
+Założenie było takie, że będę publikował relację z tego, żeby zainspirować innych, a zawsze z [[build-in-public|publicznym procesem]] wiążą się większe oczekiwania co do siebie i jakiś rodzaj obawy i wyjścia poza strefę komfortu.
 
 ## Jak to robiłem?
 
@@ -31,7 +42,7 @@ Wrzucałem post do wyróżnionej relacji na IG, dzięki czemu teraz mogę szybk
 
 Nie zawsze chciałem coś opublikować, bo nie wszystko, co robię, jest publiczne. Zwłaszcza jeśli dotyczy innych osób lub czegoś, co potrzebuję sobie jeszcze mocno przepracować, zintegrować ze sobą, zrozumieć co się we mnie dzieje.
 
-Wrzucałem pomysły na bucket list, żebym miał co zrobić w dni, kiedy nowe nie przychodziło samo z siebie.
+Wrzucałem pomysły na *bucket list*, żebym miał co zrobić w dni, kiedy nowe nie przychodziło samo z siebie.
 
 Utworzyłem alarm o 15 codziennie, aby przypominać sobie o wyzwaniu.
 
@@ -39,7 +50,7 @@ Czasem, jak zapomniałem dodać relacji z danego dnia i niczego intencjonalnie n
 
 ## Jakie rzeczy robiłem?
 
-- wychodzenie ze swojej strefy komfortu, jak z gorącymi pytaniami na Toastmasters, bo pozwala mi to wytrenować umiejętności, których chcę się nauczyć
+- wychodzenie ze swojej strefy komfortu, jak z gorącymi pytaniami na [Toastmasters](https://en.wikipedia.org/wiki/Toastmasters_International), bo pozwala mi to wytrenować umiejętności, których chcę się nauczyć
 - doświadczałem nowych rzeczy, jak zjedzenie obiadu z zamkniętymi oczami
 - założyłem koszulkę, której nie ubrałem od czasu kiedy kupiłem ją przed miesiącem
 - wprowadzałem nowe rutyny, np. 2-godzinna siesta
@@ -72,7 +83,7 @@ Okazało się, że nie jest daleko ode mnie i mógłbym się tam wybrać dla o
 
 Takie wyzwanie to lekka niepewność. Spacery po swojej codziennej trasie trwają 20 minut. Nowa trasa zajęła mi ponad godzinę. Ale jakoś nie brakło mi czasu.
 
-Poszedlem raz z corka na lody, zrobilem fotke, wrzucilem relacje, schowalem telefon i cieszylem sie spokojnym czasem sam na sam z corka. Miałem chwilę, żeby sobie po prostu posiedzieć w spokoju i pogawędzić z córką, bez pośpiechu, dając jej 100% uwagi.
+Poszedłem raz z córką na lody, zrobiłem fotkę, wrzuciłem relację, schowałem telefon i cieszyłem się spokojnym czasem sam na sam z moją pocieszną 5-latką. Miałem chwilę, żeby sobie po prostu posiedzieć w spokoju i pogawędzić, bez pośpiechu, dając jej 100% uwagi.
 
 Nowe miejsca wymuszają też większą uwagę. Po naszych codziennych ścieżkach poruszamy się niemal automatycznie, bezrefleksyjnie, nie zwracając uwagi na otoczenie.
 
@@ -88,7 +99,7 @@ I okazało się, że udało się wrócić na czas do domu.
 
 Więc śmielej idę do przodu, próbuję nowych rzeczy, poznaję nowe osoby i płynę z nurtem życia.
 
-To taka trochę walka (albo taniec?) z prokrastynacją. Jak mam się zabrać za trudne albo żmudne zadanie, to czasem wystarczy, że dam sobie 15 minut na zrobienie czegokolwiek i potem już idzie, kończę i mam satysfakcję, że jednak przezwyciężyłem opór i niechęć. I często jednak dało mi jakąś frajdę.
+To taka trochę walka (albo taniec?) z [prokrastynacją](https://ujarzmijprokrastynacje.pl). Jak mam się zabrać za trudne albo żmudne zadanie, to czasem wystarczy, że dam sobie 15 minut na zrobienie czegokolwiek i potem już idzie, kończę i mam satysfakcję, że jednak przezwyciężyłem opór i niechęć. I często jednak dało mi jakąś frajdę.
 
 Podobnie tutaj. To jest impuls do działania, kop w tyłek, mała motywacja, która czasem pozwoliła mi przezwyciężyć jakieś moje rutyny, nawyki, ograniczające myślenie i zrobić coś małego w kierunku życia, jakie chcę prowadzić.
 
@@ -100,7 +111,7 @@ Nie wiem, czy zastąpi mi to ogromne dawki wrażeń raz na czas, ale myślę, �
 
 Duże zobowiązania i zmiany życiowe mogą powodować wewnętrzny opór i obawę. Tutaj mamy coś małego, co nie rozwali nam totalnie życia. A może popchnąć w kierunku pozytywnych zmian.
 
-Czuję, że moje życie może być pełniejsze wrażeń, właśnie na zasadzie dostarczania sobie dzień w dzień trochę ekscytacji, poczucia piękna, trochę przygody i szansy na poznanie nowych osób.
+Czuję, że moje życie może być pełniejsze wrażeń, właśnie na zasadzie dostarczania sobie dzień w dzień trochę ekscytacji, poczucia piękna, trochę [[mini-przygody|przygody]] i szansy na poznanie nowych osób.
 
 Jeśli codziennie robimy coś nowego, to trochę to niweluje uczucie przytłoczenia rutyną, tymi samymi obowiązkami i problemami dnia codziennego.
 
@@ -112,13 +123,13 @@ Po co chcesz zrealizować swoje wielkie marzenie? Czego od niego oczekujesz? Mo�
 
 ## Co mi to wyzwanie dało?
 
-Przemyślenia o systematyczności i wytrwałości. Dowiedziałem sie czegoś o sobie, np. co jest dla mnie istotne i gdzie jest dla mnie granica czegoś nowego. Zobaczyłem jak wiele nowych rzeczy robię i czy to jest dla mnie aż tak ważne.
+Przemyślenia o systematyczności i wytrwałości. Dowiedziałem się czegoś o sobie, np. co jest dla mnie istotne i gdzie jest dla mnie granica czegoś nowego. Zobaczyłem jak wiele nowych rzeczy robię i czy to jest dla mnie aż tak ważne.
 
 Pobudziło mnie to do zastanowienia się, czy nie ważniejsze dla mnie jest jednak bardziej uważne życie, inspiracja i rozumienie swoich emocji niż ekscytacja z powodu robienia nowych rzeczy
 
 Zdobyłem nowe doświadczenia i spojrzałem na swoją pracę też przez ich pryzmat.
 
-Jeszcze jestem przed przeczytaniem książki _Upór_, ale sądze że będę miał po tym wyzwaniu trochę doświadczeń, do których będę mógł się odnieść.
+Jeszcze jestem przed przeczytaniem książki _[[upor-angela-duckworth|Upór]]_, ale sądzę że będę miał po tym wyzwaniu trochę doświadczeń, do których będę mógł się odnieść.
 
 ## Negatywne konsekwencje
 
@@ -132,7 +143,7 @@ Czasem miałem spore problemy na głowie, więc nie w głowie mi było podejmowa
 
 Raczej traktowałem wyzwanie jako zabawę i szansę, niż konieczność i obowiązek.
 
-Czasem robiłem kilka nowych rzeczy w 1 dzień i pojawiała się we mnie obawa, czy jutro będę w stanie wypełnić wyzwanie? Czy nie wystrzelam się z nowych rzeczy?
+Czasem robiłem kilka nowych rzeczy w jeden dzień i pojawiała się we mnie obawa, czy jutro będę w stanie wypełnić wyzwanie? Czy nie wystrzelam się z nowych rzeczy?
 
 Ale większym kłopotem jest nierobienie albo robienie nieświadomie nowych rzeczy a potem narzekanie, że nuda albo nic się nie dzieje. Więc może wolniej i bardziej uważnie, zamiast więcej?
 
@@ -140,14 +151,14 @@ Ale większym kłopotem jest nierobienie albo robienie nieświadomie nowych rzec
 
 Nie udało mi się codziennie zrobić czegoś nowego.
 
-Czasem sa rzeczy ważniejsze, które sprawiają, że wszystko inne blednie przy tym, przestaje mieć jakiekolwiek znaczenie. JAKIEKOLWIEK znacznie.
+Czasem są rzeczy ważniejsze, które sprawiają, że wszystko inne blednie przy tym, przestaje mieć jakiekolwiek znaczenie. JAKIEKOLWIEK znacznie.
 
 Mówię o dużych wydarzeniach, katastrofach albo trzęsieniach ziemi. Takich dosłownych i metaforycznych.
 
 Nie ma sensu zmywać podłogi w łazience, kiedy płonie cały budynek.
 
 To ma być zabawa, coś, co Cię zainspiruje, da Ci szansę na poznanie siebie i pełniejsze życie.  
-Wyzwania mają skupiaą Twoją uwagę na rzeczach, które są związane z wartościami.
+Wyzwania mają skupiać Twoją uwagę na rzeczach, które są związane z wartościami.
 
 Może pojawić się obawa, że się nie uda codziennie przez 7 czy 30 dni robić codziennie coś nowego. A nawet obawa, że jak nie dam rady, to jestem do niczego i nic mi się w życiu nie uda, bo nie panuję nad sobą, swoimi nawykami, itd.
 
@@ -159,7 +170,7 @@ Teraz wiem, że dam radę i mam już swój schemat, swoje rutyny i wiem jak to 
 
 Więc na początek możesz zrobić to dla siebie prywatnie, nie musisz sie tym dzielić ze światem. Choć niewątpliwie to daje dodatkową motywację do działania.
 
-Poza tym, jeśli nie podejmiesz wyzwania, to nie wiesz czego nie wiesz o sobie. Dowiesz się. Jeśli brakuje Ci umiejętności budowania nawyków, to się o tym dowiesz. Jeśli to dla Ciebie ważne, to możesz zacząć grzebać i przeczytać książkę _Atomowe nawyki_ i się nauczysz.
+Poza tym, jeśli nie podejmiesz wyzwania, to nie wiesz czego nie wiesz o sobie. Dowiesz się. Jeśli brakuje Ci umiejętności budowania nawyków, to się o tym dowiesz. Jeśli to dla Ciebie ważne, to możesz zacząć grzebać i przeczytać książkę _[[Atomowe Nawyki, James Clear|Atomowe nawyki]]_ i się nauczysz.
 
 Poznanie siebie to jest dla mnie wartość sama w sobie. Samoświadomość, która pozwala rosnąć.
 
@@ -169,11 +180,11 @@ Możesz zacząć też z krótszym wyzwaniem, np. 3 dni.
 
 Ponadto to może być związane z kontekstem.
 
-Dla mnie czasem wyzwaniem jest, żeby brać leki codziennie przez tydzień, a vloga nagrywam 4x w tygodniu, więc to zależy od kontekstu. To że jesteś słaby w TYM wyzwaniu, to nie znaczy, ze bedziesz słaby w każdej czynności wymagającej systematyczności.
+Dla mnie czasem wyzwaniem jest, żeby brać leki codziennie przez tydzień, a [[vlog|vloga]] nagrywam 4x w tygodniu, więc to zależy od kontekstu. To że jesteś słaby w TYM wyzwaniu, to nie znaczy, że będziesz słaby w każdej czynności wymagającej systematyczności.
 
-Warto być łagodnym dla siebie. Tak jak podczas medytacji nauczyciele buddyjscy mówia, żeby nie być _control freakiem_ (czyli nie próbować wszystkiego kontrolować). Jeśli stracimy koncentrację na oddechu to staramy się łagodnie do niego wrócić. Z wyrozumiałością i spokojem.
+Warto być łagodnym dla siebie. Tak jak podczas medytacji nauczyciele buddyjscy mówią, żeby nie być _control freakiem_ (czyli nie próbować wszystkiego kontrolować). Jeśli stracimy koncentrację na oddechu to staramy się łagodnie do niego wrócić. Z wyrozumiałością i spokojem.
 
-Fajnie jest mieć taki bucket list – lista rzeczy, które chcę zrobić, a których jeszcze nie robiłem. Najlepiej małych rzeczy, takich w wersji tu i teraz. Kto wie, może to urośnie kiedyś do dużych rozmiarów i poprowadzi do realizacji dużego marzenia?
+Fajnie jest mieć taki *bucket list* – lista rzeczy, które chcę zrobić, a których jeszcze nie robiłem. Najlepiej małych rzeczy, takich w wersji tu i teraz. Kto wie, może to urośnie kiedyś do dużych rozmiarów i poprowadzi do realizacji dużego marzenia?
 
 ## Podsumowanie
 
@@ -187,5 +198,4 @@ Ważne: podsumowanie i refleksja. Czy te wyzwania przybliżają Cię do tego, c
 
 Ja sam będę chciał to kontynuować, choć mam w planie kolejne wyzwania, ale o tym opowiem innym razem.
 
-Zobacz też:
-- [[slowtracker]]
+A tymczasem możesz do swoje podjęte wyzwania i rezultaty zapisywać w aplikacji [[slowtracker|SlowTracker]].

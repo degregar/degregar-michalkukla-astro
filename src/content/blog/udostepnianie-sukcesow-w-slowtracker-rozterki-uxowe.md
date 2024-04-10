@@ -1,6 +1,6 @@
 ---
 created: 2024-04-08T08:31
-updated: 2024-04-10T11:34
+updated: 2024-04-10T22:12
 title: "Udostępnianie sukcesów w SlowTracker: rozterki UXowe"
 aliases:
   - "Udostępnianie sukcesów w SlowTracker: rozterki UXowe"
@@ -9,6 +9,7 @@ tags:
   - slowtracker
   - ux
   - mvp
+description: Krótka relacja z wprowadzonych nowych funkcji do aplikacji SlowTracker i rozważania na temat User Experience (UX)
 ---
 Zrobiłem wstępnie udostępnianie winów w [[slowtracker|SlowTracker]]. Jeszcze nie włączyłem tej funkcji. Zastanawiam się nad interfejsem, bo ta jedna funkcja pociąga za sobą kilka innych.
 

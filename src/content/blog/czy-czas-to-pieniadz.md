@@ -1,9 +1,10 @@
 ---
 created: 2023-06-26T19:15:00
-updated: 2024-04-02T19:16
+updated: 2024-04-10T17:48
 title: Czy czas to pieniądz?
 tags:
   - slow-life
+description: Ten artykuł bada wartość czasu jako nieodwracalnego zasobu, podkreślając, że chwile spędzone z bliskimi są bezcenne i niepowtarzalne. Zachęca do przemyśleń o wartościowym wykorzystaniu każdego momentu życia.
 ---
 ![Zegarek na rękę](./czy-czas-to-pieniadz.jpeg)
 

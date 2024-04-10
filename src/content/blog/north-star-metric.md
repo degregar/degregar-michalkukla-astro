@@ -1,10 +1,13 @@
 ---
 created: 2024-01-02T19:29:00
-updated: 2024-04-03T08:17
+updated: 2024-04-10T21:44
 title: North Star Metric – kluczowy wskaźnik sukcesu w strategii start-upów i firm technologicznych
+description: Czym jest North Star Metric? Dlaczego to praktyczna i przydatna metryka dla startupu? Jakie są przykładowe metryki dużych firm i jak skonstruować własną? Praktyczny przewodnik.
 tags:
   - biznes
   - sukces
+  - startupy
+  - dane
 ---
   
 ![](./north-star-metric.jpeg)

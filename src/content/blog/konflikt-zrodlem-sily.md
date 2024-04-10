@@ -1,9 +1,15 @@
 ---
 created: 2023-06-27T19:17:00
-updated: 2024-04-02T19:19
+updated: 2024-04-10T21:32
 title: Jak przeramować konflikt, by stał się źródłem siły?
+description: Odkryj, jak przeramować konflikty w swoim życiu, aby stały się źródłem siły i kreatywności. Dowiedz się, jak zmienić perspektywę i wykorzystać konflikty jako okazję do rozwoju.
 tags:
   - psychologia
+  - esej
+  - kreatywnosc
+  - przeramowanie
+  - rozwoj-osobisty
+  - komunikacja
 ---
 ![Pusta ramka na obraz ścienny](./konflikt-zrodlem-sily.jpeg)
 
@@ -129,6 +135,6 @@ W metaforze tańca osoby, biorące udział w sporze to wykonawcy, a ich celem je
 
 Jeśli zmienia się cel, zmieniają się pojęcia, których używamy do rozmowy o tym pojęciu, to nawet trudno użyć w tej sytuacji słowa _konflikt_ czy _spór_. Zmienia się całe postrzeganie sytuacji. Zmienia się rama.
 
-Przeramowanie, to zmiana ramy. Rama pokazuje sytuację z pewnej lub rzecz z jednej perspektywy, odizolowaną od innych rzeczy, widoczną pod pewnym kątem. Możesz stworzyć swoją własną ramę i używać jej w zależności od potrzeb.
+[[Przeramowanie]] to... zmiana ramy. Rama pokazuje sytuację z pewnej lub rzecz z jednej perspektywy, odizolowaną od innych rzeczy, widoczną pod pewnym kątem. Możesz stworzyć swoją własną ramę i używać jej w zależności od potrzeb.
 
 Konflikty są nieuniknione. To konflikty interesów, czyli potrzeb. Te konflikty objawiają się poprzez emocje. Czy te emocje będą Cię drenować z energii i nakłaniać do unikania przykrych sytuacji, czy zaakceptujesz je, przeramujesz, i staną się źródłem Twojej siły?

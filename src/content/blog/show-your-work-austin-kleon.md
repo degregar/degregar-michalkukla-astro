@@ -1,11 +1,12 @@
 ---
 created: 2024-03-25T09:11:00
-updated: 2024-04-09T16:09
+updated: 2024-04-10T22:10
 title: Show Your Work! by Austin Kleon
 tags:
   - książka
 aliases:
   - Show Your Work! by Austin Kleon
+description: Wrażenia i notatki z ksiażki "Show Your Work!" autorstwa Austina Kleona
 ---
 ## Wrażenia
 
