@@ -1,6 +1,6 @@
 ---
 created: 2024-04-03T15:48
-updated: 2024-04-09T16:37
+updated: 2024-04-10T08:03
 tags:
   - felieton
   - slow-life
@@ -37,7 +37,9 @@ Ale z *daily* sobie radziłem. Każdego tygodnia udawało mi się znaleźć jak
 
 Były jednak takie momenty, w których zgrzytałem zębami i rwałem włosy z głowy. I to było wtedy, gdy musiałem przygotować się do oceny okresowej. Przeżyłem takich dwie. Teraz nie mam czego rwać.
 
-Ocena okresowa polegała u nas na tym, że musiałem ocenić siebie samego, opisać moje osiągnięcia, a potem omówić to z przełożonym.
+Ocena okresowa to często stosowany w większych firmach i korporacjach sformalizowany proces, który jest podstawą do podwyżek i awansów. W mniejszych firmach jest to bardziej nieformalne, ale nadal jakaś ocena rezultatów i osiągnięć następuje, choć często tylko w głowie przełożonego.
+
+U nas, w 200-osobowej firmie wyglądało to tak, że musiałem ocenić siebie samego, opisać moje osiągnięcia, a potem omówić to z przełożonym.
 
 Ale spoko. Miałem system. Żałosny, ale miałem. Mogłem prześledzić wszystkie te najmniejsze zadania, z których składała się moja praca. W wyobraźni widziałem twarz swojego menedżera ze zmarszczonymi brwiami, którego oczy przeskakują z jednej kolumny excela na drugą i zadającego z westchnieniem pytanie: a więc mówisz, że przez ostatnie pół roku udało Ci się przesunąć ten obrazek o 7 pikseli?
 
