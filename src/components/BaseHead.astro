@@ -12,19 +12,6 @@ export type Props = {
 const { description = '', ogImage = '/lukasz-szmigiel-jFCViYFYcus-unsplash.jpeg', ogDescription, image = siteConfig.image, pageType = 'website' } = Astro.props;
 const title = [Astro.props.title, siteConfig.title].filter(Boolean).join(' | ');
 
-const getOgImage = (image: any) => {
-    if (image?.src) {
-        return {
-          src: new URL(image.src, Astro.site).toString(),
-          alt: image.alt
-        }
-    }
-
-    return undefined;
-};
-
-const resolvedImage = getOgImage(ogImage || image?.src);
-
 const ogImageUrl = ogImage
 const ogImageAlt = ogDescription || description
 
