@@ -27,6 +27,7 @@ export type SiteConfig = {
   title: string;
   subtitle?: string;
   description: string;
+  author: string;
   image?: Image;
   headerNavLinks?: Link[];
   footerNavLinks?: Link[];
@@ -45,6 +46,7 @@ const siteConfig: SiteConfig = {
     src: '/lukasz-szmigiel-jFCViYFYcus-unsplash.jpeg',
     alt: 'Michał Kukla - digital garden, blog, projekty i więcej.'
   },
+  author: 'Michał Kukla',
   headerNavLinks: [
     {
       text: 'Strona główna',

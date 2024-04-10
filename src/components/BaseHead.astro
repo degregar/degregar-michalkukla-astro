@@ -7,9 +7,14 @@ export type Props = {
     description?: string;
     image?: { src: string; alt?: string };
     pageType?: 'website' | 'article';
+    created?: string;
+    updated?: string
+    ogImage?: string;
+    ogDescription?: string;
+    ogTitle?: string;
 };
 
-const { description = '', ogImage = '/lukasz-szmigiel-jFCViYFYcus-unsplash.jpeg', ogDescription, image = siteConfig.image, pageType = 'website' } = Astro.props;
+const { description = '', ogImage = '/lukasz-szmigiel-jFCViYFYcus-unsplash.jpeg', ogDescription, image = siteConfig.image, pageType = 'website', created, updated } = Astro.props;
 const title = [Astro.props.title, siteConfig.title].filter(Boolean).join(' | ');
 
 const ogImageUrl = ogImage
@@ -30,6 +35,17 @@ function formatCanonicalURL(url: string | URL) {
     // otherwise, canonical URL always has a trailing slash
     return path.replace(/\/?$/, hasQueryParams ? '' : '');
 }
+let schema = JSON.stringify({
+  "@context": "https://schema.org/",
+  "@type": "Article",
+  "author": {
+    "@type": "Person",
+    "name": "Michał Kukla"
+  },
+  "datePublished": `${created}`,
+  "description": `${description}`,
+});
+
 ---
 
 <!-- High Priority Global Metadata -->
@@ -54,6 +70,13 @@ function formatCanonicalURL(url: string | URL) {
 <!-- Page Metadata -->
 <link rel="canonical" href={formatCanonicalURL(canonicalURL)} />
 <meta name="description" content={description} />
+<meta name="author" content={siteConfig.author} />
+
+<meta property="article:author" content={siteConfig.author} />
+
+<meta name="date" content={created} />
+<meta property="article:published_time" content={created} />
+<meta property="article:modified_time" content={updated} />
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content={pageType} />
@@ -70,3 +93,5 @@ function formatCanonicalURL(url: string | URL) {
 <meta property="twitter:description" content={description} />
 {ogImageUrl && <meta property="twitter:image" content={ogImageUrl} />}
 {ogImageAlt && <meta name="twitter:image:alt" content={ogImageAlt} />}
+
+<script type="application/ld+json" set:html={schema}></script>

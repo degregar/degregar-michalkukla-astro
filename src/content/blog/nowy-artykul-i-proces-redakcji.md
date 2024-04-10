@@ -1,11 +1,10 @@
 ---
 created: 2024-04-10T10:00
-updated: 2024-04-10T10:11
+updated: 2024-04-10T16:08
 title: Nowy artykuł i proces redakcji
 aliases:
   - Nowy artykuł i proces redakcji
-ogTitle: Nowy artykuł i proces redakcji
-ogDescription: Wyjaśniam w jaki sposób przygotowuję codzienne wpisy na bloga i ile czasu mi to zajmuje.
+description: Wyjaśniam w jaki sposób przygotowuję codzienne wpisy na bloga i ile czasu mi to zajmuje.
 tags:
   - 1-sukces-dziennie
   - blog
