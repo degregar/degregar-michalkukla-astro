@@ -81,6 +81,10 @@ const siteConfig: SiteConfig = {
   ],
   socialLinks: [
     {
+      text: 'SlowTracker',
+      href: 'https://app.slowtracker.com/u/m'
+    },
+    {
       text: 'LinkedIn',
       href: 'https://www.linkedin.com/in/kukla-michal/'
     },
