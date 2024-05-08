@@ -1,6 +1,6 @@
 ---
 created: 2023-04-02T10:08:00
-updated: 2024-04-10T22:07
+updated: 2024-05-08T10:04
 title: Polecane książki
 aliases:
   - Polecane książki
@@ -39,14 +39,16 @@ Podanie 5 najważniejszych tytułów to dla mnie dość trudne zadanie, ale post
 - _Testowanie pomysłów biznesowych_ – David J. Bland, Alex Osterwalder
 - _Metafory w naszym życiu_ – George Lakoff
 - _Rysunek – odkyj talent dzięki prawej półkuli mózgu_ – Betty Edwards
-- _Upór_ – Angela Duckworth
+- [[upor-angela-duckworth|Upór, Angela Duckworth]]
 - _Skuszeni. Jak tworzyć produkty kształtujące nawyki konsumenckie._ – Eyal Nir
-- Walt Disney - biografia
+- T. Pratchett
 
 ## Ostatnio przeczytałem
 
 To lista książek w kolejności, w jakiej je skończyłem. Wiele z nich czytałem po raz kolejny. Mówią, że lepiej przeczytać jedną dobrą książkę kilka razy niż kilka słabych książek jeden raz. _Esencjalistę_ czytałem na przykład 6 razy i jeszcze chcę do niej wrócić.
 
+- *Wolni Ciutludzie* - T. Pratchett (maj'24)
+- *Walt Disney. Wizjoner z Hollywood (1901-1966)* - Piotr Napierała (kwi'24)
 - *Szary Płaszcz* - Marcin Mortka (kwi'24)
 - *A propos niczego* - Woody Allen (mar'24)
 - [[show-your-work-austin-kleon|Show Your Work! - Austin Kleon]] (mar’24)
@@ -124,7 +126,8 @@ To lista książek w kolejności, w jakiej je skończyłem. Wiele z nich czytał
 ## Inne
 
 - _Minimalizm_ – Leo Babauta
+- *Rzeczozmęczenie* - James Wallman
 - _Docenić konflikt. Od walki i manipulacji do współpracy_ – Jerzy Gut Wojciech Haman
-- _Mindset – nowa psychologia sukcesu –_ Carol Dweck
+- [[Mindset, Carol Dweck|Mindset – nowa psychologia sukcesu – Carol Dweck]]
 
 W miarę jak będę sobie przypominał, to będę dopisywał kolejne pozycje czytane i rekomendowane przeze mnie.
