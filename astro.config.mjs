@@ -3,7 +3,7 @@ import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import tailwind from '@astrojs/tailwind';
 
-import { wikiLinkPlugin } from '@stereobooster/remark-wiki-link';
+import wikiLinkPlugin from '@braindb/remark-wiki-link';
 import { bdb } from './src/lib/braindb.mjs';
 import rehypeExternalLinks from 'rehype-external-links';
 
