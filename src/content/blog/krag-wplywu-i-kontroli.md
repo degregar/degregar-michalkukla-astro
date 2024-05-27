@@ -1,6 +1,6 @@
 ---
 created: 2023-09-01T19:26:00
-updated: 2024-04-10T21:36
+updated: 2024-05-20T13:34
 title: Krąg wpływu i kontroli – sekret skutecznego działania
 description: Odkryj, jak efektywnie zarządzać swoim czasem i energią, skupiając się na tym, co możesz kontrolować, a nie na tym, co nie wpływa na Twoje życie. Dowiedz się, jak rozpoznać i ograniczyć poświęcanie czasu i energii na sprawy, na które nie masz wpływu.
 tags:
@@ -11,6 +11,8 @@ tags:
   - nawyki
   - rozwoj-osobisty
   - buddyzm
+aliases:
+  - Krąg wpływu i kontroli
 ---
 ![](./3-kregi.png)
 

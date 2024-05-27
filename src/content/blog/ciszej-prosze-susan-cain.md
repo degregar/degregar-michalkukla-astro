@@ -1,11 +1,13 @@
 ---
 created: 2023-10-25T18:06
-updated: 2024-04-10T22:15
+updated: 2024-05-20T11:36
 title: Ciszej, proszę - Susan Cain
 description: Notatki z książki Susan Cain pt. "Ciszej, proszę"
 tags:
   - introwertyzm
   - ksiazka
+aliases:
+  - Ciszej proszę - Susan Cain
 ---
 ![Ciszej proszę, Susan Cain - okładka książki](./ciszej-prosze-susan-cain.png)
 

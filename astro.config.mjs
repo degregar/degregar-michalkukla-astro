@@ -2,11 +2,10 @@ import { defineConfig } from 'astro/config';
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import tailwind from '@astrojs/tailwind';
-
 import wikiLinkPlugin from '@braindb/remark-wiki-link';
 import { bdb } from './src/lib/braindb.mjs';
 import rehypeExternalLinks from 'rehype-external-links';
-
+import icon from 'astro-icon';
 await bdb.ready();
 
 // https://astro.build/config
@@ -17,7 +16,8 @@ export default defineConfig({
     sitemap(),
     tailwind({
       applyBaseStyles: false
-    })
+    }),
+    icon()
   ],
   vite: {
     optimizeDeps: {
@@ -32,13 +32,13 @@ export default defineConfig({
           aliasDivider: '|',
           linkTemplate: ({ slug, alias }) => {
             let [slugWithoutAnchor, anchor] = slug.split('#');
-
             const prefix = 'astrotest/content/blog/';
             if (slugWithoutAnchor.startsWith(prefix)) {
               slugWithoutAnchor = slugWithoutAnchor.slice(prefix.length);
             }
-
-            const doc = bdb.documentsSync({ slug: slugWithoutAnchor })[0];
+            const doc = bdb.documentsSync({
+              slug: slugWithoutAnchor
+            })[0];
             if (doc) {
               const docUrl = doc.url().replace(/\/$/, '');
               return {
@@ -61,17 +61,26 @@ export default defineConfig({
                   hProperties: {
                     href: tagUrl
                   },
-                  hChildren: [{ type: 'text', value: alias || slug }]
+                  hChildren: [
+                    {
+                      type: 'text',
+                      value: alias || slug
+                    }
+                  ]
                 };
               }
-
               return {
                 hName: 'span',
                 hProperties: {
                   class: 'broken-link',
                   title: `Can't resolve link to ${slug}`
                 },
-                hChildren: [{ type: 'text', value: alias || slug }]
+                hChildren: [
+                  {
+                    type: 'text',
+                    value: alias || slug
+                  }
+                ]
               };
             }
           }
@@ -82,7 +91,10 @@ export default defineConfig({
       [
         rehypeExternalLinks,
         {
-          content: { type: 'text', value: ' ↗' },
+          content: {
+            type: 'text',
+            value: ' ↗'
+          },
           target: '_blank',
           rel: ['noopener', 'noreferrer']
         }

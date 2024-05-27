@@ -1,6 +1,6 @@
 ---
 created: 2024-03-28T10:04:00
-updated: 2024-04-10T21:38
+updated: 2024-05-20T13:37
 title: Nie rozwijaj nowych funkcji
 description: Odkryj, jak skupić się na jednej klasie funkcji w aplikacji, aby zapewnić lepsze doświadczenie użytkownika i uniknąć pułapki feature creep. Dowiedz się, jak wprowadzać funkcje, które pomagają zrealizować cele użytkownika w ramach jednej klasy funkcji.
 aliases:
@@ -13,7 +13,7 @@ tags:
   - markdown
   - xss
 ---
-Udało mi się naprawić sporo małych rzeczy w [[slowtracker]] i do tego zrobić [markdown](https://pl.wikipedia.org/wiki/Markdown) z zabezpieczeniem przed [XSS](https://pl.wikipedia.org/wiki/Cross-site_scripting). Skupiłem się głównie na tym, co jest związane z podstawową klasą funkcji, żeby użytkownicy mieli jeszcze lepszy [UX](https://pl.wikipedia.org/wiki/User_experience) i chętnie używali wskazówek od AI.
+Udało mi się naprawić sporo małych rzeczy w [[slowtracker|SlowTracker]] i do tego zrobić [markdown](https://pl.wikipedia.org/wiki/Markdown) z zabezpieczeniem przed [XSS](https://pl.wikipedia.org/wiki/Cross-site_scripting). Skupiłem się głównie na tym, co jest związane z podstawową klasą funkcji, żeby użytkownicy mieli jeszcze lepszy [UX](https://pl.wikipedia.org/wiki/User_experience) i chętnie używali wskazówek od AI.
 
 Co mam na myśli, mówiąc o _klasie funkcji_?
 

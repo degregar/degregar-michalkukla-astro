@@ -5,6 +5,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import Pagination from '../components/Pagination.astro';
 import ProjectPreview from '../components/ProjectPreview.astro';
 import siteConfig from '../data/site-config';
+import { Icon } from 'astro-icon/components';
 
 type Props = { page: Page<CollectionEntry<'projects'>> };
 
@@ -12,16 +13,103 @@ const { page } = Astro.props;
 ---
 
 <BaseLayout
-    title="Portfolio"
-    description="Explore a diverse portfolio showcasing my passion and expertise"
-    showHeader={false}
+  title="Konsultacje"
+  description="Oferuję szeroki zakres konsultacji technologicznych i biznesowych, które pomogą Twojej firmie osiągnąć sukces"
+  showHeader={false}
 >
-    <h1 class="mb-12 text-2xl leading-tight font-serif italic sm:mb-16 sm:text-4xl">Konsultacje</h1>
+    <section class="hero bg-gray-100 dark:bg-gray-900 p-8 rounded-lg shadow-md prose prose-dante">
+        <h1 class="text-3xl font-bold leading-tight sm:text-4xl">Wykorzystaj pełny potencjał technologii w swojej firmie</h1>
+        <p class="mt-4 text-lg sm:text-xl">Zapewniam eksperckie wsparcie w integracji systemów i optymalizacji procesów, pomagając firmom obniżyć koszty i zwiększyć efektywność operacyjną.</p>
 
-    <section class="prose">
-        <h2 class="wp-block-heading">Potrzebujesz indywidualnego wsparcia?</h2>
+        <p class="mt-8"><a href="https://calendly.com/michal-kukla/30min" class="underline">Umów się na bezpłatne 30-minutowe konsultacje</a></p>
+    </section>
 
-        <p>Jestem technologicznym i biznesowym generalistą, czyli ekspertem od integracji i łącznie wielu różnych dziedzin w praktycznych zastosowaniach.</p>
+    <section class="prose prose-dante mt-8">
+
+        <h3 class="wp-block-heading">Obszary, w których mogę pomóc:</h3>
+
+        <div class="grid grid-cols-1 gap-6 md:grid-cols-2">
+            <div class="p-6 bg-white rounded-lg shadow-md dark:bg-gray-800">
+                <div class="flex items-center mb-4">
+                    <Icon class="w-10 h-10 mr-3" name="mdi:file-chart" />
+                    <h4 class="text-xl font-semibold">Automatyzacja procesów księgowych</h4>
+                </div>
+                <p>Przygotowanie arkuszy kalkulacyjnych i wykazów faktur, które umożliwiają automatyczne przenoszenie danych, co redukuje ryzyko błędów i zmniejsza ilość pracy ręcznej.</p>
+            </div>
+
+            <div class="p-6 bg-white rounded-lg shadow-md dark:bg-gray-800">
+                <div class="flex items-center mb-4">
+                    <Icon class="w-10 h-10 mr-3" name="mdi:database" />
+                    <h4 class="text-xl font-semibold">Efektywne zarządzanie danymi i raportami</h4>
+                </div>
+                <p>Tworzenie zaawansowanych arkuszy kalkulacyjnych, takich jak tabele przestawne, które umożliwiają filtrowanie i analizę danych na różnych poziomach szczegółowości.</p>
+            </div>
+
+            <div class="p-6 bg-white rounded-lg shadow-md dark:bg-gray-800">
+                <div class="flex items-center mb-4">
+                    <Icon class="w-10 h-10 mr-3" name="mdi:account-multiple" />
+                    <h4 class="text-xl font-semibold">Optymalizacja zarządzania personelem</h4>
+                </div>
+                <p>Zrozumienie i usprawnienie list płac, rejestracji czasu pracy i rozliczeń pracowników.</p>
+            </div>
+
+            <div class="p-6 bg-white rounded-lg shadow-md dark:bg-gray-800">
+                <div class="flex items-center mb-4">
+                    <Icon class="w-10 h-10 mr-3" name="mdi:server" />
+                    <h4 class="text-xl font-semibold">Migracja i zarządzanie serwerami oraz stronami internetowymi</h4>
+                </div>
+                <p>Migracja stron internetowych na nowoczesne serwery, optymalizacja kodowania oraz ustawienia zgodne z najnowszymi standardami bezpieczeństwa.</p>
+            </div>
+
+            <div class="p-6 bg-white rounded-lg shadow-md dark:bg-gray-800">
+                <div class="flex items-center mb-4">
+                    <Icon class="w-10 h-10 mr-3" name="mdi:cloud-sync" />
+                    <h4 class="text-xl font-semibold">Integracja systemów informatycznych</h4>
+                </div>
+                <p>Spięcie Twoich systemów informatycznych z innymi narzędziami, takimi jak Zapier, oraz tworzenie skryptów do automatyzacji procesów.</p>
+            </div>
+
+            <div class="p-6 bg-white rounded-lg shadow-md dark:bg-gray-800">
+                <div class="flex items-center mb-4">
+                    <Icon class="w-10 h-10 mr-3" name="mdi:cash-multiple" />
+                    <h4 class="text-xl font-semibold">Analiza i optymalizacja kosztów operacyjnych</h4>
+                </div>
+                <p>Analiza kosztów usług, takich jak hosting, oraz negocjacje cenowe i redukcja zbędnych wydatków.</p>
+            </div>
+
+            <div class="p-6 bg-white rounded-lg shadow-md dark:bg-gray-800">
+                <div class="flex items-center mb-4">
+                    <Icon class="w-10 h-10 mr-3" name="mdi:cogs" />
+                    <h4 class="text-xl font-semibold">Poprawa procesów operacyjnych poprzez metodyki Lean i Theory of Constraints</h4>
+                </div>
+                <p>Wykorzystanie narzędzi takich jak 5x Whys, drzewo CRT (Current Reality Tree) czy Evaporating Cloud do rozwiązywania dylematów, identyfikacji i eliminacji wąskich gardeł oraz problemów operacyjnych.</p>
+            </div>
+
+            <div class="p-6 bg-white rounded-lg shadow-md dark:bg-gray-800">
+                <div class="flex items-center mb-4">
+                    <Icon class="w-10 h-10 mr-3" name="mdi:spa" />
+                    <h4 class="text-xl font-semibold">Promocja i rozwój usług hotelowych i SPA</h4>
+                </div>
+                <p>Przygotowanie strategii promocyjnych, organizacja dni otwartych, oraz analiza i optymalizacja wskaźników dla hotelu i SPA.</p>
+            </div>
+
+            <div class="p-6 bg-white rounded-lg shadow-md dark:bg-gray-800">
+                <div class="flex items-center mb-4">
+                    <Icon class="w-10 h-10 mr-3" name="mdi:account-group" />
+                    <h4 class="text-xl font-semibold">Zarządzanie projektami zgodnie z metodyką Agile</h4>
+                </div>
+                <p>Implementacja Agile w codziennych działaniach, co pomaga w szybkim reagowaniu na zmiany i lepszym zarządzaniu priorytetami.</p>
+            </div>
+
+            <div class="p-6 bg-white rounded-lg shadow-md dark:bg-gray-800">
+                <div class="flex items-center mb-4">
+                    <Icon class="w-10 h-10 mr-3" name="mdi:clipboard-check" />
+                    <h4 class="text-xl font-semibold">Usprawnianie procesów administracyjnych</h4>
+                </div>
+                <p>Tworzenie i wdrażanie standardów pracy, które poprawiają organizację i efektywność operacyjną.</p>
+            </div>
+        </div>
+
 
         <h3 class="wp-block-heading">Dlaczego warto skorzystać z konsultacji?</h3>
 
@@ -37,12 +125,12 @@ const { page } = Astro.props;
             <li><strong>Zarządzanie zmianą</strong>: Przeprowadzę Ciebie oraz Twoją firmę przez zmianę, skupiając się na aspektach ludzkich i kulturowych.</li>
         </ol>
 
-        <p>👉 <strong>Umów się na bezpłatne 30-minutowe konsultacje</strong> przez <a href="https://calendly.com/michal-kukla/30min">Calendly</a>.</p>
 
-        <p>Potrzebujesz więcej czasu lub regularnych spotkań?</p>
+        <p class="mt-8">👉 <strong>Umów się na bezpłatne 30-minutowe konsultacje</strong> przez <a href="https://calendly.com/michal-kukla/30min" class="underline">Calendly</a> lub zadzwoń pod numer <a href="tel:+48691059529">+48 691 059 529</a>.</p>
 
-        <p>👉 <a href="https://app.easycart.pl/checkout/24365475/konsultacje">Zamów konsultacje</a></p>
+        <p class="mt-4">Potrzebujesz więcej czasu lub regularnych spotkań?</p>
+
+        <p>👉 <a href="https://app.easycart.pl/checkout/24365475/konsultacje" class="underline">Zamów konsultacje</a></p>
     </section>
-
 
 </BaseLayout>

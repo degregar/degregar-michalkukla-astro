@@ -57,6 +57,10 @@ const siteConfig: SiteConfig = {
       href: '/projects'
     },
     {
+      text: 'Konsulting',
+      href: '/konsultacje'
+    },
+    {
       text: 'Teksty',
       href: '/blog'
     },
