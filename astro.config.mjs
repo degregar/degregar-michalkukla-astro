@@ -102,6 +102,7 @@ export default defineConfig({
     ]
   },
   redirects: {
-    '/feed': '/rss.xml'
+    '/feed': '/rss.xml',
+    konsulting: '/konsultacje/'
   }
 });
