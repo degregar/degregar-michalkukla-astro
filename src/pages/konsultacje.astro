@@ -1,10 +1,7 @@
 ---
-import type { GetStaticPathsOptions, Page } from 'astro';
-import { type CollectionEntry, getCollection } from 'astro:content';
+import type {  Page } from 'astro';
+import { type CollectionEntry } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
-import Pagination from '../components/Pagination.astro';
-import ProjectPreview from '../components/ProjectPreview.astro';
-import siteConfig from '../data/site-config';
 import { Icon } from 'astro-icon/components';
 
 type Props = { page: Page<CollectionEntry<'projects'>> };
@@ -110,7 +107,6 @@ const { page } = Astro.props;
             </div>
         </div>
 
-
         <h3 class="wp-block-heading">Dlaczego warto skorzystać z konsultacji?</h3>
 
         <ol>
@@ -124,6 +120,35 @@ const { page } = Astro.props;
 
             <li><strong>Zarządzanie zmianą</strong>: Przeprowadzę Ciebie oraz Twoją firmę przez zmianę, skupiając się na aspektach ludzkich i kulturowych.</li>
         </ol>
+
+
+        <h3 class="wp-block-heading mt-8">O mnie</h3>
+        <img src="/zdjecie-biznesowe.jpg" alt="Michał Kukla" class="w-32 h-32 rounded-full float-left mr-4 mb-4" />
+        <p>Jestem doświadczonym programistą, przedsiębiorcą i twórcą internetowym, z bogatym portfolio obejmującym ponad 60 projektów biznesowych. Specjalizuję się w integracji systemów, optymalizacji procesów oraz zarządzaniu projektami, z szczególnym naciskiem na pomoc firmom rodzinnym i startupom.
+        </p><p>
+        Pracowałem z firmami o różnym stopniu rozwoju – od kilku do kilkudziesięciu pracowników – dostarczając im efektywne i dostosowane rozwiązania. Dzięki wizytom na miejscu u klientów mogę lepiej zrozumieć ich potrzeby i wyzwania, co pozwala mi na bardziej trafne doradztwo.
+    </p><p>
+        Prowadziłem bloga Profitable Business Models, gdzie dzieliłem się swoją wiedzą na temat modeli biznesowych, co pozwoliło mi zgłębić różne aspekty prowadzenia firmy w różnych branżach. Jako certyfikowany trener, coach i konsultant, pomagam firmom obniżać koszty, zwiększać efektywność operacyjną i wprowadzać nowoczesne metodyki zarządzania.
+    </p><p>
+        Jestem pasjonatem produktywności, zarówno osobistej, jak i organizacyjnej, oraz zarządzania nawykami. Moje kluczowe talenty Clifton Strengths to Significance, Futuristic, Focus, Context, i Individualization, które wykorzystuję do tworzenia innowacyjnych rozwiązań i strategii.
+    </p><p>
+        Prywatnie jestem ojcem trójki dzieci i mieszkam w Zawoi pod Babią Górą. Trenuję ju jitsu, praktykuję medytację i uważność, uwielbiam książki Terry'ego Pratchetta i piszę bloga.
+    </p><p>Zapraszam do współpracy, aby wspólnie odkrywać potencjał Twojej firmy.
+    </p>
+
+
+
+        <h3 class="wp-block-heading">Rekomendacje</h3>
+
+        <blockquote>
+            <p>Michała cechuje holistyczne spojrzenie. Polecam konsulting z Michałem każdemu, kto chce spojrzeć z lotu ptaka.</p>
+            <footer>— Arkadiusz Stolecki, strony internetowe i pozycjonowanie</footer>
+        </blockquote>
+
+        <blockquote>
+            <p>Ten arkusz RK i faktur bardzo dużo mi ułatwił. Sprawdzenie dokumentów po poprzedniej księgowej zajmowało 2 dni. Teraz zajmuje pół dnia.</p>
+            <footer>— Właścicielka hotelu</footer>
+        </blockquote>
 
 
         <p class="mt-8">👉 <strong>Umów się na bezpłatne 30-minutowe konsultacje</strong> przez <a href="https://calendly.com/michal-kukla/30min" class="underline">Calendly</a> lub zadzwoń pod numer <a href="tel:+48691059529">+48 691 059 529</a>.</p>

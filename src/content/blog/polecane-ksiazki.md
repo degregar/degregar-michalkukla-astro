@@ -1,6 +1,6 @@
 ---
 created: 2023-04-02T10:08:00
-updated: 2024-05-08T10:04
+updated: 2024-06-06T11:21
 title: Polecane książki
 aliases:
   - Polecane książki
@@ -22,14 +22,19 @@ W międzyczasie czytam wszystko inne, głównie te, których nie czytam przed sn
 Podanie 5 najważniejszych tytułów to dla mnie dość trudne zadanie, ale postaram się wymienić te, które w największym stopniu wpłynęły na moje życie.
 
 1. _7 nawyków skutecznego działania_, Steven Covey  
+
     Przede wszystkim nawyk pierwszy, czyli proaktywność. To pozwoliło mi wziąć odpowiedzialność za swoje życie i nie pozwalać losowi sobą miotać.
 2. _Porozumienie Bez Przemocy_ – Rosenberg  
+
     Ta książka pokazała mi, że pokój na świecie zaczyna się od nas samych, a komunikacja z innymi wymaga zrozumienia siebie i swoich potrzeb w pierwszej kolejności.
 3. [[czego-najbardziej-zaluja-umierajacy-bronnie-ware|Czego najbardziej żałują umierający - Bonnie Ware]]  
+
     Dzięki tej książce rzuciłem toksyczną pracę.
-4. _Esencjalista_, Greg McKeown  
-    Ta, oraz _Jedna Rzecz_, to były książki, którymi karmiłem się w kółko, aby zacząć pracować nad najważniejszymi dla mnie sprawami.
+4. [[upor-angela-duckworth|Upór, Angela Duckworth]]
+
+    To bardzo ważna książka, bo zawsze myślałem, że mam słomiany zapał. Dowiedziałem się czym jest wytrwałość, pasja oraz jak rozwijać swój upór.
 5. _The Right It_, Alberto Savoia  
+
     Pozwoliła mi przestać tak wiele czasu poświęcać na rozwój produktów, których nikt nie chce kupić, a skupić się na szukaniu wartościowych produktów.
 
 ## Obecnie czytam
@@ -39,14 +44,17 @@ Podanie 5 najważniejszych tytułów to dla mnie dość trudne zadanie, ale post
 - _Testowanie pomysłów biznesowych_ – David J. Bland, Alex Osterwalder
 - _Metafory w naszym życiu_ – George Lakoff
 - _Rysunek – odkyj talent dzięki prawej półkuli mózgu_ – Betty Edwards
-- [[upor-angela-duckworth|Upór, Angela Duckworth]]
 - _Skuszeni. Jak tworzyć produkty kształtujące nawyki konsumenckie._ – Eyal Nir
-- T. Pratchett
+- *Flawless Consulting* - Peter Block
+- *Być liderem* - Alex Ferguson
 
 ## Ostatnio przeczytałem
 
 To lista książek w kolejności, w jakiej je skończyłem. Wiele z nich czytałem po raz kolejny. Mówią, że lepiej przeczytać jedną dobrą książkę kilka razy niż kilka słabych książek jeden raz. _Esencjalistę_ czytałem na przykład 6 razy i jeszcze chcę do niej wrócić.
 
+- *Piąty Elefant* - T. Pratchett (cze'24)
+- *Panowie i Damy* - T. Pratchett (maj'24)
+- [[upor-angela-duckworth|Upór, Angela Duckworth]] (maj'24)
 - *Wolni Ciutludzie* - T. Pratchett (maj'24)
 - *Walt Disney. Wizjoner z Hollywood (1901-1966)* - Piotr Napierała (kwi'24)
 - *Szary Płaszcz* - Marcin Mortka (kwi'24)
@@ -90,15 +98,18 @@ To lista książek w kolejności, w jakiej je skończyłem. Wiele z nich czytał
 2. _Zacznij od dlaczego,_ Simon Sinek
 3. _7 nawyków skutecznego działania_, Steven Covey
 4. _Najpierw rzeczy najważniejsze_ – Steven Covey
-5. _Ósmy nawyk_ – Steven Covey
-6. [[czego-najbardziej-zaluja-umierajacy-bronnie-ware|Czego najbardziej żałują umierający - Bonnie Ware]]
-7. _Porozumienie bez przemocy_, Marshall B. Rosenberg
-8. [[show-your-work-austin-kleon|Show Your Work! - Austin Kleon]]
+5. [[upor-angela-duckworth|Upór, Angela Duckworth]]
+6. [[ciszej-prosze-susan-cain|Ciszej proszę - Susan Cain]]
+7. _Ósmy nawyk_ – Steven Covey
+8. [[czego-najbardziej-zaluja-umierajacy-bronnie-ware|Czego najbardziej żałują umierający - Bonnie Ware]]
+9. _Porozumienie bez przemocy_, Marshall B. Rosenberg
+10. [[show-your-work-austin-kleon|Show Your Work! - Austin Kleon]]
 
 ## Nawyki
 
 - _Atomowe Nawyki_, James Clear
 - _Siła Nawyku_, Charles Duhigg
+- [[upor-angela-duckworth|Upór, Angela Duckworth]]
 
 ## Produktywność
 
@@ -129,5 +140,6 @@ To lista książek w kolejności, w jakiej je skończyłem. Wiele z nich czytał
 - *Rzeczozmęczenie* - James Wallman
 - _Docenić konflikt. Od walki i manipulacji do współpracy_ – Jerzy Gut Wojciech Haman
 - [[Mindset, Carol Dweck|Mindset – nowa psychologia sukcesu – Carol Dweck]]
+- [[upor-angela-duckworth|Upór, Angela Duckworth]]
 
 W miarę jak będę sobie przypominał, to będę dopisywał kolejne pozycje czytane i rekomendowane przeze mnie.

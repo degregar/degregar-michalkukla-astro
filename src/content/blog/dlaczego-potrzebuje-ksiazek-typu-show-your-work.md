@@ -1,11 +1,13 @@
 ---
 created: 2024-03-26T09:06:00
-updated: 2024-04-10T17:29
+updated: 2024-06-04T08:50
 title: Dlaczego potrzebuję książek takich, jak Show Your Work?
 tags:
   - 1-sukces-dziennie
   - inspiracja
 description: Odkryj, jak dzielenie się pracą i pasją może inspirować do skupienia się na jednym projekcie i dążenia do mistrzostwa w wybranym obszarze, bazując na lekturze 'Show Your Work!'.
+aliases:
+  - Dlaczego potrzebuję książek takich, jak Show Your Work?
 ---
 Skończyłem czytać _[[show-your-work-austin-kleon|Show Your Work!]]_ Dzięki tej książce zrozumiałem, że warto dzielić się moją [[pasja|pasją]]. Pracą, którą wykonuję. I nie muszę tego robić z pobudek oportunistycznych. Mogę rozmawiać z tymi, z którymi chcę rozmawiać, na tematy, na które chcę rozmawiać.
 
