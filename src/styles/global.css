@@ -66,3 +66,9 @@
 .dark .prose a:visited {
     @apply text-orange-500;
 }
+
+
+.prose blockquote p::before,
+.prose blockquote p::after {
+    content: none;
+}
