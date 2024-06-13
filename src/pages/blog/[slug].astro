@@ -51,6 +51,20 @@ const { Content, headings } = await post.render();
                         </>
                     )
                 }
+
+                <div class="mt-4">
+                {
+                  tags.length > 0 && (
+                    <div class="flex flex-wrap gap-x-5 gap-y-1 text-sm">
+                        {tags.map((tag) => (
+                          <a class="text-main hover:underline" href={`/tags/${slugify(tag)}`}>
+                              #{tag}
+                          </a>
+                        ))}
+                    </div>
+                  )
+                }
+                </div>
             </div>
         </header>
         <div class="max-w-none prose prose-dante sm:prose-lg">

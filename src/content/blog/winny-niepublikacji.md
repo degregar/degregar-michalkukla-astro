@@ -1,10 +1,15 @@
 ---
 created: 2024-06-10T07:55
-updated: 2024-06-10T17:43
+updated: 2024-06-13T10:18
 title: Winny niepublikacji
 aliases:
   - Winny niepublikacji
 description: W ostatnim tygodniu, wraz z rosnącą listą artykułów do przeredagowania, narastało moje poczucie winy. Jak poradziłem sobie z zaległościami?
+tags:
+  - 1-sukces-dziennie
+  - pisanie
+  - kreatywnosc
+  - konsulting
 ---
 W ostatnim tygodniu, wraz z rosnącą listą artykułów do przeredagowania, narastało moje poczucie winy.
 

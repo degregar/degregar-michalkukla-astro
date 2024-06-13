@@ -1,6 +1,6 @@
 ---
 created: 2024-06-04T08:44
-updated: 2024-06-10T10:29
+updated: 2024-06-11T17:08
 title: Zdałem egzamin ju jitsu. Jarałem się?
 aliases:
   - Zdałem egzamin ju jitsu. Jarałem się?
@@ -24,7 +24,7 @@ Zignorowałem podejście *soke*, żeby robić po kolei wszystkie formy. Poprosi�
 
 W dzień egzaminu (waliło deszczem i piorunami) jeszcze poprosiłem jednego *sensei*, żeby mi pomógł. Zademonstrował technikę i poprawił mi ustawienie nóg.
 
-Po kilku próbach, w tym samym momencie, w którym wykonałem całość poprawnie i *sensei* lakonicznie skomentował "O!", rozległ się wielki grzmot. Partner skomentował: "I widział Pan, że to było dobre."
+Po kilku próbach, w tym samym momencie, w którym wykonałem całość poprawnie i *sensei* lakonicznie skomentował "O!", rozległ się wielki grzmot. Partner skomentował: "I widział Pan, że było to dobre."
 
 Szczypta dramatyzmu na zawołanie, jak u Pratchetta 😉
 
