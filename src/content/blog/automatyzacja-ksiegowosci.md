@@ -1,6 +1,6 @@
 ---
 created: 2024-05-07T08:03
-updated: 2024-05-07T15:14
+updated: 2024-06-17T11:36
 tags:
   - 1-sukces-dziennie
   - cyfryzacja
@@ -11,6 +11,7 @@ tags:
   - efektywnosc
   - procesy
   - integracja
+  - automatyzacja
 title: "Automatyzacja księgowości: wyzwania i sukcesy w praktyce"
 description: Poznaj, jak automatyzować księgowość w firmie zatrudniającej ponad 20 pracowników. Rozwiąż problemy z OCR, integracją systemów i wdrażaniem zmian. Popraw efektywność dzięki stopniowym zmianom i otwartej komunikacji.
 ---

@@ -1,6 +1,6 @@
 ---
 created: 2023-04-02T10:08:00
-updated: 2024-06-06T11:21
+updated: 2024-06-17T09:20
 title: Polecane książki
 aliases:
   - Polecane książki
@@ -52,7 +52,10 @@ Podanie 5 najważniejszych tytułów to dla mnie dość trudne zadanie, ale post
 
 To lista książek w kolejności, w jakiej je skończyłem. Wiele z nich czytałem po raz kolejny. Mówią, że lepiej przeczytać jedną dobrą książkę kilka razy niż kilka słabych książek jeden raz. _Esencjalistę_ czytałem na przykład 6 razy i jeszcze chcę do niej wrócić.
 
+- *Kosiarz* - T. Pratchett (cze'24)
+  O życiu i Śmierci
 - *Piąty Elefant* - T. Pratchett (cze'24)
+  O dyplomacji
 - *Panowie i Damy* - T. Pratchett (maj'24)
 - [[upor-angela-duckworth|Upór, Angela Duckworth]] (maj'24)
 - *Wolni Ciutludzie* - T. Pratchett (maj'24)

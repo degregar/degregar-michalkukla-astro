@@ -85,6 +85,15 @@ const { Content, headings } = await post.render();
                   Źródło: <a href={url} target="_blank" rel="noopener noreferrer">{url}</a>
               </div>
             )}
+
+            {tags.includes("automatyzacja") && (
+              <div class="mb-8 p-4 border-l-4 border-orange-500 bg-orange-50 dark:bg-orange-950 text-orange-950 dark:text-orange-50">
+                  <p class="font-bold">Potrzebujesz pomocy w zautomatyzowaniu swojego procesu?</p>
+                  <p>
+                      <a href="/konsultacje">Skontaktuj się ze mną</a>, a z przyjemnością pomogę Ci w stworzeniu odpowiedniego rozwiązania.
+                  </p>
+              </div>
+            )}
         </div>
 
 

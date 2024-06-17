@@ -1,6 +1,6 @@
 ---
 created: 2024-06-05T07:36
-updated: 2024-06-10T13:36
+updated: 2024-06-17T11:36
 tags:
   - 1-sukces-dziennie
   - obsidian
@@ -8,6 +8,7 @@ tags:
   - integracja
   - notowanie
   - markdown
+  - automatyzacja
 title: Jak zintegrować SpeechZap z Obsidian?
 aliases:
   - Jak zintegrować SpeechZap z Obsidian?

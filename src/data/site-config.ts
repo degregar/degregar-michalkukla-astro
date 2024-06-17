@@ -53,12 +53,16 @@ const siteConfig: SiteConfig = {
       href: '/'
     },
     {
-      text: 'Projekty',
-      href: '/projects'
+      text: 'Automatyzacje',
+      href: '/tags/automatyzacja'
     },
     {
       text: 'Konsulting',
       href: '/konsultacje'
+    },
+    {
+      text: 'Moje startupy',
+      href: '/projects'
     },
     {
       text: 'Teksty',
