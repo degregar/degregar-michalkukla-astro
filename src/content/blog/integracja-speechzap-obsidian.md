@@ -1,6 +1,6 @@
 ---
 created: 2024-06-05T07:36
-updated: 2024-06-17T11:36
+updated: 2024-06-18T15:28
 tags:
   - 1-sukces-dziennie
   - obsidian
@@ -9,7 +9,7 @@ tags:
   - notowanie
   - markdown
   - automatyzacja
-title: Jak zintegrować SpeechZap z Obsidian?
+title: Jak zintegrować dyktafon SpeechZap z Obsidian?
 aliases:
   - Jak zintegrować SpeechZap z Obsidian?
 description: Stworzyłem dyktafon, który ma automatyczną transkrypcję i integracje. Zobacz jak skonfigurować krok po kroku, aby wysyłać transkrypcję automatycznie do Obsidian.

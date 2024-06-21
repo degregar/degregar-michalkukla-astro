@@ -54,7 +54,7 @@ const siteConfig: SiteConfig = {
     },
     {
       text: 'Automatyzacje',
-      href: '/tags/automatyzacja'
+      href: '/automations'
     },
     {
       text: 'Konsulting',
