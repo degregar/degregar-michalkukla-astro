@@ -1,6 +1,6 @@
 ---
 created: 2024-07-01T08:26
-updated: 2024-07-05T10:54
+updated: 2024-07-05T12:26
 title: Jak zrobić tiery usage-based w RevenueCat i Google Play?
 tags:
   - programowanie
@@ -11,8 +11,8 @@ tags:
   - platnosci
 description: Dowiedz się, jak skonfigurować różne pakiety cenowe w Google Play i RevenueCat dla aplikacji mobilnych. W artykule znajdziesz wskazówki dotyczące dodawania subskrypcji, produktów i entitlements, a także uniknięcia typowych błędów. RevenueCat ułatwia zarządzanie subskrypcjami i optymalizuje proces płatności, wspierając Google Play, App Store i Stripe.
 ogDescription: Szybki przewodnik po konfiguracji pakietów cenowych w RevenueCat i Google Play dla aplikacji mobilnych. Uniknij typowych błędów i zoptymalizuj proces płatności.
+publishedAt: 2024-07-01T12:26:00
 ---
-publishedAt: 2024-07-05T10:54
 Kiedy myślę o płatnościach, to myślę to samo, co o uwierzytelnianiu użytkownika:
 > ugh! 😢
 

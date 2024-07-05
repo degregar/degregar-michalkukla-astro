@@ -1,6 +1,6 @@
 ---
 created: 2024-07-04T07:37
-updated: 2024-07-05T10:54
+updated: 2024-07-05T12:26
 tags:
   - 1-sukces-dziennie
   - speechzap
@@ -8,8 +8,8 @@ tags:
   - programowanie
 title: "Nowość w SpeechZap: podświetlanie tekstu"
 description: Zrobiłem w dyktafonie SpeechZap podświetlanie słów, które są aktualnie wypowiadane w nagraniu. Do tego po kliknięciu w konkretne słowo można przejść do fragmentu nagrania, w którym ono pada.
+publishedAt: 2024-07-04T12:25:00
 ---
-publishedAt: 2024-07-05T10:54
 Chcesz sprawdzić, czy transkrypcja w dyktafonie [[speechzap|SpeechZap]] jest dobrze zrobiona? A może chcesz szybko znaleźć konkretny moment w nagraniu?
 
 Zrobiłem w SpeechZap podświetlanie słów, które są aktualnie wypowiadane. Do tego po kliknięciu w konkretne słowo można przejść do fragmentu nagrania, w którym ono pada.

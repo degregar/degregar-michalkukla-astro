@@ -1,6 +1,6 @@
 ---
 created: 2024-06-27T11:01
-updated: 2024-07-05T10:54
+updated: 2024-07-05T12:27
 title: Jak rozliczać się z Google Play za sprzedaż aplikacji?
 aliases:
   - Jak rozliczać się z Google Play za sprzedaż aplikacji?
@@ -13,8 +13,8 @@ tags:
   - marketing
   - sprzedaz
   - ksiegowosc
+publishedAt: 2024-06-27T12:27:00
 ---
-publishedAt: 2024-07-05T10:54
 Tworzę aplikację [[speechzap|SpeechZap]], którą chcę sprzedawać w sklepie [Google Play](https://play.google.com/store/apps/details?id=com.speechzap.mobile) i App Store. 
 Prowadzę spółkę z o.o. i  i byłem przekonany, że muszę sam wystawiać faktury dla użytkowników końcowych. Zawahałem się jednak jeszcze podczas implementacji płatności.
 

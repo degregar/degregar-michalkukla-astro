@@ -1,6 +1,6 @@
 ---
 created: 2024-06-26T06:22
-updated: 2024-07-05T10:54
+updated: 2024-07-05T12:29
 title: Jak dodawać zadania do Remember The Milk za pomocą SpeechZap?
 description: Dowiedz się jak krok po kroku za pomocą Zapier dodać zadania nagrane dyktafonem SpeechZap do aplikacji do zarządzania zadaniami Remember The Milk.
 tags:
@@ -11,8 +11,8 @@ tags:
   - produktywnosc
 aliases:
   - Jak dodawać zadania do Remember The Milk za pomocą SpeechZap?
+publishedAt: 2024-07-04T12:29:00
 ---
-
 Zintegrowałem [Zapierem](https://zapier.com/) w kilka minut [[speechzap|SpeechZap]] i aplikację do zarządzania zadaniami [Remember The Milk](https://www.rememberthemilk.com/), pomimo, że RTM dopiero w wersji Pro umożliwia integrację z Zapierem i dostęp do API. Wystarczyło wysłać maila na specjalny adres.
 
 Za chwilę pokażę Ci krok po kroku jak to zrobiłem.

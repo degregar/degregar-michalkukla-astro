@@ -1,6 +1,6 @@
 ---
 created: 2024-06-26T06:29
-updated: 2024-07-05T10:54
+updated: 2024-07-05T12:29
 aliases:
   - Mój system zarządzania zadaniami
   - System zarządzania niepokojem
@@ -17,8 +17,8 @@ tags:
 description: Poznaj mój unikalny system zarządzania zadaniami, który pomaga minimalizować niepokój i zwiększać produktywność. Dowiedz się, jak efektywnie korzystać z różnych narzędzi, takich jak Google Keep, Obsidian, Remember The Milk, i kalendarz Google, aby osiągać cele i zachować spokój w codziennym życiu.
 ogDescription: Odkryj mój skuteczny system zarządzania zadaniami, minimalizujący stres i zwiększający produktywność.
 title: Mój system zarządzania zadaniami
+publishedAt: 2024-07-04T12:29:00
 ---
-publishedAt: 2024-07-05T10:54
 Czy jest jeden idealny program do zarządzania zadaniami? Nie. Każdy ma jakieś ograniczenia. Dlatego używam kilku.
 
 Mam jednak jeden *system* do zarządzania zadaniami i dzisiaj o nim opowiem.

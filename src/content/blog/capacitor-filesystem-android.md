@@ -1,6 +1,6 @@
 ---
 created: 2024-07-03T07:34
-updated: 2024-07-05T10:54
+updated: 2024-07-05T12:25
 tags:
   - 1-sukces-dziennie
   - ionic
@@ -12,8 +12,8 @@ tags:
 title: Jak rozwiązać problemy z Capacitor Filesystem w aplikacji mobilnej?
 description: Dowiedz się, jak rozwiązać problemy z zapisem plików w aplikacjach mobilnych używających Capacitor Filesystem. Przeczytaj, jak diagnozować błędy i implementować skuteczne rozwiązania dla różnych wersji Androida. Szczegółowy przewodnik krok po kroku.
 ogDescription: Dowiedz się, jak rozwiązać problemy z zapisem plików w aplikacjach mobilnych korzystających z Capacitor Filesystem na różnych wersjach Androida.
+publishedAt: 2024-07-03T12:25:00
 ---
-publishedAt: 2024-07-05T10:54
 Udało mi się naprawić problem z zapisywaniem nagrania w [[speechzap|dyktafonie SpeechZap]], który wykorzystuje [Ionic](https://ionicframework.com/) i [Capacitor Filesystem](https://capacitorjs.com/docs/apis/filesystem). Męczyłem się z tym cały dzień.
 
 Poniżej znajdziesz całą relację i metodę dojścia do rozwiązania. Jeśli chcesz tylko rozwiązanie i kod, to znajdziesz go w sekcji "Rozwiązanie i metoda testowania wersji".

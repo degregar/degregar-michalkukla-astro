@@ -1,6 +1,6 @@
 ---
 created: 2024-06-28T06:46
-updated: 2024-07-05T10:54
+updated: 2024-07-05T12:27
 tags:
   - 1-sukces-dziennie
   - speechzap
@@ -9,8 +9,8 @@ tags:
   - frustracja
 title: SpeechZap po przebojach wreszcie w sklepie Google Play!
 description: To była największa przeprawa, jaką miałem do tej pory z tym sklepem. Nauczyłem się, że Google Play jest bardzo surowe i to nie jest relacja partnerska.
+publishedAt: 2024-06-28T12:27:00
 ---
-publishedAt: 2024-07-05T10:54
 [[speechzap|SpeechZap]] wreszcie w sklepie Google Play! 
 
 To była największa przeprawa, jaką miałem do tej pory z tym sklepem. Nauczyłem się, że Google Play jest bardzo surowe i to nie jest relacja partnerska.
