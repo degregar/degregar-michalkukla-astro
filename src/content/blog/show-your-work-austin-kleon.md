@@ -1,13 +1,15 @@
 ---
 created: 2024-03-25T09:11:00
-updated: 2024-04-10T22:10
+updated: 2024-07-05T10:54
 title: Show Your Work! by Austin Kleon
 tags:
-  - książka
+  - ksiazka
+  - konsumpcja
 aliases:
   - Show Your Work! by Austin Kleon
 description: Wrażenia i notatki z ksiażki "Show Your Work!" autorstwa Austina Kleona
 ---
+
 ## Wrażenia
 
 Na początek ostrzeżenie: książka pozostawia wiele do życzenia. Ma sporo dziur: brakuje wyjaśnień, przykładów, historii sukcesu i ogólnie traktuje temat trochę po macoszemu. Mogłaby (i powinna) być znacznie pogłębiona i mniej chaotyczna. Mimo to jest to najlepsza pozycja (jaką znam), która inspiruje do dzielenia się swoją pracą. (Jeśli znasz lepsze, to podeślij proszę, bo póki co widzę lukę na rynku.)

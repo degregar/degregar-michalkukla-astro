@@ -1,6 +1,6 @@
 ---
 created: 2024-06-11T08:40
-updated: 2024-06-11T16:42
+updated: 2024-07-05T11:00
 title: Zoom in and out
 description: Jak technika zoom in oraz zoom out pomaga w motywacji? Co jest kluczowe w stosowaniu tych technik? Jaki ma związek z metacognition?
 tags:
@@ -54,7 +54,7 @@ Czy jednak wystarczy, że będę ich popełniał dużo? Czy liczy się ilość?
 
 W tym momencie wkracza technika *zoom in*: przyjrzyj się z bliska swojej pracy, efektowi lub doświadczeniu. To krytyczny moment refleksji i uważności.
 
-Jeśli wyizoluję swoją sesję treningową, poddam ocenie, otrzymam **informację zwrotną** (patrz: [[Fail fast|fail fast]]), dowiem się co zrobiłem dobrze, a co źle, wtedy mam szansę na zrozumienie co zrobiłem dobrze a co źle. Dowiem się gdzie popełniłem błąd, a gdzie udało się zbliżyć do celu.
+Jeśli wyizoluję swoją sesję treningową, poddam ocenie, otrzymam **informację zwrotną** (patrz: [[fail-fast|fail fast]]), dowiem się co zrobiłem dobrze, a co źle, wtedy mam szansę na zrozumienie co zrobiłem dobrze a co źle. Dowiem się gdzie popełniłem błąd, a gdzie udało się zbliżyć do celu.
 
 Poprawię się.
 

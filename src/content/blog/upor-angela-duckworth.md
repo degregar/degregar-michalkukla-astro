@@ -1,13 +1,15 @@
 ---
 created: 2023-10-03T11:31
-updated: 2024-05-20T14:02
+updated: 2024-07-05T10:54
 tags:
-  - książka
+  - konsumpcja
+  - ksiazka
 aliases:
   - Upór, Angela Duckworth
 description: "Upór: potęga pasji i wytrwałości, Angela Duckworth, 2016"
 title: Upór, Angela Duckworth
 ---
+
 ## Pierwsze wrażenia
 - Wiele z tych przykładów z rozdzialu pulapki talentu, to osoby, które szukały potwierdzenia z zewnatrz albo chcialy innym udowodnić, że są lepsze niż o nich inni myśleli.
 - Ja też tak mam trochę, że "jeszcze im pokażę", ale nie starcza mi tego paliwa.

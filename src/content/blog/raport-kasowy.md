@@ -1,6 +1,6 @@
 ---
 created: 2024-06-19T09:59
-updated: 2024-06-19T17:21
+updated: 2024-07-05T10:59
 title: Jak zrobić automatyczny raport kasowy z wieloma punktami handlowymi?
 description: Dowiedz się, jak stworzyć automatyczny raport kasowy dla hotelu z wieloma punktami handlowymi. Wykorzystaj arkusze Google do zbierania danych z różnych działów i monitorowania stanu kasy w czasie rzeczywistym. Idealne rozwiązanie dla właścicieli biznesów, którzy chcą uprościć księgowość i zwiększyć efektywność operacyjną.
 tags:
@@ -10,6 +10,8 @@ tags:
   - raporty
   - ksiegowosc
   - biznes
+ogTitle: Jak zrobić automatyczny raport kasowy?
+ogDescription: Dowiedz się, jak stworzyć automatyczny raport kasowy dla hotelu z wieloma punktami handlowymi. Wykorzystaj arkusze Google do zbierania danych z różnych działów i monitorowania stanu kasy w czasie rzeczywistym.
 ---
 W hotelu, w którym pomagam jako konsultant i uwalniam od przykrych, powtarzalnych zadań administracyjno-księgowych, właściciele muszą przygotowywać raport kasowy.
 

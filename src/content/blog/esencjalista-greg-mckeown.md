@@ -1,11 +1,16 @@
 ---
 created: 2023-10-03T11:31
-updated: 2024-04-10T17:50
+updated: 2024-07-05T10:54
 title: Esencjalista, Greg McKeown
 tags:
-  - książka
+  - ksiazka
+  - konsumpcja
 description: Krótkie notatki z książki Grega McKeown, pt. "Esencjalista"
+aliases:
+  - Esencjalista
+  - Esencjalista, Greg McKeown
 ---
+
 Są 3 głęboko zakorzenione przekonania:
 - muszę 
 - to ważne 
