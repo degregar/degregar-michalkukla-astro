@@ -1,0 +1,21 @@
+---
+import type {  Page } from 'astro';
+import { type CollectionEntry } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { Icon } from 'astro-icon/components';
+
+type Props = { page: Page<CollectionEntry<'projects'>> };
+
+const { page } = Astro.props;
+
+---
+
+<BaseLayout
+  title="Konsultacje"
+  description="Oferuję szeroki zakres konsultacji technologicznych i biznesowych, które pomogą Twojej firmie osiągnąć sukces"
+  showHeader={false}
+>
+    <div class="flex justify-center mt-8">
+        <button class="bg-blue-500 text-white py-2 px-4 rounded" onclick="localStorage.setItem('umami.disabled', '1');">Wyłącz Umami</button>
+    </div>
+</BaseLayout>
