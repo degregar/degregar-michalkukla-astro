@@ -1,6 +1,7 @@
 ---
 created: 2024-04-05T17:06
-updated: 2024-04-12T15:32
+publishedAt: 2024-04-05T17:06
+updated: 2024-07-08T15:33
 url: https://www.danpink.com/pinkcast/pinkcast-1-16-2-lists-better-than-a-to-do-list/
 title: "Pinkcast 1.16: 2 lists better than a to-do list"
 aliases:
