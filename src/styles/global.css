@@ -72,3 +72,58 @@
 .prose blockquote p::after {
     content: none;
 }
+
+/* CALLOUTS */
+
+/* Podstawowy styl dla callout */
+.callout {
+    padding: 1rem;
+    border-left: 4px solid;
+    background: #f0f8ff;
+    margin: 1rem 0;
+    border-radius: 4px;
+}
+
+/* Styl dla nagłówka calloutu */
+.callout-title {
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.callout-title p {
+    margin: 0;
+}
+
+/* Styl dla ikony calloutu */
+.callout-icon {
+    margin-right: 0.5rem;
+}
+
+/* Specyficzne style dla różnych typów calloutów */
+.callout.tip {
+    border-color: #00aaff;
+    background: #e6f7ff;
+}
+
+.callout.warning {
+    border-color: #ffaa00;
+    background: #fff3e6;
+}
+
+.callout.danger {
+    border-color: #ff4444;
+    background: #ffe6e6;
+}
+
+.callout.info {
+    border-color: #1e90ff;
+    background: #e6f7ff;
+}
+
+/* Dodatkowe style dla treści calloutu */
+.callout-content p {
+    margin: 0;
+}
+

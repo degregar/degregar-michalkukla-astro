@@ -6,6 +6,8 @@ import wikiLinkPlugin from '@braindb/remark-wiki-link';
 import { bdb } from './src/lib/braindb.mjs';
 import rehypeExternalLinks from 'rehype-external-links';
 import icon from 'astro-icon';
+import remarkCallout from 'remark-callout';
+
 await bdb.ready();
 
 // https://astro.build/config
@@ -26,6 +28,7 @@ export default defineConfig({
   },
   markdown: {
     remarkPlugins: [
+      remarkCallout,
       [
         wikiLinkPlugin,
         {
