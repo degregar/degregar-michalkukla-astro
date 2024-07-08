@@ -1,6 +1,6 @@
 ---
 created: 2024-06-11T08:40
-updated: 2024-07-05T11:00
+updated: 2024-07-08T08:22
 title: Zoom in and out
 description: Jak technika zoom in oraz zoom out pomaga w motywacji? Co jest kluczowe w stosowaniu tych technik? Jaki ma związek z metacognition?
 tags:

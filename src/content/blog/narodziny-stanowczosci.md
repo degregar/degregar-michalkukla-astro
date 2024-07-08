@@ -1,6 +1,6 @@
 ---
 created: 2023-07-01T19:22:00
-updated: 2024-04-10T21:37
+updated: 2024-07-08T09:08
 title: Narodziny stanowczości
 description: Odkryj, jak rozwijać stanowczość i nauczyć się akceptować swoje granice, korzystając z lekcji z natury i historii ludzkości. Dowiedz się, jak zintegrować swoje emocje i nauczyć się z nich korzystać, a nie unikać.
 tags:
@@ -13,7 +13,10 @@ tags:
   - emocje
   - rozwoj-osobisty
   - kultura
+  - parenting
 isFeatured: true
+aliases:
+  - Narodziny stanowczości
 ---
 ![Zdjęcie lwa w czarno-białych barwach](./narodziny-stanowczosci.jpeg)
 

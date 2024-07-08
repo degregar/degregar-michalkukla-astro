@@ -1,6 +1,6 @@
 ---
 created: 2024-04-03T08:21
-updated: 2024-06-17T11:39
+updated: 2024-07-08T09:48
 title: Zakończyłem przenosiny bloga. Markdown rządzi!
 tags:
   - programowanie
@@ -22,7 +22,7 @@ Skonfigurowałem też domenę, aby kierowała na nowy serwer, więc migracja zak
 
 Największym wyzwaniem było podlinkowanie wszystkiego na nowo i ułożenie w nowej strukturze dokumentów [markdown](https://en.wikipedia.org/wiki/Markdown).
 
-Podczas przenosin czułem obawę, że gdyby przyszło mi do głowy, żeby zmienić w przyszłości po raz kolejny framework, to będzie to dość bolesne przeżycie. Jednak markdown jest elastyczną i wdzięczną do edycji strukturą. Można bowiem użyć do zawarcia wszystkich metadanych we [frontmatter](https://dev.to/dailydevtips1/what-exactly-is-frontmatter-123g). Dlatego nie boję się już tak bardzo o kolejną zmianę technologii.
+Podczas przenosin czułem obawę, że gdyby przyszło mi do głowy, żeby zmienić w przyszłości po raz kolejny framework, to będzie to dość bolesne przeżycie. Jednak *markdown* jest elastyczną i wdzięczną do edycji strukturą. Można bowiem użyć do zawarcia wszystkich metadanych we [frontmatter](https://dev.to/dailydevtips1/what-exactly-is-frontmatter-123g). Dlatego nie boję się już tak bardzo o kolejną zmianę technologii.
 
 Teraz liczę na to, że nie będzie problemu z nieistniejącymi linkami. To było dużym problemem, gdy używałem WordPressa i zmieniłem na przykład strukturę linków.
 
