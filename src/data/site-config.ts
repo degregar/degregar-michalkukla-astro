@@ -128,8 +128,8 @@ const siteConfig: SiteConfig = {
     ]
   },
   subscribe: {
-    title: 'Zapisz się do mojego newslettera',
-    text: 'Wszystkie najnowsze posty i projekty dostarczane bezpośrednio do Twojej skrzynki e-mail.',
+    title: 'Dołącz do 500+ subskrybentów i bądź na bieżąco! 🚀',
+    text: 'Wszystkie najnowsze posty i projekty, pogrupowane tematycznie i dostarczane bezpośrednio do Twojej skrzynki e-mail w każdy wtorek. Bez spamu, obiecuję! 🙌',
     formUrl: 'https://app.convertkit.com/forms/5305310/subscriptions'
   },
   postsPerPage: 8,
