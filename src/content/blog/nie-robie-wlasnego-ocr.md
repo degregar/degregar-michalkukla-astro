@@ -1,6 +1,6 @@
 ---
 created: 2024-04-15T08:11
-updated: 2024-04-15T14:47
+updated: 2024-07-09T16:53
 title: Zdecydowałem się nie robić własnego OCR do faktur.
 description: Dlaczego zrezygnowałem ze stworzenia potrzebnego narzędzia? Krótka historia mojego dylematu.
 tags:
@@ -10,12 +10,13 @@ tags:
   - proces
   - startupy
   - saas
+  - ocr
 ---
 Uwielbiam tworzyć narzędzia. Od dziecka starałem się automatyzować co się da. Dołka w ziemi nie umiałem wykopać bez zastanowienia się jak można by tę pracę usprawnić. To jeden z najważniejszych powodów, dla których zostałem programistą. 
 
 Gdy widzę problem, który można spróbować rozwiązać za pomocą technologii, to rzucam się na to jak Kubuś Puchatek na garnuszek pysznego miodku. Dlatego gdy zobaczyłem jak moi rodzice w swojej firmie przepisują dane z faktur do arkusza kalkulacyjnego, to postanowiłem to zautomatyzować.
 
-Technologie [OCR](https://pl.wikipedia.org/wiki/Optyczne_rozpoznawanie_znak%C3%B3w) istnieją od roku 1914. Skanowanie tablic rejestracyjnych jest jednym z praktyczniejszych zastosowań. Samo rozpoznawanie znaków jest teraz stosunkowo proste. Sam robiłem taki algorytm na zajęcia z [computer vision](https://pl.wikipedia.org/wiki/Rozpoznawanie_obraz%C3%B3w). Jednak rozpoznanie który ciąg znaków jest numerem faktury a który kwotą do zapłaty, to już trudniejsza sprawa.
+Technologie [OCR](https://pl.wikipedia.org/wiki/Optyczne_rozpoznawanie_znak%C3%B3w) istnieją [od 1914 roku](https://www.youtube.com/watch?v=w0wuIv1JVGU). Skanowanie tablic rejestracyjnych jest jednym z praktyczniejszych zastosowań. Samo rozpoznawanie znaków jest teraz stosunkowo proste. Sam robiłem taki algorytm na zajęcia z [computer vision](https://pl.wikipedia.org/wiki/Rozpoznawanie_obraz%C3%B3w). Jednak rozpoznanie który ciąg znaków jest numerem faktury a który kwotą do zapłaty, to już trudniejsza sprawa.
 
 Mając doświadczenie jako programista od razu sprawdziłem technologie, z których mógłbym zbudować samodzielnie takiego OCR. Miałem wcześniej doświadczenia z tematem, gdy próbowałem zrobić [[przepisywanie-paragonow-eksperyment|skanowanie paragonów na potrzeby rozliczeń domowych]]. Nie byłem wtedy zadowolony z żadnych dostępnych bibliotek do aplikacji mobilnych, a zewnętrzne usługi były dość drogie.
 
@@ -37,8 +38,8 @@ To mi dało do myślenia. Nie chciałem tak łatwo porzucić idei stworzenia wł
 1. **To nie będzie małe narzędzie.** Bo przydałby się eksport faktur, dostęp wielu użytkowników, filtrowanie, sortowanie i cholera wie co jeszcze. PoC a [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) to dwie różne rzeczy.
 2. **To nie jest coś, co mnie jara.** O ile samo automatyzowanie spoko, o tyle skanowanie faktur nie jest dla mnie sexy. Jest raczej czymś, na czym można łatwo się wyłożyć. To nie jest biznes dla mnie.
 
-Chwilę walczyłem ze sobą, ale ostatecznie uznałem, że wypróbuję wFirma. Koszt niewielki (na dzień pisania to było 49 zł netto /mc), a jak nie będzie działać dobrze, to będę wiedział co mogę zrobić lepiej w moim narzędziu. 
+Chwilę walczyłem ze sobą, ale ostatecznie uznałem, że wypróbuję wFirma. Koszt niewielki (na dzień pisania to było 54 zł netto /mc), a jak nie będzie działać dobrze, to będę wiedział co mogę zrobić lepiej w moim narzędziu. 
 
 I podjęcie tej decyzji uznałem za duży sukces. [[moje-startupy|Zbyt często]] rzucałem się na tworzenie narzędzia tylko dlatego, że mogłem. Wartość dla klienta mogę dostarczyć inną metodą, niż od razu tworzyć dedykowane oprogramowanie. Mogę pomóc znacznie mniejszym kosztem. Odpadają mi miesiące rozwoju oprogramowania, frustracja przy sprzedaży go do innych klientów i późniejsze utrzymanie. Za to zyskuję dużo czasu, który mogę przeznaczyć na rozwój produktu, który daje mi większą satysfakcję.
 
-O efektach tej decyzji opowiem we wpisie [[najlepszy-ocr-na-rynku|Najlepszy OCR na rynku]].
+O efektach tej decyzji opowiem we wpisie [[podsumowanie-wdrozenia-wfirma|Podsumowanie wdrożenia wFirma]]
