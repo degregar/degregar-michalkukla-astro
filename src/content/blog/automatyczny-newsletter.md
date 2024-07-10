@@ -1,6 +1,6 @@
 ---
 created: 2024-07-08T08:43
-updated: 2024-07-08T16:31
+updated: 2024-07-09T18:48
 title: Automatyczny newsletter
 description: Artykuł opisuje proces automatyzacji tworzenia i wysyłki newslettera za pomocą wtyczki do Obsidian. Przedstawia wyzwania związane z regularnym publikowaniem i sposób na ich rozwiązanie przy minimalnym nakładzie czasu.
 ogDescription: Poznaj sposób na automatyzację tworzenia i wysyłki newslettera, który zaoszczędzi Twój czas i pomoże dotrzeć do subskrybentów regularnie i efektywnie.
@@ -33,7 +33,7 @@ Potrzebuję więc czegoś, co nie zajmie mi więcej niż kilka minut, a pozwoli
 
 Próbując różnych biznesów i uruchamiając produkty, od kursów o produktywności po aplikacje mobilne w duchu slow life, gromadziłem adresy e-mail moich klientów lub osób potencjalnie zainteresowanych danym tematem.
 
-W moim systemie do wysyłki newsletterów [ConvertKit](https://convertkit.com/) na różnych listach adresowych mam ponad 500 adresów. Jednak cały czas bujałem się z dylematem: co publikować w tych newsletterach?
+W moim systemie do wysyłki newsletterów [ConvertKit](https://partners.convertkit.com/klgg948khpjo) na różnych listach adresowych mam ponad 500 adresów. Jednak cały czas bujałem się z dylematem: co publikować w tych newsletterach?
 
 Chciałem jednak zacząć wreszcie informować moich subskrybentów (zwłaszcza tych kilku, którzy zapisali się na newsletter z mojego bloga) o nowych wpisach, które mogłyby ich zainteresować.
 
@@ -129,7 +129,7 @@ Co to robi?
 	- tagi (pobrane z *frontmatter*, bo zawsze tam są)
 	- `newsletterDescription` rzecz jasna
 	- dodatkowy link o treści `Przeczytaj`
-3. Tworzy plik w folderze `NEWSLETTERY` do którego wrzuca treść tego wpisu w formacie *markdown* (mogę to wkleić do ConvertKit w ten sposób i ładnie mi sformatuje całość)
+3. Tworzy plik w folderze `NEWSLETTERY` do którego wrzuca treść tego wpisu w formacie *markdown* (mogę to wkleić do [ConvertKit](https://partners.convertkit.com/klgg948khpjo) w ten sposób i ładnie mi sformatuje całość)
 
 I pięknie! Teraz wystarczy kopiuj-wklej i z bani.
 

@@ -1,6 +1,6 @@
 ---
 created: 2023-06-01T19:19:00
-updated: 2024-04-10T22:08
+updated: 2024-07-09T18:49
 title: Samoakceptacja – 3 historie
 description: Odkryj, jak samoakceptacja może przynieść zmiany w twoim życiu. Dowiedz się, jak zrozumieć swoje zalety i słabości, a także jak znaleźć siłę w swojej unikalności.
 tags:
@@ -16,7 +16,7 @@ tags:
 Dzisiaj mam dla Ciebie 3 historie o samoakceptacji.
 ### Historia z Dannym
 
-Korzystam z systemu do wysyłki maili ConvertKit. Ta firma kieruje swoją komunikację do twórców. Zbierają na blogu historie swoich klientów, a potem wysyłają zajawki mailem. Tak trafiłem na [Danny’ego](https://dannysessays.com/).
+Korzystam z systemu do wysyłki maili [ConvertKit](https://partners.convertkit.com/klgg948khpjo). Ta firma kieruje swoją komunikację do twórców. Zbierają na blogu historie swoich klientów, a potem wysyłają zajawki mailem. Tak trafiłem na [Danny’ego](https://dannysessays.com/).
 
 Danny to starszy pan mówiący o procesie twórczym, zwłaszcza w kontekście rysunku. W swoim newsletterze wysyła eseje. Spodobał mi się jego łagodny, lekko chropowaty głos oraz humor wpleciony w zwięzłe, życiowe opowieści.
 
