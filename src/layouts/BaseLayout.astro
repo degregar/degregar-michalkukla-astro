@@ -21,9 +21,15 @@ const isProduction = import.meta.env.MODE === 'production';
             }
         </script>
         <ViewTransitions />
-        {isProduction && (
+
+        {isProduction ? (
           <script defer src="https://data.michalkukla.pl/script.js" data-website-id="271587ef-c0f7-4bfa-a51c-8b259278453e"></script>
+        ) : (
+          <script defer src="https://data.michalkukla.pl/script.js" data-website-id="bdda8a08-72b5-43ff-9fab-8ef3972bb0c5"></script>
         )}
+
+        <script src="/umami-interest-modal.js" defer></script>
+
     </head>
     <body class="bg-main text-main">
         <div class="flex flex-col min-h-screen px-4 md:px-8">

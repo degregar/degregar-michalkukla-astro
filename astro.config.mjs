@@ -10,7 +10,6 @@ import remarkCallout from 'remark-callout';
 
 await bdb.ready();
 
-// https://astro.build/config
 export default defineConfig({
   site: 'https://michalkukla.pl',
   integrations: [
@@ -76,7 +75,7 @@ export default defineConfig({
                 hName: 'span',
                 hProperties: {
                   class: 'broken-link',
-                  title: `Can't resolve link to ${slug}`
+                  onClick: `showModal('${slug}')`
                 },
                 hChildren: [
                   {

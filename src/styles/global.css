@@ -127,3 +127,80 @@
     margin: 0;
 }
 
+/* make it a bit orange and make text decoration a bit further down from the text*/
+.broken-link {
+    @apply text-gray-800;
+    cursor: pointer;
+    text-decoration: underline;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 2px;
+}
+.broken-link:hover {
+    @apply text-gray-900;
+
+}
+
+/* Umami Interest Modal */
+
+.UmamiInterestModal h3 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+
+.UmamiInterestModal p {
+    font-size: 1em;
+    margin-bottom: 15px;
+}
+
+.UmamiInterestModal__Buttons {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.UmamiInterestModal__Buttons button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+    @apply bg-orange-800;
+    color: white;
+    transition: background-color 0.3s;
+}
+
+ .UmamiInterestModal__Buttons button:hover {
+    @apply bg-orange-900;
+}
+
+ .UmamiInterestModal__Buttons #closeUmamiInterestModal {
+    background-color: #6c757d;
+}
+
+ .UmamiInterestModal__Buttons #closeUmamiInterestModal:hover {
+    background-color: #5a6268;
+}
+
+ .UmamiInterestModal input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    font-size: 1em;
+}
+
+ .UmamiInterestModal input[type="email"]:focus {
+    border-color: #80bdff;
+    outline: none;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.25);
+}
+
+ .UmamiInterestModal small {
+    display: block;
+    margin-top: 10px;
+    font-size: 0.85em;
+    color: #6c757d;
+}
