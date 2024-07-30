@@ -1,6 +1,6 @@
 ---
 created: 2023-04-02T10:08:00
-updated: 2024-06-17T09:20
+updated: 2024-07-22T11:51
 title: Polecane książki
 aliases:
   - Polecane książki
@@ -52,6 +52,8 @@ Podanie 5 najważniejszych tytułów to dla mnie dość trudne zadanie, ale post
 
 To lista książek w kolejności, w jakiej je skończyłem. Wiele z nich czytałem po raz kolejny. Mówią, że lepiej przeczytać jedną dobrą książkę kilka razy niż kilka słabych książek jeden raz. _Esencjalistę_ czytałem na przykład 6 razy i jeszcze chcę do niej wrócić.
 
+- *Dreszcz (tom 1)* - J. Ćwiek (lip'24)
+  Marvel w patologicznej Polsce
 - *Kosiarz* - T. Pratchett (cze'24)
   O życiu i Śmierci
 - *Piąty Elefant* - T. Pratchett (cze'24)
