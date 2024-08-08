@@ -1,6 +1,6 @@
 ---
 created: 2024-07-24T08:55
-updated: 2024-07-30T17:50
+updated: 2024-08-05T15:11
 tags:
   - 1-sukces-dziennie
   - automatyzacja
@@ -11,6 +11,8 @@ description: Zautomatyzowane notatki z chaotycznych myśli - dowiedz się, jak s
 ogDescription: Odkryj, jak przekształcić chaotyczne myśli w uporządkowane notatki przy użyciu integracji z aplikacją SpeechZap. Artykuł omawia praktyczne zastosowania automatyzacji, które ułatwią organizację i komunikację.
 newsletterDescription: Czy wiesz, że możesz zamieniać chaotyczne nagrania głosowe w uporządkowane notatki? W najnowszym artykule pokazuję, jak użyć aplikacji SpeechZap i Make.com do automatyzacji tworzenia notatek i wysyłania e-maili. Przeczytaj, jak uprościć swoją codzienną pracę!
 publishedAt: 2024-07-30T17:45
+aliases:
+  - Zautomatyzowane notatki z chaotycznych myśli
 ---
 Zainspirowany projektem [AudioScribe](https://audioscribe.wordware.ai/) zrobiłem integrację do [[speechzap|dyktafonu SpeechZap]], która tworzy zredagowane notatki na podstawie dłuższej refleksji.
 

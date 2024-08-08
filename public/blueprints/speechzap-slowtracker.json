@@ -1,0 +1,891 @@
+{
+    "name": "SpeechZap -> SlowTracker",
+    "flow": [
+        {
+            "id": 1,
+            "module": "gateway:CustomWebHook",
+            "version": 1,
+            "parameters": {
+                "hook": 783998,
+                "maxResults": 1
+            },
+            "mapper": {},
+            "metadata": {
+                "designer": {
+                    "x": 0,
+                    "y": 0
+                },
+                "restore": {
+                    "parameters": {
+                        "hook": {
+                            "data": {
+                                "editable": "true"
+                            },
+                            "label": "My gateway-webhook webhook"
+                        }
+                    }
+                },
+                "parameters": [
+                    {
+                        "name": "hook",
+                        "type": "hook:gateway-webhook",
+                        "label": "Webhook",
+                        "required": true
+                    },
+                    {
+                        "name": "maxResults",
+                        "type": "number",
+                        "label": "Maximum number of results"
+                    }
+                ],
+                "interface": [
+                    {
+                        "name": "filepath",
+                        "type": "text"
+                    },
+                    {
+                        "name": "filesize",
+                        "type": "number"
+                    },
+                    {
+                        "name": "durationMs",
+                        "type": "number"
+                    },
+                    {
+                        "name": "mimeType",
+                        "type": "text"
+                    },
+                    {
+                        "name": "actionsPerformed",
+                        "spec": {
+                            "spec": [
+                                {
+                                    "name": "action",
+                                    "spec": [
+                                        {
+                                            "name": "name",
+                                            "type": "text"
+                                        },
+                                        {
+                                            "name": "url",
+                                            "type": "text"
+                                        },
+                                        {
+                                            "name": "id",
+                                            "type": "number"
+                                        }
+                                    ],
+                                    "type": "collection"
+                                },
+                                {
+                                    "name": "createdAt",
+                                    "type": "text"
+                                },
+                                {
+                                    "name": "status",
+                                    "type": "text"
+                                },
+                                {
+                                    "name": "result",
+                                    "type": "text"
+                                }
+                            ],
+                            "type": "collection"
+                        },
+                        "type": "array"
+                    },
+                    {
+                        "name": "transcription",
+                        "spec": [
+                            {
+                                "name": "uploadStartedAt",
+                                "type": "text"
+                            },
+                            {
+                                "name": "transcriptionStartedAt",
+                                "type": "text"
+                            },
+                            {
+                                "name": "transcriptionModelResponse",
+                                "spec": [
+                                    {
+                                        "name": "id",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "name": "text",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "name": "words",
+                                        "spec": {
+                                            "spec": [
+                                                {
+                                                    "name": "end",
+                                                    "type": "number"
+                                                },
+                                                {
+                                                    "name": "text",
+                                                    "type": "text"
+                                                },
+                                                {
+                                                    "name": "start",
+                                                    "type": "number"
+                                                },
+                                                {
+                                                    "name": "speaker",
+                                                    "type": "text"
+                                                },
+                                                {
+                                                    "name": "confidence",
+                                                    "type": "number"
+                                                }
+                                            ],
+                                            "type": "collection"
+                                        },
+                                        "type": "array"
+                                    },
+                                    {
+                                        "name": "status",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "name": "topics",
+                                        "type": "array"
+                                    },
+                                    {
+                                        "name": "summary",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "name": "chapters",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "name": "entities",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "name": "audio_url",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "name": "punctuate",
+                                        "type": "boolean"
+                                    },
+                                    {
+                                        "name": "throttled",
+                                        "type": "boolean"
+                                    },
+                                    {
+                                        "name": "confidence",
+                                        "type": "number"
+                                    },
+                                    {
+                                        "name": "is_deleted",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "name": "redact_pii",
+                                        "type": "boolean"
+                                    },
+                                    {
+                                        "name": "utterances",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "name": "word_boost",
+                                        "type": "array"
+                                    },
+                                    {
+                                        "name": "boost_param",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "name": "format_text",
+                                        "type": "boolean"
+                                    },
+                                    {
+                                        "name": "speed_boost",
+                                        "type": "boolean"
+                                    },
+                                    {
+                                        "name": "webhook_url",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "name": "audio_end_at",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "name": "disfluencies",
+                                        "type": "boolean"
+                                    },
+                                    {
+                                        "name": "dual_channel",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "name": "multichannel",
+                                        "type": "boolean"
+                                    },
+                                    {
+                                        "name": "speech_model",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "name": "summary_type",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "name": "webhook_auth",
+                                        "type": "boolean"
+                                    },
+                                    {
+                                        "name": "auto_chapters",
+                                        "type": "boolean"
+                                    },
+                                    {
+                                        "name": "custom_topics",
+                                        "type": "boolean"
+                                    },
+                                    {
+                                        "name": "language_code",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "name": "summarization",
+                                        "type": "boolean"
+                                    },
+                                    {
+                                        "name": "summary_model",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "name": "acoustic_model",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "name": "audio_channels",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "name": "audio_duration",
+                                        "type": "number"
+                                    },
+                                    {
+                                        "name": "content_safety",
+                                        "type": "boolean"
+                                    },
+                                    {
+                                        "name": "iab_categories",
+                                        "type": "boolean"
+                                    },
+                                    {
+                                        "name": "language_model",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "name": "redact_pii_sub",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "name": "speaker_labels",
+                                        "type": "boolean"
+                                    },
+                                    {
+                                        "name": "auto_highlights",
+                                        "type": "boolean"
+                                    },
+                                    {
+                                        "name": "custom_spelling",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "name": "audio_start_from",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "name": "entity_detection",
+                                        "type": "boolean"
+                                    },
+                                    {
+                                        "name": "filter_profanity",
+                                        "type": "boolean"
+                                    },
+                                    {
+                                        "name": "redact_pii_audio",
+                                        "type": "boolean"
+                                    },
+                                    {
+                                        "name": "speech_threshold",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "name": "speakers_expected",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "name": "language_detection",
+                                        "type": "boolean"
+                                    },
+                                    {
+                                        "name": "sentiment_analysis",
+                                        "type": "boolean"
+                                    },
+                                    {
+                                        "name": "language_confidence",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "name": "redact_pii_policies",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "name": "webhook_status_code",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "name": "content_safety_labels",
+                                        "spec": [
+                                            {
+                                                "name": "status",
+                                                "type": "text"
+                                            },
+                                            {
+                                                "name": "results",
+                                                "type": "array"
+                                            },
+                                            {
+                                                "name": "summary",
+                                                "spec": [],
+                                                "type": "collection"
+                                            }
+                                        ],
+                                        "type": "collection"
+                                    },
+                                    {
+                                        "name": "custom_topics_results",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "name": "iab_categories_result",
+                                        "spec": [
+                                            {
+                                                "name": "status",
+                                                "type": "text"
+                                            },
+                                            {
+                                                "name": "results",
+                                                "type": "array"
+                                            },
+                                            {
+                                                "name": "summary",
+                                                "spec": [],
+                                                "type": "collection"
+                                            }
+                                        ],
+                                        "type": "collection"
+                                    },
+                                    {
+                                        "name": "auto_highlights_result",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "name": "redact_pii_audio_quality",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "name": "webhook_auth_header_name",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "name": "sentiment_analysis_results",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "name": "language_confidence_threshold",
+                                        "type": "text"
+                                    }
+                                ],
+                                "type": "collection"
+                            },
+                            {
+                                "name": "id",
+                                "type": "text"
+                            },
+                            {
+                                "name": "content",
+                                "type": "text"
+                            },
+                            {
+                                "name": "generatedTags",
+                                "spec": {
+                                    "type": "text"
+                                },
+                                "type": "array"
+                            },
+                            {
+                                "name": "paragraphs",
+                                "spec": {
+                                    "spec": [
+                                        {
+                                            "name": "end",
+                                            "type": "number"
+                                        },
+                                        {
+                                            "name": "text",
+                                            "type": "text"
+                                        },
+                                        {
+                                            "name": "start",
+                                            "type": "number"
+                                        },
+                                        {
+                                            "name": "words",
+                                            "spec": {
+                                                "spec": [
+                                                    {
+                                                        "name": "end",
+                                                        "type": "number"
+                                                    },
+                                                    {
+                                                        "name": "text",
+                                                        "type": "text"
+                                                    },
+                                                    {
+                                                        "name": "start",
+                                                        "type": "number"
+                                                    },
+                                                    {
+                                                        "name": "speaker",
+                                                        "type": "text"
+                                                    },
+                                                    {
+                                                        "name": "confidence",
+                                                        "type": "number"
+                                                    }
+                                                ],
+                                                "type": "collection"
+                                            },
+                                            "type": "array"
+                                        },
+                                        {
+                                            "name": "confidence",
+                                            "type": "number"
+                                        }
+                                    ],
+                                    "type": "collection"
+                                },
+                                "type": "array"
+                            },
+                            {
+                                "name": "paragraphsText",
+                                "type": "text"
+                            },
+                            {
+                                "name": "generatedTitle",
+                                "type": "text"
+                            }
+                        ],
+                        "type": "collection"
+                    },
+                    {
+                        "name": "createdAt",
+                        "type": "text"
+                    },
+                    {
+                        "name": "actionsQueued",
+                        "type": "array"
+                    },
+                    {
+                        "name": "transcriptionStatus",
+                        "type": "text"
+                    },
+                    {
+                        "name": "name",
+                        "type": "text"
+                    },
+                    {
+                        "name": "preferredService",
+                        "type": "text"
+                    },
+                    {
+                        "name": "serverNoteId",
+                        "type": "text"
+                    },
+                    {
+                        "name": "nameSlug",
+                        "type": "text"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "module": "json:CreateJSON",
+            "version": 1,
+            "parameters": {
+                "type": 84550,
+                "space": ""
+            },
+            "mapper": {
+                "label": "{{substring(1.transcription.paragraphsText; 0; 1000)}}",
+                "satisfaction": "2",
+                "tags": [
+                    "speechzap"
+                ],
+                "service": "speechzap",
+                "email": ""
+            },
+            "metadata": {
+                "designer": {
+                    "x": 300,
+                    "y": 0
+                },
+                "restore": {
+                    "parameters": {
+                        "type": {
+                            "label": "SlowTracker Win Create Dto"
+                        },
+                        "space": {
+                            "label": "Empty"
+                        }
+                    },
+                    "expect": {
+                        "tags": {
+                            "mode": "chose",
+                            "items": [
+                                null
+                            ]
+                        },
+                        "email": {
+                            "empty": true
+                        }
+                    }
+                },
+                "parameters": [
+                    {
+                        "name": "type",
+                        "type": "udt",
+                        "label": "Data structure",
+                        "required": true
+                    },
+                    {
+                        "name": "space",
+                        "type": "select",
+                        "label": "Indentation",
+                        "validate": {
+                            "enum": [
+                                "tab",
+                                "2",
+                                "4"
+                            ]
+                        }
+                    }
+                ],
+                "expect": [
+                    {
+                        "name": "label",
+                        "type": "text",
+                        "label": null,
+                        "required": true
+                    },
+                    {
+                        "name": "satisfaction",
+                        "type": "number",
+                        "label": null,
+                        "required": true
+                    },
+                    {
+                        "name": "tags",
+                        "type": "array",
+                        "label": null,
+                        "spec": {
+                            "type": "text",
+                            "name": "value"
+                        }
+                    },
+                    {
+                        "name": "service",
+                        "type": "text",
+                        "label": null
+                    },
+                    {
+                        "name": "email",
+                        "type": "text",
+                        "label": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "module": "http:ActionSendData",
+            "version": 3,
+            "parameters": {
+                "handleErrors": true,
+                "useNewZLibDeCompress": true
+            },
+            "mapper": {
+                "url": "https://api.slowtracker.com/wins",
+                "serializeUrl": false,
+                "method": "post",
+                "headers": [
+                    {
+                        "name": "Authorization",
+                        "value": "Bearer <api-key>"
+                    }
+                ],
+                "qs": [],
+                "bodyType": "raw",
+                "parseResponse": true,
+                "authUser": "",
+                "authPass": "",
+                "timeout": "",
+                "shareCookies": false,
+                "ca": "",
+                "rejectUnauthorized": true,
+                "followRedirect": true,
+                "useQuerystring": false,
+                "gzip": true,
+                "useMtls": false,
+                "contentType": "application/json",
+                "data": "{{5.json}}",
+                "followAllRedirects": false
+            },
+            "metadata": {
+                "designer": {
+                    "x": 600,
+                    "y": 0
+                },
+                "restore": {
+                    "expect": {
+                        "method": {
+                            "mode": "chose",
+                            "label": "POST"
+                        },
+                        "headers": {
+                            "mode": "chose",
+                            "items": [
+                                null
+                            ]
+                        },
+                        "qs": {
+                            "mode": "chose"
+                        },
+                        "bodyType": {
+                            "label": "Raw"
+                        },
+                        "contentType": {
+                            "label": "JSON (application/json)"
+                        }
+                    }
+                },
+                "parameters": [
+                    {
+                        "name": "handleErrors",
+                        "type": "boolean",
+                        "label": "Evaluate all states as errors (except for 2xx and 3xx )",
+                        "required": true
+                    },
+                    {
+                        "name": "useNewZLibDeCompress",
+                        "type": "hidden"
+                    }
+                ],
+                "expect": [
+                    {
+                        "name": "url",
+                        "type": "url",
+                        "label": "URL",
+                        "required": true
+                    },
+                    {
+                        "name": "serializeUrl",
+                        "type": "boolean",
+                        "label": "Serialize URL",
+                        "required": true
+                    },
+                    {
+                        "name": "method",
+                        "type": "select",
+                        "label": "Method",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                "get",
+                                "head",
+                                "post",
+                                "put",
+                                "patch",
+                                "delete",
+                                "options"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "headers",
+                        "type": "array",
+                        "label": "Headers",
+                        "spec": [
+                            {
+                                "name": "name",
+                                "label": "Name",
+                                "type": "text",
+                                "required": true
+                            },
+                            {
+                                "name": "value",
+                                "label": "Value",
+                                "type": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "qs",
+                        "type": "array",
+                        "label": "Query String",
+                        "spec": [
+                            {
+                                "name": "name",
+                                "label": "Name",
+                                "type": "text",
+                                "required": true
+                            },
+                            {
+                                "name": "value",
+                                "label": "Value",
+                                "type": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "bodyType",
+                        "type": "select",
+                        "label": "Body type",
+                        "validate": {
+                            "enum": [
+                                "raw",
+                                "x_www_form_urlencoded",
+                                "multipart_form_data"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "parseResponse",
+                        "type": "boolean",
+                        "label": "Parse response",
+                        "required": true
+                    },
+                    {
+                        "name": "authUser",
+                        "type": "text",
+                        "label": "User name"
+                    },
+                    {
+                        "name": "authPass",
+                        "type": "password",
+                        "label": "Password"
+                    },
+                    {
+                        "name": "timeout",
+                        "type": "uinteger",
+                        "label": "Timeout",
+                        "validate": {
+                            "max": 300,
+                            "min": 1
+                        }
+                    },
+                    {
+                        "name": "shareCookies",
+                        "type": "boolean",
+                        "label": "Share cookies with other HTTP modules",
+                        "required": true
+                    },
+                    {
+                        "name": "ca",
+                        "type": "cert",
+                        "label": "Self-signed certificate"
+                    },
+                    {
+                        "name": "rejectUnauthorized",
+                        "type": "boolean",
+                        "label": "Reject connections that are using unverified (self-signed) certificates",
+                        "required": true
+                    },
+                    {
+                        "name": "followRedirect",
+                        "type": "boolean",
+                        "label": "Follow redirect",
+                        "required": true
+                    },
+                    {
+                        "name": "useQuerystring",
+                        "type": "boolean",
+                        "label": "Disable serialization of multiple same query string keys as arrays",
+                        "required": true
+                    },
+                    {
+                        "name": "gzip",
+                        "type": "boolean",
+                        "label": "Request compressed content",
+                        "required": true
+                    },
+                    {
+                        "name": "useMtls",
+                        "type": "boolean",
+                        "label": "Use Mutual TLS",
+                        "required": true
+                    },
+                    {
+                        "name": "contentType",
+                        "type": "select",
+                        "label": "Content type",
+                        "validate": {
+                            "enum": [
+                                "text/plain",
+                                "application/json",
+                                "application/xml",
+                                "text/xml",
+                                "text/html",
+                                "custom"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "data",
+                        "type": "buffer",
+                        "label": "Request content"
+                    },
+                    {
+                        "name": "followAllRedirects",
+                        "type": "boolean",
+                        "label": "Follow all redirect",
+                        "required": true
+                    }
+                ]
+            }
+        }
+    ],
+    "metadata": {
+        "instant": true,
+        "version": 1,
+        "scenario": {
+            "roundtrips": 1,
+            "maxErrors": 3,
+            "autoCommit": true,
+            "autoCommitTriggerLast": true,
+            "sequential": false,
+            "slots": null,
+            "confidential": false,
+            "dataloss": false,
+            "dlq": false,
+            "freshVariables": false
+        },
+        "designer": {
+            "orphans": []
+        },
+        "zone": "eu2.make.com"
+    }
+}

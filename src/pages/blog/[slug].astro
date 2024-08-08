@@ -113,6 +113,8 @@ const { Content, headings } = await post.render();
         </div>
     </article>
 
+    <Subscribe class="my-16 sm:my-24" />
+
     <Backlinks entry={Astro.props.post as any} />
 
     {
@@ -124,7 +126,6 @@ const { Content, headings } = await post.render();
             </div>
         )
     }
-    <Subscribe class="my-16 sm:my-24" />
 </BaseLayout>
 
 <script>

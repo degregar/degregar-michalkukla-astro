@@ -1,6 +1,6 @@
 ---
 created: 2023-04-02T10:08:00
-updated: 2024-07-22T11:51
+updated: 2024-08-05T09:33
 title: Polecane książki
 aliases:
   - Polecane książki
@@ -52,6 +52,9 @@ Podanie 5 najważniejszych tytułów to dla mnie dość trudne zadanie, ale post
 
 To lista książek w kolejności, w jakiej je skończyłem. Wiele z nich czytałem po raz kolejny. Mówią, że lepiej przeczytać jedną dobrą książkę kilka razy niż kilka słabych książek jeden raz. _Esencjalistę_ czytałem na przykład 6 razy i jeszcze chcę do niej wrócić.
 
+- *Harry Potter (tom 2)* - J.K. Rowling (sie'24)
+- *Harry Potter (tom 1)* - J.K. Rowling (sie'24)
+- *Samsara* - T. Michniewicz (sie'24)
 - *Dreszcz (tom 1)* - J. Ćwiek (lip'24)
   Marvel w patologicznej Polsce
 - *Kosiarz* - T. Pratchett (cze'24)
