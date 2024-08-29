@@ -1,6 +1,6 @@
 ---
 created: 2024-08-02T08:03
-updated: 2024-08-05T15:55
+updated: 2024-08-09T10:08
 tags:
   - 1-sukces-dziennie
   - perfekcjonizm
