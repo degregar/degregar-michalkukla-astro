@@ -1,6 +1,6 @@
 ---
 created: 2024-08-19T07:53
-updated: 2024-08-23T12:52
+updated: 2024-08-29T12:34
 title: 100 akcji marketingowych
 description: Jeśli masz problem z regularnym marketingiem i wolisz większe projekty, ten artykuł pomoże Ci znaleźć sposób na skuteczne dotarcie do klientów. Odkryj, jak zamienić codzienne działania marketingowe w motywujący projekt z wyraźnym celem i korzyściami.
 ogDescription: Jak przekształcić męczące codzienne zadania marketingowe w motywujący projekt z wyraźnym celem.
@@ -24,17 +24,26 @@ Potrzebuję więc mieć wyraźny koniec, który daje nadzieję na osiągnięcie 
 
 Po obejrzeniu inspirującego wideo w [poście Dickiego Busha](https://www.linkedin.com/posts/kukla-michal_the-idea-of-doing-less-gets-a-lot-of-love-activity-7231165875075076096-VbQE?utm_source=share&utm_medium=member_desktop) pomyślałem, że mógłbym zrobić na siebie hacka: **zrobić projekt pt. 100 małych akcji marketingowych**. 
 
-Korzyści:
+## Korzyści z zamknięcia akcji marketingowych w projekt
+
 ✅ Daje nadzieję na dotarcie do większej liczby osób z moim produktem (np. [[speechzap|dyktafon SpeechZap]])
+
 ✅ Widzę wyraźny koniec, bo 100 małych akcji można wykonać nawet w ciągu tygodnia
+
 ✅ Nauczyłbym się mówić o produkcie i szukać różnych metod dotarcia do klientów ([[deliberate-practice|deliberate practice]])
+
 ✅ Dobrze spina się z moim podejściem [[build-in-public]], bo mogę podsumować akcję na blogu
+
 ✅ Mogę wykorzystać [[slowtracker|SlowTracker]] do gromadzenia tych akcji
+
 ✅ To dobra baza do mojego **kolejnego** pomysłu 🙈 na [[marketing-inventory|narzędzie do marketingu]]
 
 Postanowiłem dodać to [wyzwanie do SlowTracker](https://app.slowtracker.com/challenges/c10ac6b6-09ad-471c-a8f9-afecd6fe91b0) i od razu je rozpocząć, bo już napisałem jeden komentarz, który wpasowuje się w akcję.
 
-Dlaczego warto dołączyć do wyzwania w SlowTracker? 
+## Dlaczego warto dołączyć do wyzwania w SlowTracker? 
+
 ✅ AI pomoże Ci wyciągnąć jeszcze więcej wniosków, wzorców, lekcji i satysfakcji z każdego najdrobniejszego działania
+
 ✅ Będziesz czerpać inspirację z tego jak inni sobie radzą
+
 ✅ Zyskasz większą widoczność swoich akcji promocyjnych

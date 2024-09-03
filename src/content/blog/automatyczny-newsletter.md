@@ -1,6 +1,6 @@
 ---
 created: 2024-07-08T08:43
-updated: 2024-07-09T18:48
+updated: 2024-09-03T08:40
 title: Automatyczny newsletter
 description: Artykuł opisuje proces automatyzacji tworzenia i wysyłki newslettera za pomocą wtyczki do Obsidian. Przedstawia wyzwania związane z regularnym publikowaniem i sposób na ich rozwiązanie przy minimalnym nakładzie czasu.
 ogDescription: Poznaj sposób na automatyzację tworzenia i wysyłki newslettera, który zaoszczędzi Twój czas i pomoże dotrzeć do subskrybentów regularnie i efektywnie.
@@ -14,6 +14,7 @@ tags:
   - obsidian
   - blog
   - pisanie
+  - proces
 publishedAt: 2024-07-08T10:33
 ---
 Zrobiłem wreszcie automaty, które pomogą mi konstruować i wysyłać regularnie mailingi. Co prawda nie mam procesu, który by działał, ale wiem, że będę publikował regularnie i mam subskrybentów, którzy czekają na nie.
