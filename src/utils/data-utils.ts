@@ -2,7 +2,12 @@ import { type CollectionEntry } from 'astro:content';
 import { slugify } from './common-utils';
 
 export function sortItemsByDateDesc(itemA: CollectionEntry<'blog' | 'projects'>, itemB: CollectionEntry<'blog' | 'projects'>) {
-  return new Date(itemB.data.created).getTime() - new Date(itemA.data.created).getTime();
+  // @ts-ignore
+  const bDate = itemB.data.publishedAt || itemB.data.created;
+  // @ts-ignore
+  const aDate = itemA.data.publishedAt || itemA.data.created;
+
+  return new Date(bDate).getTime() - new Date(aDate).getTime();
 }
 
 export function getAllTags(posts: CollectionEntry<'blog'>[]) {

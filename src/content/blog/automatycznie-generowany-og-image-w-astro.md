@@ -1,6 +1,6 @@
 ---
 created: 2024-04-11T07:53
-updated: 2024-06-17T11:39
+updated: 2024-09-09T10:40
 title: Jak zrobić na blogu automatycznie generowany obrazek Open Graph w Astro?
 description: Jak zrobić automatycznie generowany podgląd wpisu w Astro? Pokazuję krok po kroku jak ułatwiłem sobie publikację treści na bloga.
 ogTitle: Podgląd, na który patrzysz, został wygenerowany automatycznie w Astro
@@ -13,6 +13,8 @@ tags:
   - seo
   - ssg
   - automatyzacja
+aliases:
+  - Jak zrobić na blogu automatycznie generowany obrazek Open Graph w Astro?
 ---
 Marek Olczyk-Brzeziński pokazał mi u siebie na [blogu](https://marekbrzezinski.pl/) postawionym na Astro w jaki sposób generuje automatycznie obrazek [Open Graph](https://ogp.me/). (To ten, który pokazuje się w social media jako podgląd linku.)
 

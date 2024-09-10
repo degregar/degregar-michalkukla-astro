@@ -1,6 +1,6 @@
 ---
 created: 2024-04-03T12:47
-updated: 2024-07-05T10:54
+updated: 2024-09-09T09:45
 url: https://www.youtube.com/watch?v=Z2BnqYArwaw
 tags:
   - storytelling
@@ -12,11 +12,10 @@ aliases:
   - How to master storytelling? Podcast by Shaan Puri and David Perell
 description: Bardzo inspirujący podcast, z którego wyniosłem 20 konkretnych notatek o storytellingu, dystrybucji treści oraz kreatywności.
 ---
-
 Długi (prawie 2 godziny), inspirujący podcast. Obejrzenie z notatkami zajęło mi 5 dni. Rozmowa od razu zaczyna się od świetnej idei: [[Binge bank zmniejsza obawy przed brakiem aktywności pod publikacjami|binge bank]].
 
 Notatki:
-- [[Esencją storytellingu jest intencja i przeszkoda]]
+- [[intention-and-obstacle]]
 - [[W komedii warto obniżyć swój status]]
 - [[Pisz tak jak mówisz.]]
 - [[Mając zaufanie mogę pozwolić sobie na dygresje. Nie wcześniej.]]

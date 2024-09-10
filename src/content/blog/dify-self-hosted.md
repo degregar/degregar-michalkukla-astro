@@ -1,6 +1,6 @@
 ---
 created: 2024-08-19T16:57
-updated: 2024-08-29T12:25
+updated: 2024-09-06T09:18
 tags:
   - programowanie
   - 1-sukces-dziennie
@@ -11,6 +11,7 @@ tags:
   - innowacje
   - ai
   - wip
+  - self-hosted
 publishedAt: 2024-08-29T12:22
 title: Jak Dify.ai pomaga w automatyzacji i integracji AI w biznesie
 description: Odkryj, jak platforma Dify.ai ułatwia tworzenie i zarządzanie aplikacjami opartymi na dużych modelach językowych (LLM). Dowiedz się, jak integracja AI może zwiększyć efektywność Twoich procesów biznesowych, dzięki automatyzacji i zaawansowanym agentom AI.

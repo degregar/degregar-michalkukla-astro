@@ -1,6 +1,6 @@
 ---
 created: 2024-08-01T09:04
-updated: 2024-08-05T15:54
+updated: 2024-09-09T10:33
 tags:
   - 1-sukces-dziennie
   - marketing
@@ -42,7 +42,7 @@ Moje wyjaśnienia zaakceptował i wyraził mój dylemat - nie wiem co może lepi
 
 Uznałem, że jednak pójdę w kierunku mocniejszej więzi. Na tym wczesnym etapie chcę jak najbardziej wyróżnić się od konkurencji i skoncentrować swoje wysiłki na pozyskaniu grupy, która moim zdaniem najwięcej zyska i najlepiej będzie rozumieć korzyści. 
 
-Podejście *niche down* [[Niche down uwalnia kreatywne sposoby na dotarcie do klientów|uwalnia kreatywne sposoby na dotarcie do klientów]] i [[Niche down ułatwia stworzenie rozwiązania o dużej wartości dla klienta|ułatwia stworzenie rozwiązania o dużej wartości dla klienta]], a ja potrzebuję zdobyć silną grupę *early adopterów*. Nie potrzebuję się jeszcze skalować.
+Podejście *niche down* [[Niche down uwalnia kreatywne sposoby na dotarcie do klientów|uwalnia kreatywne sposoby na dotarcie do klientów]] i [[niche-down-zwieksza-wartosc|ułatwia stworzenie rozwiązania o dużej wartości dla klienta]], a ja potrzebuję zdobyć silną grupę *early adopterów*. Nie potrzebuję się jeszcze skalować.
 
 Wiem, że jest na podobne rozwiązania rynek, bo jest konkurencja. Wiem, że jest potrzeba nagrywania na telefonie, bo opinie o konkurencji też na to wskazują. Nie wiem tylko na ile użytkownicy będą gotowi płacić za to rozwiązanie.
 

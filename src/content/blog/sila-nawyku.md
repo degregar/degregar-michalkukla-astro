@@ -1,6 +1,6 @@
 ---
 created: 2024-05-27T08:33
-updated: 2024-06-07T18:51
+updated: 2024-09-09T08:32
 title: Siła nawyku
 description: Silnie zakorzenione nawyki to koło zamachowe, które pomaga nam być bardziej upartym.
 tags:
@@ -23,4 +23,4 @@ Zwykły spacer, praktykowany codziennie (z grubsza, bo nie zawsze się da), moż
 
 Biegłem całe 20 minut, choć biegam jedynie na treningach w ramach rozgrzewki.
 
-Na koniec tej krótkiej refleksji polecam książkę Charlesa Duhigga pt. *[[sila-nawyku-charles-duhigg|Siła Nawyku]]*. Czytałem przed [[Atomowe Nawyki, James Clear|Atomowymi Nawykami]] Jamesa Cleara i uważam, że świetnie wyjaśnia mechanikę nawyków. Ze względu na opowiadane historie rekomenduję ją zwłaszcza przedsiębiorcom.
+Na koniec tej krótkiej refleksji polecam książkę Charlesa Duhigga pt. *[[sila-nawyku-charles-duhigg|Siła Nawyku]]*. Czytałem przed [[atomowe-nawyki-james-clear|Atomowymi Nawykami]] Jamesa Cleara i uważam, że świetnie wyjaśnia mechanikę nawyków. Ze względu na opowiadane historie rekomenduję ją zwłaszcza przedsiębiorcom.

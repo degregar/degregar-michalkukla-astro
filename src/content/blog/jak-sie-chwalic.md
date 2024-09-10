@@ -1,6 +1,6 @@
 ---
 created: 2024-04-03T15:48
-updated: 2024-04-10T17:24
+updated: 2024-09-09T09:45
 tags:
   - felieton
   - slow-life
@@ -105,7 +105,7 @@ Gdy zapisuję, to nie notuję tylko tego, co zrobiłem. Staram się przede wszys
 - Action (akcja - co zrobiłem, co się wydarzyło, przeszkody, itd.)
 - Result (rezultat - jaki był efekt moich działań)
 
-Znajdziesz w tym *frameworku* intencję i przeszkodę, czyli [[Esencją storytellingu jest intencja i przeszkoda|esencję każdej dobrej opowieści]]. A dobre opowieści świetnie nadają się nie tylko na ocenę okresową, ale też na rozmowę rekrutacyjną, merytoryczne posty na social media, zdobywanie klientów i wesołe anegdoty przy wigilijnym stole.
+Znajdziesz w tym *frameworku* intencję i przeszkodę, czyli [[intention-and-obstacle|esencję każdej dobrej opowieści]]. A dobre opowieści świetnie nadają się nie tylko na ocenę okresową, ale też na rozmowę rekrutacyjną, merytoryczne posty na social media, zdobywanie klientów i wesołe anegdoty przy wigilijnym stole.
 
 Kiedyś na śniadaniach biznesowych (bazujących na marketingu rekomendacji) uczono nas, aby przedstawiać historie sukcesu swoich klientów. Taki storytelling biznesowy. Opowiedz co zrobiłeś i dla kogo, jak ten ktoś osiągnął sukces lub jakie inne korzyści zdobył. W ten sposób osoby, które mają Cię rekomendować, lepiej zapamiętują czym się zajmujesz i w czym możesz pomóc. Historie zapewniają świetną widoczność. Za tym idzie wiarygodność i zyskowność.
 

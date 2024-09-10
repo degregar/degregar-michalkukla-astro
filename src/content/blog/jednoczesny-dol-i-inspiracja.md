@@ -1,6 +1,6 @@
 ---
 created: 2024-06-13T10:14
-updated: 2024-06-13T15:20
+updated: 2024-09-09T09:45
 tags:
   - 1-sukces-dziennie
   - pisanie
@@ -75,7 +75,7 @@ Mam tutaj więc kilka nisko wiszących owoców do zakodowania.
 
 Dużo ostatnio piszę i redaguję. O ile nad jednym wpisem można się zastanawiać dość długo, dopracowywać go i myśleć nad ogólną koncepcją, o tyle jeśli chcę publikować [[1-sukces-dziennie|jeden wpis dziennie]], to wymaga to zarówno krótkiej formy, jak i dość wyraźnego motywu przewodniego.
 
-I z tym motywem przewodnim mam właśnie największy problem. Czuję, że często by się przydał. Michał wspominał o zasadzie *[[Esencją storytellingu jest intencja i przeszkoda|intention and obstacle w storytellingu]]*. Gosia mówiła (i kiedyś Beata również), że artykuł musi być praktyczny.
+I z tym motywem przewodnim mam właśnie największy problem. Czuję, że często by się przydał. Michał wspominał o zasadzie *[[intention-and-obstacle|intention and obstacle w storytellingu]]*. Gosia mówiła (i kiedyś Beata również), że artykuł musi być praktyczny.
 
 Ale ja rzadko piszę artykuły poradnikowe. Mało też w tym historii. Piszę zazwyczaj eseje, takie jak [[bezstronny-czy-bez-wlasnego-zdania|Bezstronny, czy bez własnego zdania?]] Esej nie musi mieć konkluzji. I nie musi opierać się na jednej historii.
 

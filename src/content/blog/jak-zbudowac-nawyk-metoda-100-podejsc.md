@@ -1,6 +1,6 @@
 ---
 created: 2024-04-24T09:07
-updated: 2024-04-25T07:38
+updated: 2024-09-09T08:32
 tags:
   - 1-sukces-dziennie
   - medytacja
@@ -20,7 +20,7 @@ Potem poszedłem na kurs mindfulness. Tam medytacja wyglądała inaczej i na kil
 
 Chciałbym więc odbudować ten nawyk. A jak buduje się nawyki? Powszechne przekonanie jest, że trzeba 66 dni ciągłego powtarzania, aby zbudować nowy nawyk (lub pozbyć się niechcianego). Jednak trzeba mieć sporo samozaparcia, żeby codziennie praktykować.
 
-Jednak ekspert od nawyków, [[Atomowe Nawyki, James Clear|James Clear]], mówi bardziej o czterech zasadach budowania nawyków:
+Jednak ekspert od nawyków, [[atomowe-nawyki-james-clear|James Clear]], mówi bardziej o czterech zasadach budowania nawyków:
 1. **Uczyń to oczywistym** - nawyk powinien być łatwo zauważalny i przypominać o sobie w odpowiednim momencie i miejscu. Można to osiągnąć poprzez stosowanie wskazówek środowiskowych, które sygnalizują, że nadszedł czas na wykonanie nawyku (np. przypomnienie w telefonie lub szklanka wody do wypicia zostawiona na środku stołu kuchennego).
 2. **Uczyń to atrakcyjnym** - dodanie elementu przyjemności do nawyku sprawi, że jego wykonywanie stanie się bardziej kuszące. Łączenie nowego nawyku z czynnością, którą już lubisz, może pomóc w utrwaleniu tego nawyku.
 3. **Uczyń to łatwym** - im mniej wysiłku i bariery do wykonania nawyku, tym łatwiej będzie go utrzymać. Minimalizowanie liczby kroków potrzebnych do rozpoczęcia nowego nawyku jest kluczem do jego sukcesu.

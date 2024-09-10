@@ -1,6 +1,6 @@
 ---
 created: 2023-05-29T19:06:00
-updated: 2024-04-10T22:05
+updated: 2024-09-09T08:32
 title: Podsumowanie WYZWANIA robienia codziennie NOWYCH rzeczy
 description: Odkryj, jak codzienne podejmowanie nowych wyzwań może przynieść zmiany w twoim życiu. Dowiedz się, jak zbudować nawyki sukcesu i odkryć swoje wartości, poprzez regularne doświadczanie czegoś nowego.
 tags:
@@ -170,7 +170,7 @@ Teraz wiem, że dam radę i mam już swój schemat, swoje rutyny i wiem jak to 
 
 Więc na początek możesz zrobić to dla siebie prywatnie, nie musisz sie tym dzielić ze światem. Choć niewątpliwie to daje dodatkową motywację do działania.
 
-Poza tym, jeśli nie podejmiesz wyzwania, to nie wiesz czego nie wiesz o sobie. Dowiesz się. Jeśli brakuje Ci umiejętności budowania nawyków, to się o tym dowiesz. Jeśli to dla Ciebie ważne, to możesz zacząć grzebać i przeczytać książkę _[[Atomowe Nawyki, James Clear|Atomowe nawyki]]_ i się nauczysz.
+Poza tym, jeśli nie podejmiesz wyzwania, to nie wiesz czego nie wiesz o sobie. Dowiesz się. Jeśli brakuje Ci umiejętności budowania nawyków, to się o tym dowiesz. Jeśli to dla Ciebie ważne, to możesz zacząć grzebać i przeczytać książkę _[[atomowe-nawyki-james-clear|Atomowe nawyki]]_ i się nauczysz.
 
 Poznanie siebie to jest dla mnie wartość sama w sobie. Samoświadomość, która pozwala rosnąć.
 

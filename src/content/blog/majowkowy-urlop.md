@@ -1,8 +1,8 @@
 ---
 created: 2024-05-06T08:17
-updated: 2024-05-07T14:33
+updated: 2024-09-06T09:24
 title: Majówkowy urlop w domu
-description: Udało mi się odpocząć od pracy pomimo
+description: Udało mi się odpocząć od pracy pomimo zostania w domu i intensywnych wydarzeń
 tags:
   - 1-sukces-dziennie
   - urlop

@@ -1,6 +1,6 @@
 ---
 created: 2023-04-02T10:08:00
-updated: 2024-08-05T09:33
+updated: 2024-09-03T10:07
 title: Polecane książki
 aliases:
   - Polecane książki
@@ -47,11 +47,15 @@ Podanie 5 najważniejszych tytułów to dla mnie dość trudne zadanie, ale post
 - _Skuszeni. Jak tworzyć produkty kształtujące nawyki konsumenckie._ – Eyal Nir
 - *Flawless Consulting* - Peter Block
 - *Być liderem* - Alex Ferguson
+- *Harry Potter (tom 5)* - J.K. Rowling
+- *Cunk o wszystkim* - Philomena Cunk
 
 ## Ostatnio przeczytałem
 
 To lista książek w kolejności, w jakiej je skończyłem. Wiele z nich czytałem po raz kolejny. Mówią, że lepiej przeczytać jedną dobrą książkę kilka razy niż kilka słabych książek jeden raz. _Esencjalistę_ czytałem na przykład 6 razy i jeszcze chcę do niej wrócić.
 
+- *Harry Potter (tom 4)* - J.K. Rowling (sie'24)
+- *Harry Potter (tom 3)* - J.K. Rowling (sie'24)
 - *Harry Potter (tom 2)* - J.K. Rowling (sie'24)
 - *Harry Potter (tom 1)* - J.K. Rowling (sie'24)
 - *Samsara* - T. Michniewicz (sie'24)
@@ -124,6 +128,7 @@ To lista książek w kolejności, w jakiej je skończyłem. Wiele z nich czytał
 - _Esencjalista_, Greg McKeown
 - _Jedna rzecz_, Gary Keller, Jay Papasan
 - _Najpierw Rzeczy Najważniejsze_, Stephen Covey
+- [[upor-angela-duckworth|Upór, Angela Duckworth]]
 
 ## Duchowość
 
@@ -141,6 +146,7 @@ To lista książek w kolejności, w jakiej je skończyłem. Wiele z nich czytał
 - [[walidacja-pomyslow-biznesowych-4-ksiazki#1-the-four-steps-to-epiphany--steve-blank|The Four Steps to Epiphany – Steve Blank]]
 - [[walidacja-pomyslow-biznesowych-4-ksiazki#3-will-it-fly--patt-flynn|Will It Fly (polski tytuł "Gotowi na start") – Pat Flynn]]
 - [[walidacja-pomyslow-biznesowych-4-ksiazki#4-the-right-it--alberto-savoia|The Right It – Alberto Savoia]]
+- *The Mom Test* - Rob Fitzpatrick
 
 ## Inne
 

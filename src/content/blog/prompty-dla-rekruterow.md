@@ -1,6 +1,6 @@
 ---
 created: 2024-08-29T16:04
-updated: 2024-08-29T16:21
+updated: 2024-09-10T08:36
 tags:
   - gpt
   - prompt-engineering
@@ -107,6 +107,6 @@ List ofertowy to ostatni krok w procesie rekrutacyjnym. Oto, jak uczynić go jak
 
 ## Podsumowanie
 
-Rekrutacja to skomplikowany proces, który wymaga uwzględnienia wielu aspektów – od tworzenia opisów stanowisk, przez rozmowy kwalifikacyjne, po negocjacje wynagrodzeń i *[[skuteczny-onboarding|onboarding]]*. 
+Rekrutacja to skomplikowany proces, który wymaga uwzględnienia wielu aspektów – od tworzenia opisów stanowisk, przez rozmowy kwalifikacyjne, po negocjacje wynagrodzeń i *[[onboarding-dlaczego-warto|onboarding]]*. 
 
 Dzięki powyższym *promptom* możesz skuteczniej zarządzać tym procesem, zwiększając szanse na pozyskanie najlepszych talentów dla Twojej firmy. Wykorzystaj je, aby poprawić swoje działania rekrutacyjne i znaleźć kandydatów, którzy najlepiej pasują do Twojej organizacji.

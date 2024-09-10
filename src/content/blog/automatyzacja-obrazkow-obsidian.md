@@ -1,6 +1,6 @@
 ---
 created: 2024-06-25T07:13
-updated: 2024-07-05T10:54
+updated: 2024-09-09T10:41
 title: Jak zautomatyzować wstawianie obrazków do postów tworzonych w Obsidian?
 description: Dowiedz się, jak stworzyłem skrypt do automatyzacji publikacji obrazków we wpisach na blogu Astro tworzonych w Obsidian. Zobacz, jak zaoszczędzić czas na formatowanie markdown i przenoszenie plików graficznych.
 tags:
@@ -12,6 +12,8 @@ tags:
   - markdown
   - seo
   - produktywnosc
+aliases:
+  - Jak zautomatyzować wstawianie obrazków do postów tworzonych w Obsidian?
 ---
 publishedAt: 2024-07-05T10:54
 Zrobiłem własny skrypt do automatyzacji publikacji obrazków we wpisach na blogu tworzonych w [Obsidian](https://obsidian.md)!
