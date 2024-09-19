@@ -11,14 +11,14 @@
         "deploy": "npm run build && firebase use michalkukla && firebase deploy --only hosting"
     },
     "dependencies": {
-        "@astrojs/mdx": "^3.1.5",
+        "@astrojs/mdx": "^3.1.6",
         "@astrojs/rss": "^4.0.7",
         "@astrojs/sitemap": "^3.1.6",
-        "@astrojs/tailwind": "^5.1.0",
+        "@astrojs/tailwind": "^5.1.1",
         "@braindb/core": "^0.0.14",
         "@braindb/remark-wiki-link": "^2.1.0",
         "@portaljs/remark-wiki-link": "^1.2.0",
-        "astro": "^4.14.6",
+        "astro": "^4.15.7",
         "astro-icon": "^1.1.1",
         "astro-og-canvas": "^0.5.3",
         "github-slugger": "^2.0.0",

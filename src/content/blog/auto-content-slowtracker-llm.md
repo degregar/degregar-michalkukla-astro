@@ -1,6 +1,6 @@
 ---
 created: 2024-08-29T09:45
-updated: 2024-09-03T09:58
+updated: 2024-09-17T08:09
 tags:
   - 1-sukces-dziennie
   - automatyzacja
@@ -35,7 +35,7 @@ Wada, bo trudno jest mi zbudować społeczność, skoro może służyć do tak w
 
 I dlatego WIP wygrywa. Ma już wielu użytkowników, którzy mają wspólne zainteresowania, cele i wyzwania. 
 
-Ten wspólny cel - rozwijać aplikacje - to jest [[Niche down  - zalety i wady|nisza]], którą zagospodarowali w obszarze mediów społecznościowych. I robią to dobrze. Można pokazać swoją aplikację i do tego poznać innych twórców, zwłaszcza *bootstrapperów*.
+Ten wspólny cel - rozwijać aplikacje - to jest [[niche-down-zalety-i-wady|nisza]], którą zagospodarowali w obszarze mediów społecznościowych. I robią to dobrze. Można pokazać swoją aplikację i do tego poznać innych twórców, zwłaszcza *bootstrapperów*.
 
 Mają też tego pewien mechanizm, który zachęca do dodawania wpisów.
 

@@ -1,6 +1,6 @@
 ---
 created: 2023-04-02T10:08:00
-updated: 2024-09-03T10:07
+updated: 2024-09-13T13:45
 title: Polecane książki
 aliases:
   - Polecane książki
@@ -47,13 +47,14 @@ Podanie 5 najważniejszych tytułów to dla mnie dość trudne zadanie, ale post
 - _Skuszeni. Jak tworzyć produkty kształtujące nawyki konsumenckie._ – Eyal Nir
 - *Flawless Consulting* - Peter Block
 - *Być liderem* - Alex Ferguson
-- *Harry Potter (tom 5)* - J.K. Rowling
+- *Harry Potter (tom 6)* - J.K. Rowling
 - *Cunk o wszystkim* - Philomena Cunk
 
 ## Ostatnio przeczytałem
 
 To lista książek w kolejności, w jakiej je skończyłem. Wiele z nich czytałem po raz kolejny. Mówią, że lepiej przeczytać jedną dobrą książkę kilka razy niż kilka słabych książek jeden raz. _Esencjalistę_ czytałem na przykład 6 razy i jeszcze chcę do niej wrócić.
 
+- *Harry Potter (tom 5)* - J.K. Rowling (wrz'24)
 - *Harry Potter (tom 4)* - J.K. Rowling (sie'24)
 - *Harry Potter (tom 3)* - J.K. Rowling (sie'24)
 - *Harry Potter (tom 2)* - J.K. Rowling (sie'24)

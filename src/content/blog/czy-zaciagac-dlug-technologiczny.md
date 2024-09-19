@@ -1,6 +1,6 @@
 ---
 created: 2024-04-23T08:03
-updated: 2024-04-23T16:17
+updated: 2024-09-12T08:56
 title: Czy warto zaciągać dług technologiczny?
 description: Wielu programistów tworzących własne produkty nie zgadza się ze mną w tej kwestii.
 tags:
@@ -61,7 +61,7 @@ Jeśli jesteś jedynym programistą, to czy potrzebujesz zewnętrzne centralne 
 
 Pewnie myślisz, że zaraz zatrudnisz tabun programistów, więc to Ci się przyda. Wręcz musisz to mieć. Albo będziesz musiał się skalować jak szalony.
 
-Otóż najprawdopodobniej nie 🤷‍♂ Nie będziesz się skalował, nie będziesz zatrudniał. Większość projektów i firm upada (źródło: Pareto, pretotyping.org, GUS). Bardziej liczy się to, czego się nauczymy o klientach, ich rzeczywistych potrzebach i jaką wartość tak naprawdę czerpią z Twojego produktu ([[The Mom Test]], [[Agile]]).
+Otóż najprawdopodobniej nie 🤷‍♂ Nie będziesz się skalował, nie będziesz zatrudniał. Większość projektów i firm upada (źródło: Pareto, pretotyping.org, GUS). Bardziej liczy się to, czego się nauczymy o klientach, ich rzeczywistych potrzebach i jaką wartość tak naprawdę czerpią z Twojego produktu ([[the-mom-test]], [[Agile]]).
 
 Bo jak się okaże po tygodniu na rynku, że musisz zrobić piwot i z Twojego produktu zostanie tylko kilka elementów, które właściwie można ograć czymś znacznie prostszym, bez skomplikowanej infrastruktury *cloudowej* czy *pipeline'u* wdrożeniowego, to ogarnie Cię frustracja. 
 
